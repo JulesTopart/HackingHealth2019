@@ -3,6 +3,9 @@ import nltk
 import os
 import csv
 
+from nltk.corpus import stopwords
+stopWords = set(stopwords.words('french'))
+
 from bs4 import BeautifulSoup
 dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, '../data/data_janvier_fevrier_2017.html')
@@ -26,12 +29,18 @@ reports = ""
 for report in reportArray:
     reports += report
 
-tokens = tokenizer.tokenize(reports)
+tokens = []
+words = tokenizer.tokenize(reports)
+for w in words:
+    if w not in stopWords:
+        tokens.append(w)
+
+
 freq = nltk.FreqDist(tokens)
  
 
 
-fname =  os.path.join(dirname, '../data/out.csv')
+fname =  os.path.join(dirname, '../data/tokens.csv')
 file = open(fname, "w")
 
 try:
