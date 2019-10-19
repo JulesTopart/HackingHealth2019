@@ -8,24 +8,6 @@ dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, '../data/data_janvier_fevrier_2017.html')
 
 
-fname =  os.path.join(dirname, '../data/out.csv')
-file = open(fname, "wb")
-
-try:
-    writer = csv.writer(file, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    writer.writerow(["Mots", "Occurences"])
-    #for key,val in freq.items():
-    #    writer.writerow((str(key),val))
-
-finally:
-    file.close()
-
-
-
-
-
-
 dataRaw = open(filename, encoding="utf8")
 
 soup = BeautifulSoup(dataRaw, 'html.parser')
@@ -49,4 +31,15 @@ freq = nltk.FreqDist(tokens)
  
 
 
+fname =  os.path.join(dirname, '../data/out.csv')
+file = open(fname, "w")
 
+try:
+    writer = csv.writer(file, delimiter=' ',
+                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(["Mots", "Occurences"])
+    for key,val in freq.items():
+        writer.writerow((str(key),val))
+
+finally:
+    file.close()
