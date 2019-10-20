@@ -1,0 +1,5451 @@
+Mots Voisins
+
+RENSEIGNEMENTS |[('CLINIQUES', 142)]|
+
+CLINIQUES |[('Biopsie', 18), ('frottis', 14), ('Microscopie', 12), ('1', 12), ('Ponction', 12), ('Placenta', 10), ('Patient', 8), ('Bilan', 8), ('Goitre', 6), ('Greffé', 4), ('patient', 4), ('Transplanté', 4), ('Volumineux', 4), ('Cholécystectomie', 4), ('contraception', 2), ('stérilet', 2), ('Zonectomie', 2), ('Extempo', 2), ('Suite', 2), ('Nodule', 2), ('Glande', 2), ('Exérèse', 2), ('Prélèvement', 2), ('EEH', 2), ('Mastectomie', 2), ('EXTEMPO', 2), ('BSGA', 2), ('Valve', 2), ('Membrane', 2)]|
+
+frottis |[('dépistage', 14), ('FROTTIS', 6), ('comporte', 4), ('ANOMALIE', 4), ('INFLAMMATION', 4), ('ASPECT', 4)]|
+
+dépistage |[('Stérilet', 4), ('grossesse', 4), ('contraception', 4), ('ménopause', 2)]|
+
+Stérilet |[('EXAMEN', 4)]|
+
+EXAMEN |[('MICROSCOPIQUE', 160), ('MACROSCOPIQUE', 110), ('HISTO', 44), ('IMMUNOLOGIQUE', 12), ('EXTEMPORANE', 4), ('MICROSCOCOPIQUE', 4)]|
+
+MICROSCOPIQUE |[('L', 32), ('1', 26), ('Frottis', 18), ('Matériel', 16), ('Le', 14), ('Au', 12), ('A', 10), ('Ces', 8), ('La', 8), ('Les', 4), ('On', 4), ('Ce', 2), ('Prélèvement', 2), ('Histologiquement', 2), ('Sous', 2)]|
+
+Frottis |[('conventionnel', 18), ('légèrement', 6), ('constitué', 4), ('inflammatoire', 2), ('très', 2)]|
+
+conventionnel |[('Etalement', 18)]|
+
+Etalement |[('bonne', 18)]|
+
+bonne |[('qualité', 18)]|
+
+qualité |[('bien', 18)]|
+
+bien |[('interprétable', 18), ('circonscrits', 8), ('différenciées', 8), ('formés', 8), ('limitée', 6), ('rehaussées', 4), ('différencié', 4), ('présente', 4), ('dessinées', 4), ('visibles', 4), ('représentée', 2), ('visible', 2), ('différenciés', 2), ('développées', 2), ('tissu', 2), ('orientée', 2)]|
+
+interprétable |[('Présence', 14), ('Absence', 4)]|
+
+Présence |[('cellules', 14), ('4', 6), ('marquage', 4), ('hématies', 2), ('filaments', 2), ('quelques', 2), ('parathyroïde', 2)]|
+
+cellules |[('tumorales', 40), ('caliciformes', 24), ('endocervicales', 18), ('atypiques', 18), ('malpighiennes', 12), ('diagnostiqué', 8), ('origine', 8), ('noyau', 8), ('adénocarcinomateuses', 8), ('agencent', 8), ('immunoréactives', 6), ('situation', 6), ('épithéliales', 4), ('uniformément', 4), ('superficielles', 4), ('épithélioïdes', 4), ('lymphoplasmocytaires', 2), ('taille', 2), ('principales', 2), ('ciliées', 2)]|
+
+endocervicales |[('normales', 14), ('métaplasie', 4)]|
+
+normales |[('Frottis', 10), ('CONCLUSION', 6), ('Outre', 4), ('Le', 4), ('a', 4), ('Présence', 2), ('2', 2)]|
+
+Outre |[('cellules', 4)]|
+
+malpighiennes |[('superficielles', 6), ('sans', 4), ('normales', 2)]|
+
+sans |[('signe', 18), ('particularité', 8), ('atypie', 8), ('différenciation', 8), ('infiltration', 8), ('nécrose', 8), ('véritable', 8), ('agent', 8), ('lésion', 6), ('augmentation', 6), ('aspect', 6), ('amas', 6), ('atypies', 4), ('remaniements', 4), ('altération', 4), ('modification', 4), ('dysphagie', 4), ('critère', 4), ('dysplasie', 4), ('vomissement', 4), ('infiltrat', 4), ('calcul', 4), ('funiculite', 2), ('sélection', 2), ('image', 2), ('nucléole', 2), ('chorion', 2), ('stenting', 2), ('ulcération', 2)]|
+
+atypies |[('frottis', 4), ('où', 4), ('modérées', 2), ('cytonucléaires', 2)]|
+
+comporte |[('éléments', 4), ('infiltrat', 4), ('clip', 2)]|
+
+éléments |[('assez', 8), ('malpighiens', 6), ('inflammatoires', 6), ('petite', 4), ('halo', 4), ('polyédriques', 4), ('forment', 2), ('naeviques', 2), ('GATA3', 2), ('autour', 2), ('mélanocytaires', 2), ('lymphoplasmocytaires', 2), ('inflammaroires', 2)]|
+
+petite |[('courbure', 24), ('taille', 12), ('cellule', 8), ('cavité', 6), ('inflammation', 4)]|
+
+taille |[('reins', 12), ('variable', 10), ('légèrement', 8), ('normale', 8), ('réguliers', 8), ('cette', 6), ('noyau', 4), ('noyaux', 4), ('cytoplasme', 4), ('modérée', 4), ('basophiles', 2), ('examiné', 2), ('significative', 2), ('moyenne', 2)]|
+
+noyau |[('chromatique', 6), ('parfois', 4), ('plicaturé', 4), ('chiffonné', 4), ('uni', 4)]|
+
+parfois |[('vitreux', 6), ('irrégulier', 4), ('métaplasique', 4), ('verticalisé', 4), ('associée', 4), ('volumineuses', 4), ('centrées', 2), ('fentes', 2), ('congestifs', 2), ('aspect', 2)]|
+
+irrégulier |[('rapport', 4), ('parfois', 4), ('volontiers', 2)]|
+
+rapport |[('chimiothérapie', 10), ('pièce', 8), ('nucléocytoplasmique', 4)]|
+
+nucléocytoplasmique |[('élevé', 4)]|
+
+élevé |[('quelques', 4)]|
+
+quelques |[('fragments', 16), ('éléments', 6), ('remaniements', 6), ('artérioles', 4), ('cellules', 4), ('travées', 4), ('petits', 4), ('lésions', 4), ('polynucléaires', 4), ('cristaux', 2), ('squames', 2), ('neutrophiles', 2), ('coulées', 2), ('débris', 2), ('capillaires', 2), ('carottes', 2), ('rares', 2), ('amas', 2), ('ectasies', 2), ('villosités', 2)]|
+
+halo |[('périnucléaire', 4)]|
+
+périnucléaire |[('noyau', 4)]|
+
+plicaturé |[('pouvant', 4)]|
+
+pouvant |[('faire', 14)]|
+
+faire |[('discuter', 12), ('évoquer', 2)]|
+
+discuter |[('existence', 8), ('traitement', 6), ('infection', 4)]|
+
+infection |[('virale', 4)]|
+
+virale |[('On', 4)]|
+
+On |[('observe', 72), ('note', 58), ('repère', 26), ('retrouve', 8), ('peut', 4), ('retient', 4), ('voit', 4), ('découvre', 2)]|
+
+peut |[('être', 12), ('exclure', 4)]|
+
+exclure |[('formellement', 4)]|
+
+formellement |[('identifiable', 8), ('lésion', 4)]|
+
+lésion |[('tumorale', 24), ('repérée', 8), ('membranaire', 8), ('inflammatoire', 6), ('bien', 6), ('qualifiée', 6), ('2', 6), ('intra', 4), ('MI', 4), ('Mésothéliome', 4), ('1', 4), ('carcinome', 4), ('squamo', 2), ('AUCUN', 2), ('suspicion', 2), ('plane', 2), ('supra', 2), ('usT1N0MX', 2), ('résécable', 2), ('3', 2), ('Il', 2), ('contre', 2)]|
+
+intra |[('épithéliaux', 12), ('épithéliale', 8)]|
+
+épithéliale |[('Pas', 6), ('haut', 4), ('coloration', 4), ('pourtour', 2)]|
+
+haut |[('grade', 4)]|
+
+grade |[('ASC', 4), ('III', 4), ('Elston', 4), ('intermédiaire', 2)]|
+
+ASC |[('H', 8)]|
+
+H |[('CONCLUSION', 4), ('UN', 4), ('7', 2)]|
+
+CONCLUSION |[('1', 28), ('COL', 18), ('ASPIRATION', 16), ('PEAU', 16), ('REIN', 12), ('PLACENTA', 10), ('ARBRE', 8), ('GLANDE', 8), ('ENDOSCOPIE', 8), ('POUMON', 8), ('SEIN', 6), ('EXERESE', 6), ('THYROÏDE', 6), ('BIOPSIES', 4), ('DUODENUM', 4), ('PLEVRE', 4), ('GANGLION', 4), ('VESICULE', 4), ('ESTOMAC', 4), ('NEZ', 2), ('THYROIDE', 2), ('Adénopathie', 2), ('OS', 2), ('Estomac', 2), ('PANCREAS', 2), ('Parathyroïde', 2), ('VALVE', 2), ('MEMBRANE', 2), ('Bronche', 2)]|
+
+COL |[('UTERIN', 18), ('DE', 8)]|
+
+UTERIN |[('frottis', 18)]|
+
+ANOMALIE |[('DES', 4)]|
+
+DES |[('CRYPTES', 6), ('CELLULES', 4), ('DONNEES', 4), ('REPONSES', 2)]|
+
+CELLULES |[('MALPIGHIENNES', 8), ('ENDOCERVICALES', 4)]|
+
+MALPIGHIENNES |[('CELLULES', 4), ('ATYPIQUES', 4)]|
+
+ATYPIQUES |[('SANS', 4)]|
+
+SANS |[('ATROPHIE', 12), ('HELICOBACTER', 12), ('POUVOIR', 4)]|
+
+POUVOIR |[('EXCLURE', 4)]|
+
+EXCLURE |[('UNE', 4)]|
+
+UNE |[('LESION', 12), ('KERATOSE', 2)]|
+
+LESION |[('INTRA', 14), ('CUTANEE', 6), ('MALPIGHIENNE', 4), ('KYSTIQUE', 2)]|
+
+MALPIGHIENNE |[('INTRA', 4)]|
+
+INTRA |[('EPITHELIALE', 30)]|
+
+EPITHELIALE |[('OU', 14), ('CERVICALE', 8), ('DE', 4), ('SANS', 4)]|
+
+DE |[('LA', 26), ('MALIGNITE', 16), ('L', 16), ('LESION', 14), ('SIGNE', 14), ('HAUT', 12), ('GASTRITE', 6), ('GRADE', 6), ('CELLULES', 4), ('CIN2', 4), ('SATALOFF', 4), ('KYSTE', 2), ('CARACTERE', 2)]|
+
+HAUT |[('GRADE', 12)]|
+
+GRADE |[('0', 6), ('ASC', 4), ('CIN2', 4), ('A', 4)]|
+
+UN |[('CONTROLE', 8), ('KYSTE', 2)]|
+
+CONTROLE |[('SERAIT', 4), ('PEUT', 4)]|
+
+SERAIT |[('SOUHAITABLE', 4)]|
+
+SOUHAITABLE |[('RENSEIGNEMENTS', 4)]|
+
+grossesse |[('7', 6), ('EXAMEN', 4)]|
+
+légèrement |[('variable', 8), ('densifiée', 8), ('inflammatoire', 6), ('dystrophiques', 6), ('augmentés', 2), ('amincie', 2)]|
+
+inflammatoire |[('chronique', 20), ('notable', 14), ('constitué', 8), ('composé', 8), ('renfermant', 8), ('cellules', 8), ('lymphoplasmocytaire', 8), ('ni', 6), ('niveau', 6), ('v0', 6), ('significatif', 6), ('interstitiel', 4), ('On', 4), ('peu', 4), ('Autour', 4), ('présence', 2), ('En', 2), ('plus', 2), ('polymorphe', 2), ('lymphocytaire', 2), ('lympho', 2), ('bactérie', 2), ('Examen', 2), ('aigue', 2), ('intensité', 2)]|
+
+constitué |[('cellules', 12), ('éléments', 12), ('entérocytes', 4), ('trame', 4), ('parenchyme', 4), ('3', 2), ('cellulose', 2), ('uniquement', 2), ('matériel', 2)]|
+
+superficielles |[('intermédiaires', 6), ('type', 4)]|
+
+intermédiaires |[('normales', 6)]|
+
+FROTTIS |[('DISCRETEMENT', 6)]|
+
+DISCRETEMENT |[('INFLAMMATOIRE', 6)]|
+
+INFLAMMATOIRE |[('ABSENCE', 6)]|
+
+ABSENCE |[('DE', 20), ('D', 18)]|
+
+OU |[('DE', 14)]|
+
+SIGNE |[('DE', 16)]|
+
+MALIGNITE |[('RENSEIGNEMENTS', 10), ('INTERPRETATION', 4), ('Le', 2)]|
+
+ménopause |[('EXAMEN', 2)]|
+
+contraception |[('EXAMEN', 6)]|
+
+hématies |[('CONCLUSION', 2), ('Le', 2)]|
+
+présence |[('focale', 8), ('aspect', 8), ('population', 6), ('filaments', 4), ('mitoses', 4), ('arteriole', 4), ('nombreuses', 4), ('lésions', 4), ('témoin', 2), ('maturation', 2), ('assez', 2), ('fibroplasie', 2)]|
+
+filaments |[('mycéliens', 20), ('Grocott', 2), ('PAS', 2)]|
+
+mycéliens |[('ni', 18), ('CONCLUSION', 2)]|
+
+INFLAMMATION |[('ET', 2), ('NON', 2)]|
+
+ET |[('DU', 8), ('3', 8), ('FUNDUS', 8), ('FUNDIQUES', 4), ('MYCOSE', 2), ('18', 2)]|
+
+MYCOSE |[('ABSENCE', 2)]|
+
+stérilet |[('EXAMEN', 2)]|
+
+très |[('focale', 12), ('hémorragique', 8), ('grande', 6), ('inflammatoire', 2), ('augmentés', 2), ('atypiques', 2), ('peu', 2)]|
+
+NON |[('ACTIVE', 16), ('ATROPHIQUE', 12), ('SPECIFIQUES', 8), ('SPECIFIQUE', 2), ('EXPLICITE', 2)]|
+
+SPECIFIQUE |[('MARQUEE', 2)]|
+
+MARQUEE |[('ABSENCE', 2)]|
+
+Absence |[('polynucléaires', 18), ('helicobacter', 12), ('expression', 10), ('Helicobacter', 8), ('Hélicobacter', 8), ('lésion', 8), ('rejet', 6), ('infiltrat', 6), ('cellules', 4), ('polype', 4), ('atrophie', 4), ('parasite', 4), ('processus', 4), ('signe', 4), ('polynucléaire', 4), ('kyste', 2), ('envahissement', 2), ('éosinophilie', 2), ('métastase', 2), ('emboles', 2), ('amas', 2), ('dépots', 2), ('élément', 2)]|
+
+métaplasie |[('intestinale', 34), ('cylindrique', 12), ('Frottis', 4)]|
+
+malpighiens |[('normaux', 4), ('bien', 2)]|
+
+normaux |[('Rares', 4)]|
+
+Rares |[('polynucléaires', 4)]|
+
+polynucléaires |[('éosinophiles', 30), ('neutrophiles', 14), ('non', 4)]|
+
+non |[('petites', 16), ('spécifique', 14), ('petite', 8), ('réalisée', 8), ('opposition', 8), ('fait', 6), ('encapsulée', 6), ('encapsulé', 6), ('altérés', 4), ('plus', 4), ('spécifiques', 4), ('atypique', 4), ('atrophiques', 4), ('densifiée', 4), ('inflammatoire', 4), ('immuno', 4), ('associé', 4), ('repérée', 2), ('orientée', 2), ('pigmentée', 2), ('Envahissements', 2), ('Extension', 2), ('tumoral', 2), ('modifications', 2), ('dépôt', 2), ('macrophages', 2), ('fixée', 2), ('teintée', 2), ('Vésicule', 2), ('Collet', 2), ('Réserve', 2), ('EXAMEN', 2), ('active', 2), ('identifiée', 2), ('Histogel', 2), ('cassette', 2)]|
+
+altérés |[('CONCLUSION', 4), ('caduque', 2)]|
+
+ASPECT |[('CYTOLOGIQUE', 4), ('EN', 2), ('HISTOLOGIQUE', 2)]|
+
+CYTOLOGIQUE |[('NORMAL', 4)]|
+
+NORMAL |[('dépourvu', 12), ('ABSENCE', 4)]|
+
+INTERPRETATION |[('BESANÇON', 44), ('LIMITEE', 4)]|
+
+LIMITEE |[('PAR', 4)]|
+
+PAR |[('L', 4), ('HYBRIDATION', 4)]|
+
+L |[('EXTERIEUR', 44), ('examen', 40), ('étude', 34), ('exérèse', 12), ('aspect', 10), ('UTERUS', 8), ('anisocaryose', 6), ('ANTRE', 6), ('entre', 6), ('épiderme', 6), ('ABSENCE', 4), ('analyse', 4), ('anticorps', 4), ('ensemble', 4), ('ENSEMBLE', 4), ('hématurie', 2), ('OREILLE', 2), ('absence', 2), ('inflammation', 2), ('épithélium', 2)]|
+
+ENDOCERVICALES |[('UN', 4)]|
+
+PEUT |[('ETRE', 4)]|
+
+ETRE |[('ENVISAGE', 4)]|
+
+ENVISAGE |[('EN', 4)]|
+
+EN |[('PARAFFINE', 58), ('FONCTION', 4), ('FAVEUR', 2), ('TRANSFORMATION', 2)]|
+
+FONCTION |[('DE', 4)]|
+
+LA |[('MALADIE', 12), ('CLINIQUE', 4), ('LOTIERE', 4), ('LYMPHOCYTOSE', 4), ('rosé', 2), ('JAMBE', 2), ('TETE', 2), ('REPONSE', 2)]|
+
+CLINIQUE |[('RENSEIGNEMENTS', 4)]|
+
+Placenta |[('pesant', 8), ('Césarienne', 6), ('31', 2), ('Grossesse', 2)]|
+
+31 |[('01', 34), ('lact', 6), ('Sa', 2), ('SA', 2)]|
+
+Sa |[('2', 2)]|
+
+2 |[('cm', 24), ('glomérules', 20), ('biopsies', 20), ('3', 18), ('fragments', 16), ('5', 14), ('Clone', 12), ('A', 12), ('Antre', 12), ('L', 10), ('Aspiration', 8), ('Culmen', 8), ('Les', 8), ('Ces', 8), ('ARBRE', 8), ('trois', 8), ('ET', 8), ('carottes', 8), ('4', 8), ('Tiers', 6), ('ŒSOPHAGE', 6), ('6', 6), ('Au', 6), ('sections', 6), ('5cm', 6), ('fils', 4), ('7', 4), ('Biopsies', 4), ('0', 4), ('1', 4), ('Une', 4), ('Gros', 4), ('PYLORE', 4), ('ESTOMAC', 4), ('lésions', 4), ('Valve', 4), ('Grossesse', 2), ('Surcharge', 2), ('QSE', 2), ('Recoupe', 2), ('24', 2), ('HER2', 2), ('présence', 2), ('fundus', 2), ('Histologiquement', 2), ('rhinolite', 2), ('rhinolithe', 2), ('RHINOLITHE', 2), ('idem', 2), ('flacons', 2), ('contributif', 2), ('RE8T', 2), ('2', 2), ('après', 2), ('Curage', 2), ('retromammelonaire', 2), ('UQE', 2), ('T', 2), ('SEIN', 2), ('mm2', 2), ('On', 2), ('VALVE', 2), ('x', 2), ('fines', 2), ('Etat', 2), ('antre', 2), ('Nouveau', 2), ('aspect', 2)]|
+
+Grossesse |[('unique', 4)]|
+
+unique |[('primipare', 2), ('2ème', 2)]|
+
+primipare |[('Poids', 2)]|
+
+Poids |[('51', 6), ('placenta', 4)]|
+
+placenta |[('340', 2), ('dont', 2), ('Il', 2), ('normal', 2), ('520', 2)]|
+
+340 |[('g', 2)]|
+
+g |[('mesurant', 16), ('N', 10), ('24', 10), ('Lobe', 6), ('Ap', 6), ('24h', 4), ('Anomalies', 2), ('L', 2), ('mesure', 2), ('Apgar', 2), ('Indication', 2)]|
+
+Anomalies |[('rythme', 2)]|
+
+rythme |[('cardiaque', 2)]|
+
+cardiaque |[('foetal', 2)]|
+
+foetal |[('RPM', 2)]|
+
+RPM |[('contexte', 2)]|
+
+contexte |[('insufisance', 4), ('infectieux', 2)]|
+
+infectieux |[('prématurité', 2)]|
+
+prématurité |[('LA', 2)]|
+
+rosé |[('EXAMEN', 2)]|
+
+MACROSCOPIQUE |[('Reçu', 16), ('Le', 16), ('Punch', 14), ('1', 12), ('Les', 8), ('Placenta', 8), ('Biopsie', 6), ('Matériel', 6), ('Pièce', 6), ('Vésicule', 4), ('Petit', 2), ('Lobe', 2), ('1ganglion', 2), ('Un', 2), ('Valve', 2), ('Disque', 2), ('Centrifugation', 2)]|
+
+Petit |[('placenta', 2)]|
+
+dont |[('chorion', 20), ('aspect', 16), ('tissu', 16), ('profil', 10), ('interstitium', 8), ('léxérèse', 6), ('surface', 4), ('manque', 2), ('revêtement', 2), ('cellules', 2)]|
+
+manque |[('gros', 2)]|
+
+gros |[('nodule', 6), ('fragment', 2)]|
+
+fragment |[('muqueuse', 12), ('biopsique', 8), ('glande', 4), ('La', 4), ('mesurant', 4), ('marginal', 2), ('cutané', 2), ('0', 2), ('tissu', 2), ('1', 2), ('constitué', 2), ('renferme', 2), ('2', 2)]|
+
+marginal |[('Insertion', 6), ('Hypotrophie', 6), ('bactériologie', 2)]|
+
+bactériologie |[('pesant', 2)]|
+
+pesant |[('290', 6), ('220', 2), ('58', 2), ('11', 2), ('421', 2), ('273', 2), ('425', 2)]|
+
+220 |[('protéinurie', 6), ('g', 2)]|
+
+N |[('CHU', 44), ('P170202009', 8), ('P170202021', 6), ('450', 6), ('P170106015', 4), ('P170106002', 4), ('P170202019', 4), ('P170202020', 4), ('B', 4), ('343', 2), ('P170202005', 2), ('P170202007', 2), ('P170203001', 2), ('P170203002', 2), ('P170202023', 2), ('P170202006', 2), ('P170202008', 2), ('433', 2)]|
+
+343 |[('g', 2)]|
+
+mesurant |[('0', 66), ('15', 8), ('6', 4), ('1', 4), ('5', 2), ('17', 2), ('3', 2), ('2', 2), ('chacun', 2), ('16', 2)]|
+
+15 |[('x', 10)]|
+
+x |[('2', 12), ('4', 8), ('5', 8), ('1', 6), ('3', 6), ('12', 6), ('14', 2), ('18', 2), ('15', 2)]|
+
+14 |[('glomérules', 4), ('x', 2), ('rue', 2)]|
+
+cm |[('long', 48), ('grand', 42), ('EXAMEN', 14), ('Elle', 8), ('0', 8), ('La', 6), ('berge', 6), ('Isthme', 6), ('Lobe', 6), ('remaniement', 6), ('présentant', 6), ('partiellement', 6), ('Insertion', 4), ('diamètre', 4), ('histologiquement', 4), ('parvenant', 2), ('Je', 2), ('grade', 2), ('regard', 2), ('A', 2), ('1', 2), ('Etude', 2), ('comportant', 2), ('coupe', 2), ('prélevée', 2), ('Epaisseur', 2), ('Infiltration', 2), ('marge', 2), ('CONCLUSION', 2), ('Les', 2), ('différentes', 2), ('transmis', 2)]|
+
+Insertion |[('paracentrale', 6), ('paramarginale', 4)]|
+
+paramarginale |[('cordon', 4)]|
+
+cordon |[('ombilical', 14), ('On', 2)]|
+
+ombilical |[('mesure', 8), ('Membranes', 2), ('Les', 2), ('Chorio', 2)]|
+
+Membranes |[('verdâtres', 2)]|
+
+verdâtres |[('EXAMEN', 2)]|
+
+Au |[('niveau', 28), ('microscope', 12), ('total', 4)]|
+
+microscope |[('infarctus', 6), ('observe', 4), ('paroi', 2)]|
+
+observe |[('muqueuse', 24), ('remaniements', 14), ('hyalinose', 12), ('prolifération', 12), ('glomérulite', 8), ('3', 8), ('granulomes', 8), ('cristaux', 6), ('sein', 6), ('marquage', 6), ('fragments', 6), ('cylindres', 4), ('dépôts', 4), ('augmentation', 4), ('hyperplasie', 4), ('microabcès', 4), ('calcifications', 4), ('surface', 4), ('surcharge', 2), ('tubulite', 2), ('jonction', 2), ('contingent', 2), ('formation', 2), ('parfois', 2), ('plages', 2), ('plage', 2), ('discrète', 2), ('parenchyme', 2), ('lésion', 2)]|
+
+surcharge |[('méconiale', 2)]|
+
+méconiale |[('macrophages', 2), ('membranes', 2)]|
+
+macrophages |[('spumeux', 8), ('membranes', 2), ('mousseux', 2)]|
+
+membranes |[('libres', 6), ('CONCLUSION', 2)]|
+
+libres |[('plaque', 4), ('toit', 2)]|
+
+plaque |[('choriale', 12)]|
+
+choriale |[('hématome', 6), ('cordon', 4), ('gelée', 2), ('apposée', 2)]|
+
+gelée |[('Wharton', 2)]|
+
+Wharton |[('cordon', 2)]|
+
+découvre |[('lésions', 2)]|
+
+lésions |[('chroniques', 12), ('carcinome', 6), ('NIDF', 6), ('urticariennes', 6), ('NEOPLASIE', 4), ('dysplasiques', 4), ('GASTRITE', 4), ('comparables', 4), ('hyperplasie', 4), ('amnios', 2), ('inflammatoires', 2), ('1', 2), ('résiduelles', 2)]|
+
+amnios |[('noueux', 2)]|
+
+noueux |[('traduisant', 4)]|
+
+traduisant |[('oligoamnios', 4)]|
+
+oligoamnios |[('chronique', 4)]|
+
+chronique |[('lymphoplasmocytaire', 20), ('non', 6), ('antro', 4), ('intensité', 4), ('ainsi', 2), ('Hypotrophie', 2), ('interstitielle', 2), ('Remaniements', 2), ('RENSEIGNEMENTS', 2), ('chorion', 2), ('sans', 2), ('oxygéno', 2)]|
+
+ainsi |[('pôle', 4), ('nappes', 2), ('espaces', 2), ('quelques', 2)]|
+
+nappes |[('irrégulières', 4), ('polynucléaires', 2), ('inflammatoires', 2), ('hématies', 2)]|
+
+neutrophiles |[('Il', 12), ('altérés', 2), ('Le', 2)]|
+
+caduque |[('pariétale', 2)]|
+
+pariétale |[('membranes', 2), ('ailleurs', 2)]|
+
+toit |[('chambre', 2)]|
+
+chambre |[('inter', 2)]|
+
+inter |[('villeuse', 2)]|
+
+villeuse |[('hyperplasie', 4), ('plaque', 2)]|
+
+Les |[('lames', 24), ('cellules', 24), ('villosités', 18), ('5', 16), ('espaces', 16), ('structures', 14), ('glandes', 12), ('axes', 10), ('cryptes', 10), ('6', 8), ('glomérules', 8), ('prélèvements', 8), ('4', 8), ('blocs', 8), ('coloration', 8), ('tranches', 4), ('capillaires', 4), ('3', 4), ('vaisseaux', 2), ('téguments', 2), ('noyaux', 2), ('fragments', 2), ('septa', 2), ('travées', 2), ('2', 2), ('atypies', 2), ('diagnostics', 2), ('lésions', 2), ('marges', 2), ('adypocytes', 2), ('recoupes', 2)]|
+
+vaisseaux |[('allanto', 2), ('Ailleurs', 2)]|
+
+allanto |[('choriaux', 2)]|
+
+choriaux |[('atteints', 2)]|
+
+atteints |[('Les', 2)]|
+
+villosités |[('hauteur', 16), ('diffusément', 6), ('bien', 4), ('sans', 2), ('Il', 2), ('présentent', 2)]|
+
+particularité |[('La', 4), ('CONCLUSION', 2), ('2', 2)]|
+
+PLACENTA |[('37', 6), ('31', 2), ('36', 2)]|
+
+SA |[('2', 6), ('programmée', 6), ('Volumineux', 6)]|
+
+Surcharge |[('méconiale', 2)]|
+
+Chorio |[('amniotite', 2)]|
+
+amniotite |[('aiguë', 2)]|
+
+aiguë |[('sévère', 2)]|
+
+sévère |[('sans', 2)]|
+
+funiculite |[('Amnios', 2)]|
+
+Amnios |[('noueux', 2)]|
+
+Hypotrophie |[('origine', 6), ('placentaire', 2)]|
+
+placentaire |[('RENSEIGNEMENTS', 2)]|
+
+Patient |[('opéré', 8), ('transplanté', 6)]|
+
+opéré |[('carcinome', 8)]|
+
+carcinome |[('non', 16), ('épidermoïde', 14), ('baso', 8), ('identifié', 8), ('plutôt', 8), ('infiltrant', 8), ('lobulaire', 8), ('papillaire', 6), ('nez', 2), ('mammaire', 2), ('spinocellulaire', 2), ('basocellulaire', 2), ('adénosquameux', 2), ('in', 2)]|
+
+baso |[('cellulaire', 8)]|
+
+cellulaire |[('nez', 8), ('humoral', 6), ('TABLEAU', 2)]|
+
+nez |[('Suspicion', 8), ('examen', 8), ('réalisation', 2)]|
+
+Suspicion |[('lésion', 8), ('syndrome', 2)]|
+
+tumorale |[('identifiable', 16), ('pulmonaire', 8), ('architecture', 8), ('dont', 8), ('formellement', 8), ('aspect', 8), ('plans', 4), ('CONCLUSION', 2), ('mal', 2), ('0', 2), ('péri', 2), ('fibreuse', 2), ('remaniement', 2)]|
+
+pulmonaire |[('1', 8), ('Absence', 8), ('Lymphome', 8), ('dont', 8)]|
+
+1 |[('50', 104), ('100', 88), ('20', 72), ('400', 62), ('200', 56), ('Cell', 48), ('bloc', 44), ('cm', 44), ('150', 32), ('1000', 20), ('250', 20), ('5000', 18), ('Clone', 18), ('Biopsie', 16), ('1500', 16), ('nodule', 16), ('1', 14), ('25', 12), ('BIOPSIE', 12), ('A', 12), ('fragment', 12), ('Antre', 12), ('Dako', 10), ('2', 10), ('3', 10), ('L', 10), ('500', 8), ('biopsie', 8), ('Les', 8), ('Ces', 8), ('ETUDE', 8), ('CK7', 8), ('ROCHE', 8), ('surélévation', 8), ('trois', 8), ('DUODENUM', 8), ('masse', 8), ('Le', 8), ('Biopsies', 6), ('ESTOMAC', 6), ('6', 6), ('gros', 6), ('9', 6), ('rouge', 6), ('5', 4), ('fil', 4), ('Une', 4), ('ANTRE', 4), ('Duodénum', 4), ('Valve', 4), ('an', 2), ('Zonectomie', 2), ('8', 2), ('antre', 2), ('méatotomie', 2), ('matériel', 2), ('méat', 2), ('MEATOTOMIE', 2), ('tumeur', 2), ('contient', 2), ('UQE', 2), ('QIE', 2), ('mm', 2), ('4cm', 2), ('VALVE', 2), ('Orientation', 2), ('anastomose', 2), ('ANASTOMOSE', 2)]|
+
+Biopsie |[('bronchique', 10), ('3', 10), ('sérum', 8), ('1', 8), ('exérèse', 6), ('cutanée', 6), ('glande', 4), ('4ème', 4), ('Ce', 2)]|
+
+bronchique |[('assez', 16), ('2', 8), ('ASPIRATION', 8), ('siège', 8), ('carcinome', 8), ('Biopsies', 8), ('plus', 8), ('adénocarcinome', 8), ('sans', 8), ('bronchopathie', 2)]|
+
+Aspiration |[('bronchique', 16)]|
+
+ASPIRATION |[('BRONCHIQUE', 32)]|
+
+BRONCHIQUE |[('cytologie', 16), ('17Z511', 8), ('DROIT', 8), ('17Z517', 8), ('EPERON', 8), ('CULMEN', 8)]|
+
+17Z511 |[('EXAMEN', 8)]|
+
+Reçu |[('02', 32), ('laboratoire', 16), ('06', 8), ('03', 4)]|
+
+laboratoire |[('6', 8), ('20', 8)]|
+
+6 |[('Clone', 18), ('cm', 12), ('ml', 8), ('fragments', 8), ('Fundus', 8), ('glomérules', 6), ('hyalinose', 6), ('glomérule', 6), ('E1', 6), ('plasmocytes', 4), ('B', 4), ('étages', 4), ('9', 2), ('millimètres', 2), ('TTF1', 2), ('niveaux', 2), ('plans', 2)]|
+
+ml |[('liquide', 16)]|
+
+liquide |[('très', 8), ('hématique', 8)]|
+
+hémorragique |[('inflammatoire', 16), ('muqueux', 8), ('Lobe', 6)]|
+
+muqueux |[('11h07', 8), ('fermé', 4)]|
+
+11h07 |[('31', 8)]|
+
+01 |[('2017', 34), ('02', 24), ('Après', 8), ('12h', 8), ('07', 2)]|
+
+2017 |[('Examen', 44), ('Docteur', 44), ('Les', 24), ('prélèvement', 16), ('vers', 16), ('9h18', 8), ('PBR', 6), ('absence', 2)]|
+
+prélèvement |[('31', 16), ('biopsique', 16), ('inclus', 16), ('destiné', 12), ('On', 10), ('RENSEIGNEMENTS', 8), ('gardé', 8), ('tiers', 6), ('ci1', 2), ('peu', 2), ('sans', 2), ('arrondi', 2)]|
+
+Après |[('centrifugation', 16), ('fixation', 8), ('coloration', 4)]|
+
+centrifugation |[('matériel', 16)]|
+
+matériel |[('Absence', 20), ('a', 18), ('destiné', 12), ('éosinophile', 8), ('biopsique', 8), ('arrivé', 4), ('provient', 2), ('concerne', 2), ('plurifragmentaire', 2), ('cytoponction', 2), ('peu', 2), ('hématique', 2), ('compose', 2), ('La', 2)]|
+
+a |[('demandée', 24), ('débité', 24), ('porté', 22), ('traité', 16), ('lésion', 14), ('dossier', 8), ('infiltrat', 8), ('envahissement', 6), ('également', 6), ('atrophie', 6), ('fait', 4), ('métaplasie', 4), ('véritable', 4), ('pratiquée', 4), ('contingent', 2), ('spongiose', 2), ('non', 2), ('embole', 2), ('marquage', 2), ('3h', 2), ('structure', 2), ('signe', 2), ('titre', 2), ('réalisé', 2), ('permis', 2), ('examiné', 2), ('priori', 2), ('note', 2)]|
+
+traité |[('inclusion', 16), ('radiothérapie', 2)]|
+
+inclusion |[('paraffine', 16)]|
+
+paraffine |[('coupes', 16), ('montre', 8), ('examiné', 2)]|
+
+coupes |[('sériées', 26), ('étagées', 16), ('examinées', 8)]|
+
+étagées |[('coloration', 16), ('On', 4)]|
+
+coloration |[('PAS', 26), ('HES', 16), ('Warthin', 16), ('standard', 12), ('Marinozzi', 8), ('spéciale', 8), ('Warthy', 4), ('Wartin', 2), ('bleu', 2), ('rouge', 2)]|
+
+HES |[('EXAMEN', 18), ('Elle', 6), ('On', 6), ('après', 4), ('Les', 2)]|
+
+Matériel |[('hémorragique', 16), ('renfermant', 8), ('atypique', 8), ('plurifragmentaire', 6), ('plurifragmenté', 2)]|
+
+renfermant |[('nombreuses', 16), ('2', 12), ('4', 6), ('8', 4), ('noyaux', 4), ('0', 2)]|
+
+nombreuses |[('cellules', 16), ('bien', 4), ('parfois', 4), ('calcifications', 4)]|
+
+atypiques |[('souvent', 16), ('très', 4), ('vivement', 2), ('noyau', 2)]|
+
+souvent |[('groupées', 16), ('macronucléolés', 8), ('élargit', 8), ('dystrophiques', 8), ('majorés', 6), ('sans', 2)]|
+
+groupées |[('réduites', 8), ('présentant', 8), ('Il', 2)]|
+
+réduites |[('état', 8)]|
+
+état |[('fixé', 34), ('frais', 24), ('noyaux', 8), ('G', 4), ('tissus', 2)]|
+
+noyaux |[('nus', 8), ('taille', 8), ('réguliers', 6), ('irreguliers', 6), ('moins', 4), ('discrètement', 4), ('ovoïdes', 4), ('ronds', 4), ('ascensionnent', 4), ('très', 2), ('légèrement', 2)]|
+
+nus |[('hyperchromatiques', 8)]|
+
+hyperchromatiques |[('granuleux', 8)]|
+
+granuleux |[('taille', 8), ('mésangiaux', 4)]|
+
+variable |[('Leur', 8), ('irréguliers', 8), ('parfois', 2)]|
+
+Leur |[('aspect', 16)]|
+
+aspect |[('histologique', 34), ('cytologique', 16), ('ischémique', 12), ('vaguement', 8), ('pouvant', 8), ('permettant', 6), ('parfois', 4), ('normal', 2), ('reactionnel', 2), ('adénome', 2), ('microscopique', 2), ('discrètement', 2), ('hydropique', 2), ('sub', 2)]|
+
+cytologique |[('comparable', 8), ('identique', 8)]|
+
+comparable |[('celui', 16)]|
+
+celui |[('tumeur', 16), ('carcinome', 8), ('adénocarcinome', 8), ('NAEVUS', 2)]|
+
+identifié |[('biopsie', 8)]|
+
+biopsie |[('Infiltration', 16), ('mesurant', 12), ('1', 10), ('exérèse', 10), ('voir', 8), ('BIOPSIES', 8), ('examinée', 8), ('Muqueuse', 8), ('Le', 6), ('Récidive', 6), ('mollet', 6), ('population', 6), ('fibrose', 4), ('Aspect', 4), ('duodénale', 4), ('antrale', 4), ('Dermite', 4), ('30', 4), ('Présence', 2), ('kératose', 2), ('Caractères', 2), ('exerese', 2), ('cutanée', 2), ('métastase', 2), ('Gastrite', 2), ('aspect', 2), ('inflammation', 2)]|
+
+voir |[('ci', 16), ('disscusion', 8), ('niveau', 2)]|
+
+ci |[('dessous', 16), ('dessus', 8), ('centrifugé', 2)]|
+
+dessous |[('CONCLUSION', 16)]|
+
+cytologie |[('Matériel', 16)]|
+
+atypique |[('provenant', 8), ('Par', 8), ('recherche', 4), ('intensité', 4), ('hyperpalsie', 4), ('12', 4)]|
+
+provenant |[('vraisemblablement', 8)]|
+
+vraisemblablement |[('carcinome', 8)]|
+
+petites |[('cellules', 16), ('thèques', 2)]|
+
+diagnostiqué |[('biopsie', 8)]|
+
+BIOPSIES |[('BRONCHIQUES', 16), ('DU', 16), ('GASTRIQUES', 4)]|
+
+BRONCHIQUES |[('17P1829', 8), ('17P1845', 8)]|
+
+17P1829 |[('EXAMEN', 8)]|
+
+fragments |[('biopsiques', 78), ('infra', 16), ('2', 8), ('Examen', 8), ('La', 4), ('Sous', 4), ('Il', 4), ('Les', 4), ('tissu', 4), ('prélevés', 2), ('osseux', 2), ('inclus', 2)]|
+
+biopsiques |[('adressés', 32), ('interessent', 32), ('Examen', 4), ('Nature', 4), ('examinés', 4), ('mesurant', 4), ('tissu', 2), ('Il', 2)]|
+
+adressés |[('état', 32)]|
+
+fixé |[('inclus', 26), ('compose', 8), ('formol', 6)]|
+
+inclus |[('totalité', 60), ('paraffine', 10)]|
+
+totalité |[('1', 44), ('3', 8), ('vue', 6), ('2c', 4), ('entres', 4), ('EXAMEN', 2), ('cellules', 2), ('Elle', 2), ('bloc', 2), ('après', 2), ('bloc1', 2)]|
+
+bloc |[('EXAMEN', 18), ('après', 8), ('3', 8), ('bloc', 8), ('1', 8), ('2', 2), ('Examen', 2), ('Il', 2)]|
+
+Ces |[('fragments', 32), ('cellules', 10), ('éléments', 4)]|
+
+interessent |[('muqueuse', 32)]|
+
+muqueuse |[('bronchique', 48), ('gastrique', 46), ('antrale', 18), ('duodénale', 16), ('cryptes', 10), ('fundique', 10), ('malpighienne', 6), ('architecture', 4), ('intestinale', 4), ('infiltrée', 2), ('discrètement', 2), ('tantôt', 2), ('On', 2)]|
+
+siège |[('prolifération', 8), ('infiltrat', 8), ('piqueté', 4), ('modifications', 4), ('importante', 2), ('métastase', 2)]|
+
+prolifération |[('tumorale', 26), ('endo', 12), ('carcinomateuse', 10), ('néoplasique', 4), ('lobulaire', 4), ('occupant', 4), ('développement', 2), ('cellules', 2), ('évoquée', 2), ('éléments', 2)]|
+
+architecture |[('solide', 16), ('papillaire', 6), ('conservée', 6), ('villeuse', 4), ('normale', 2)]|
+
+solide |[('basophile', 8), ('glandulaire', 8)]|
+
+basophile |[('partie', 8)]|
+
+partie |[('écrasée', 8), ('prélèvement', 8), ('haute', 4), ('supérieure', 4), ('excorié', 2)]|
+
+écrasée |[('dont', 8)]|
+
+histologique |[('a', 32), ('faveur', 16), ('comparable', 8), ('identique', 8), ('malignité', 4), ('celui', 2), ('agit', 2), ('précise', 2), ('congélation', 2), ('limites', 2), ('EXAMEN', 2), ('Bonne', 2)]|
+
+faveur |[('œsophagite', 12), ('carcinome', 10), ('adénocarcinome', 8), ('origine', 8), ('affection', 8), ('oesophagite', 6), ('mésothéliome', 4), ('lymphome', 4), ('adénome', 2)]|
+
+plutôt |[('non', 8), ('localisée', 6), ('localisation', 2)]|
+
+cellule |[('A', 8)]|
+
+A |[('L', 48), ('examen', 42), ('coupe', 12), ('confronter', 12), ('noter', 10), ('TYPE', 4), ('CONFRONTER', 4), ('jour', 2), ('D', 2), ('Effet', 2)]|
+
+noter |[('présence', 10)]|
+
+focale |[('aspect', 8), ('EMA', 8), ('CKHMW', 8), ('CK5', 8), ('P63', 8), ('marquée', 6), ('3', 6), ('La', 4), ('prédominant', 4), ('ACE', 4), ('CK7', 4), ('CD15', 4), ('Au', 2)]|
+
+vaguement |[('cribriforme', 8)]|
+
+cribriforme |[('matériel', 8)]|
+
+éosinophile |[('amorphe', 8), ('noyau', 4), ('abondant', 2)]|
+
+amorphe |[('extracellulaire', 8), ('Pas', 2)]|
+
+extracellulaire |[('L', 8)]|
+
+tumeur |[('observé', 8), ('limite', 8), ('observée', 8), ('vivace', 2), ('Sur', 2), ('reste', 2), ('partie', 2), ('lésion', 2), ('Les', 2)]|
+
+observé |[('exérèse', 8), ('biopsies', 8), ('signe', 4), ('Helicobacter', 4), ('territoires', 4), ('ulcération', 2)]|
+
+exérèse |[('complète', 12), ('transfixiante', 8), ('mammaire', 4), ('aspects', 4), ('L', 2), ('cutanée', 2), ('macroscopiquement', 2), ('Remaniements', 2), ('Aspect', 2), ('calcifications', 2)]|
+
+transfixiante |[('pointe', 8)]|
+
+pointe |[('nez', 8)]|
+
+examen |[('microscopique', 68), ('histologique', 20), ('17P1144', 8), ('extemporané', 6), ('macroscopique', 2), ('coupe', 2)]|
+
+17P1144 |[('Il', 8)]|
+
+Il |[('agit', 46), ('a', 44), ('existe', 26), ('persiste', 8), ('inclus', 8), ('observé', 6), ('associe', 4), ('montre', 2), ('examiné', 2), ('vu', 2)]|
+
+agit |[('carotte', 24), ('donc', 8), ('muqueuse', 8), ('fragment', 6), ('carcinome', 2), ('épithélium', 2)]|
+
+donc |[('peut', 8), ('présence', 6), ('souhaitables', 2)]|
+
+être |[('tumeur', 8), ('cicatriciel', 4), ('discutés', 2)]|
+
+limite |[('matériel', 8), ('prélèvement', 8)]|
+
+biopsique |[('adressé', 18), ('examiné', 8), ('mesurant', 4), ('3', 2)]|
+
+examiné |[('dont', 8), ('extemporané', 2), ('trois', 2), ('selon', 2), ('sous', 2), ('3', 2)]|
+
+tissu |[('cortical', 20), ('tumoral', 16), ('conjonctif', 8), ('corticomédullaire', 4), ('ganglionnaire', 4), ('ferme', 2), ('non', 2), ('fibreux', 2), ('recouvert', 2), ('mou', 2), ('pancréatique', 2), ('parathyroidien', 2), ('périmusculaire', 2)]|
+
+tumoral |[('peu', 8), ('beaucoup', 8), ('CONCLUSION', 8), ('blanchatre', 6), ('infiltrant', 4), ('infiltration', 2), ('profondeur', 2), ('ETUDE', 2), ('Petite', 2)]|
+
+peu |[('abondant', 18), ('modifiées', 14), ('élargis', 4), ('élargi', 4), ('densifié', 4), ('densifiée', 4), ('ramifiées', 4), ('significatif', 2), ('dense', 2), ('remaniée', 2), ('nombreux', 2), ('musculaire', 2)]|
+
+abondant |[('écrasé', 8), ('De', 8), ('Les', 4), ('noyaux', 4), ('pigment', 2), ('On', 2), ('représentatif', 2)]|
+
+écrasé |[('rapport', 8)]|
+
+pièce |[('opératoire', 12), ('fournie', 2), ('3', 2), ('cholécystectomie', 2)]|
+
+opératoire |[('dont', 8), ('Les', 2), ('prélevée', 2), ('CONCLUSION', 2)]|
+
+beaucoup |[('plus', 8)]|
+
+plus |[('moins', 26), ('souvent', 10), ('abondant', 8), ('a', 8), ('observe', 8), ('moitié', 6), ('grand', 6), ('dense', 6), ('50', 4), ('discrète', 4), ('bourgeonnement', 2), ('lâche', 2), ('indurées', 2), ('1', 2), ('granulome', 2)]|
+
+De |[('plus', 16), ('multiples', 4), ('nouvelles', 2)]|
+
+dossier |[('anatomopathologique', 8)]|
+
+anatomopathologique |[('concernant', 8)]|
+
+concernant |[('carcinome', 8), ('nodule', 2)]|
+
+épidermoïde |[('larynx', 8), ('Caractères', 2), ('De', 2), ('traité', 2)]|
+
+larynx |[('connu', 8)]|
+
+connu |[('chez', 8)]|
+
+chez |[('patient', 8), ('patiente', 4)]|
+
+patient |[('disponible', 8), ('consulte', 4), ('IRC', 4)]|
+
+disponible |[('ni', 8)]|
+
+ni |[('levures', 18), ('métaplasie', 18), ('atrophie', 12), ('service', 8), ('Axigate', 8), ('mitose', 8), ('dysplasie', 8), ('infiltrat', 6), ('dystrophie', 6), ('nécrose', 6), ('calcification', 6), ('cristaux', 4), ('ulcèration', 4), ('différenciation', 4), ('lesion', 4), ('Helycobacter', 4), ('néovaisseaux', 2)]|
+
+service |[('ni', 8), ('Bactériologie', 6)]|
+
+Axigate |[('ETUDE', 8)]|
+
+ETUDE |[('IMMUNOHISTOCHIMIQUE', 54), ('PAR', 4)]|
+
+IMMUNOHISTOCHIMIQUE |[('SUR', 54)]|
+
+SUR |[('COUPES', 46), ('COUPE', 12), ('LES', 2)]|
+
+COUPES |[('EN', 46)]|
+
+PARAFFINE |[('Machine', 48), ('Automate', 10)]|
+
+Machine |[('automate', 48)]|
+
+automate |[('Ventana', 38), ('Roche', 12)]|
+
+Ventana |[('Benchmark', 64), ('Roche', 4), ('Réf', 4), ('anti', 2), ('Elle', 2)]|
+
+Benchmark |[('XT', 60), ('Sonde', 4)]|
+
+XT |[('Cette', 24), ('ULTRA', 18), ('CK7', 6), ('lésions', 4), ('E', 4), ('donne', 2), ('Ultra', 2)]|
+
+Cette |[('étude', 24), ('fibrose', 2)]|
+
+étude |[('a', 24), ('immunohistochimique', 22), ('microscopique', 20), ('histologique', 12), ('immunologique', 12), ('immuno', 4)]|
+
+demandée |[('urgence', 24)]|
+
+urgence |[('01', 24)]|
+
+02 |[('2017', 120), ('02', 56), ('2005', 6), ('1986', 4), ('1979', 2)]|
+
+lames |[('reçues', 24), ('empreintes', 4), ('tumeur', 2)]|
+
+reçues |[('07', 16), ('09', 8)]|
+
+09 |[('02', 8), ('1976', 4), ('01', 4)]|
+
+vers |[('16h00', 8), ('10h00', 8), ('bord', 2), ('profondeur', 2)]|
+
+16h00 |[('CK', 8)]|
+
+CK |[('AE1', 18)]|
+
+AE1 |[('AE3', 36)]|
+
+AE3 |[('Clone', 18), ('Cell', 18)]|
+
+Clone |[('8G7G3', 44), ('OV', 32), ('SP6', 22), ('AE1', 18), ('D5', 18), ('K20', 18), ('E29', 16), ('Ber', 16), ('MRQ', 12), ('EPR2764Y', 12), ('L26', 12), ('HBME', 10), ('34BE12', 8), ('123C3', 8), ('LK2H10', 8), ('SP', 8), ('1E2', 8), ('HI98', 8), ('PGM1', 8), ('13H4', 6), ('V9', 6), ('9', 6), ('2H11', 6), ('NCH38', 6), ('II', 4), ('6F', 4), ('JCB', 4), ('Alk', 4), ('SP1', 2), ('4B5', 2)]|
+
+Cell |[('Marque', 108), ('MArque', 4)]|
+
+Marque |[('1', 108)]|
+
+400 |[('positive', 8), ('positivité', 8), ('négative', 8), ('TTF1', 8), ('absence', 8), ('EXAMEN', 6), ('faible', 6), ('BER', 4), ('CD3', 4), ('met', 2)]|
+
+positive |[('intense', 40), ('focale', 16), ('assez', 8), ('très', 8), ('hétérogène', 8), ('faible', 8)]|
+
+assez |[('massivement', 16), ('nombreux', 12), ('focale', 8), ('diffuse', 8), ('lâche', 8), ('discret', 8), ('petite', 8), ('nette', 2), ('grande', 2), ('marquée', 2)]|
+
+EMA |[('Clone', 16), ('EBV', 4), ('E29', 2)]|
+
+E29 |[('Bio', 16), ('Prédilué', 2)]|
+
+Bio |[('Sb', 16), ('SB', 6)]|
+
+Sb |[('1', 16)]|
+
+1500 |[('positive', 8), ('positivité', 4), ('EBV', 4)]|
+
+CKHMW |[('CK34', 8)]|
+
+CK34 |[('Clone', 8)]|
+
+34BE12 |[('Dako', 8)]|
+
+Dako |[('1', 78), ('pur', 4)]|
+
+100 |[('positive', 16), ('C4', 12), ('positif', 10), ('Il', 8), ('négative', 8), ('CD3', 8), ('TTF1', 6), ('Vimentine', 6), ('cellules', 4), ('CD15', 4), ('négatif', 4), ('CD20', 4), ('Décision', 2), ('HER2', 2), ('immunohistochimie', 2)]|
+
+CK5 |[('6', 20)]|
+
+D5 |[('16', 18)]|
+
+16 |[('B4', 18), ('06', 2), ('x', 2)]|
+
+B4 |[('Dako', 18)]|
+
+50 |[('positive', 16), ('IgG', 12), ('IgM', 12), ('Polyclonal', 12), ('négatif', 10), ('technique', 8), ('positif', 8), ('CK7', 6), ('CD15', 4), ('EMA', 4), ('CK5', 4), ('CONCLUSION', 4), ('mitoses', 2), ('DAKO', 2), ('éléments', 2), ('P63', 2), ('inférieur', 2)]|
+
+P63 |[('clone', 22)]|
+
+clone |[('4A4', 22), ('D5F3', 16), ('D2', 4), ('cs1', 4), ('A53', 2)]|
+
+4A4 |[('BIOCARE', 22)]|
+
+BIOCARE |[('1', 34)]|
+
+intense |[('diffuse', 40), ('quasi', 2)]|
+
+diffuse |[('BER', 8), ('CK20', 8), ('CDX', 8), ('P63', 8), ('TTF1', 8), ('ALK', 8), ('épaississant', 2)]|
+
+BER |[('EP4', 12)]|
+
+EP4 |[('Clone', 12), ('dilué', 2)]|
+
+Ber |[('Ep4', 12), ('H2', 4), ('EP4', 2)]|
+
+Ep4 |[('Dako', 12)]|
+
+hétérogène |[('CD56', 8), ('plus', 2)]|
+
+CD56 |[('NCAM', 8)]|
+
+NCAM |[('Clone', 8)]|
+
+123C3 |[('GENEMED', 8)]|
+
+GENEMED |[('1', 8)]|
+
+technique |[('non', 8), ('HES', 2)]|
+
+réalisée |[('Chromogranine', 8), ('après', 2)]|
+
+Chromogranine |[('Clone', 8)]|
+
+LK2H10 |[('PHE5', 8)]|
+
+PHE5 |[('Thermo', 8)]|
+
+Thermo |[('Scientific', 8)]|
+
+Scientific |[('1', 8)]|
+
+1000 |[('négative', 8), ('KI', 8), ('Les', 4)]|
+
+négative |[('TTF1', 16), ('CONCLUSION', 14), ('Synaptophysine', 8), ('KI', 8), ('ALK', 8), ('Biopsie', 8), ('RO', 8), ('RP', 8)]|
+
+Synaptophysine |[('Clone', 8)]|
+
+MRQ |[('40', 8), ('43', 4)]|
+
+40 |[('Cell', 8), ('lymphocytes', 4), ('clone', 4), ('Dako', 4)]|
+
+500 |[('négative', 8)]|
+
+TTF1 |[('Clone', 44), ('Etant', 6), ('Les', 2)]|
+
+8G7G3 |[('1', 44)]|
+
+200 |[('positive', 16), ('négative', 8), ('CD68', 8), ('CD20', 8), ('positif', 4), ('négatif', 4), ('CD30', 4), ('TTF1', 2), ('Les', 2)]|
+
+KI |[('67', 22)]|
+
+67 |[('Mib', 22)]|
+
+Mib |[('Clone', 22)]|
+
+SP6 |[('Thermoscientific', 22)]|
+
+Thermoscientific |[('1', 22)]|
+
+positivité |[('environ', 8), ('membranaire', 4), ('focale', 4)]|
+
+environ |[('90', 8), ('2', 2)]|
+
+90 |[('cellules', 8)]|
+
+tumorales |[('CONCLUSION', 10), ('possedent', 6), ('atypiques', 4), ('expriment', 4), ('CD20', 4), ('taille', 4), ('très', 2), ('arrondies', 2), ('RO', 2), ('présentent', 2)]|
+
+ARBRE |[('BRONCHIQUE', 24)]|
+
+DROIT |[('biopsie', 14), ('KYSTE', 2), ('Exérèse', 2)]|
+
+Infiltration |[('muqueuse', 16), ('tumorale', 2)]|
+
+origine |[('indeterminée', 8), ('pulmonaire', 8), ('vasculaire', 6), ('pancréatique', 2)]|
+
+indeterminée |[('voir', 8)]|
+
+disscusion |[('ci', 8)]|
+
+dessus |[('RENSEIGNEMENTS', 6), ('PRELEVEMENT', 2)]|
+
+PRELEVEMENT |[('ENVOYE', 38)]|
+
+ENVOYE |[('A', 44)]|
+
+EXTERIEUR |[('POUR', 44)]|
+
+POUR |[('INTERPRETATION', 44)]|
+
+BESANÇON |[('PATHOLOGIE', 44)]|
+
+PATHOLOGIE |[('EXAMEN', 44)]|
+
+HISTO |[('CYTOPATHOLOGIQUE', 44)]|
+
+CYTOPATHOLOGIQUE |[('Prescripteur', 44)]|
+
+Prescripteur |[('Dr', 38), ('Pr', 6)]|
+
+Pr |[('RIETHMULLER', 4), ('TAVERNIER', 2)]|
+
+RIETHMULLER |[('Didier', 4)]|
+
+Didier |[('N', 4)]|
+
+CHU |[('envoyé', 44), ('17P1850', 8), ('17P1842', 6), ('17P183', 4), ('17P184', 4), ('17P1851', 4), ('17P1852', 4), ('17P1833', 2), ('17P1835', 2), ('17P1836', 2), ('17P1837', 2), ('17P1843', 2), ('17P1848', 2), ('17P1849', 2)]|
+
+17P183 |[('Reçu', 4)]|
+
+06 |[('01', 8), ('2006', 2), ('03', 2)]|
+
+Examen |[('N', 44), ('microscopique', 28), ('normal', 8), ('standard', 4)]|
+
+P170106015 |[('Dr', 4)]|
+
+Dr |[('Ansart', 44), ('Bedgedjian', 44), ('Clairotte', 44), ('Depret', 44), ('Joly', 44), ('Petitjean', 44), ('Ringenbach', 44), ('VALMARY', 44), ('KOCH', 20), ('CHOTARD', 6), ('BLANC', 4), ('MERMET', 4), ('Faivre', 2), ('ROCHE', 2), ('CHATELAIN', 2)]|
+
+Ansart |[('Frédéric', 44)]|
+
+Frédéric |[('Dr', 44), ('Tel', 44), ('RINGENBACH', 10)]|
+
+Bedgedjian |[('Isabelle', 44)]|
+
+Isabelle |[('Dr', 44), ('N', 4)]|
+
+Clairotte |[('Anne', 44)]|
+
+Anne |[('Dr', 44), ('CLAIROTTE', 6)]|
+
+Depret |[('Olivier', 44)]|
+
+Olivier |[('Dr', 44), ('DEPRET', 6)]|
+
+Joly |[('Marie', 44)]|
+
+Marie |[('Dr', 44), ('MCPRELEVEMENT', 2), ('MCRENSEIGNEMENTS', 2), ('SLRENSEIGNEMENTS', 2)]|
+
+Petitjean |[('Alain', 44)]|
+
+Alain |[('Dr', 44), ('PETITJEAN', 16), ('NJF', 4)]|
+
+Ringenbach |[('Frédéric', 44)]|
+
+Tel |[('03', 44)]|
+
+03 |[('81', 88), ('02', 16), ('04', 8), ('1935', 2), ('1970', 2)]|
+
+81 |[('47', 88)]|
+
+47 |[('21', 88)]|
+
+21 |[('25', 44), ('26', 44), ('03', 2), ('EXAMEN', 2)]|
+
+25 |[('Fax', 44), ('P504', 6), ('négatif', 6), ('La', 2)]|
+
+Fax |[('03', 44)]|
+
+26 |[('DROMARD', 8), ('JEAN', 6), ('NGUYEN', 4), ('BASSIGNOT', 4), ('HERMANN', 4), ('GRAS', 4), ('BERGIER', 2), ('PAPILLARD', 2), ('JACQUES', 2), ('GAUTHIER', 2), ('AUBERT', 2), ('ANDRASIK', 2), ('KLINGUER', 2), ('Zytomed', 2)]|
+
+NGUYEN |[('Karine', 4)]|
+
+Karine |[('NJF', 4)]|
+
+NJF |[('Sexe', 36), ('DUARTE', 4), ('ROCHET', 2), ('HUGUES', 2)]|
+
+DUARTE |[('Sexe', 4)]|
+
+Sexe |[('M', 30), ('F', 14)]|
+
+F |[('née', 14), ('0198', 12), ('09199', 12), ('0254', 12), ('0201', 12), ('0169', 12), ('0111', 12), ('0117', 12)]|
+
+née |[('27', 4), ('11', 4), ('21', 2), ('17', 2), ('06', 2)]|
+
+27 |[('09', 4)]|
+
+1976 |[('9', 4), ('14', 2)]|
+
+9 |[('C4', 6), ('9ème', 6), ('rue', 4), ('cm', 4), ('x', 2), ('g', 2)]|
+
+rue |[('Vallée', 4), ('Pasteur', 4), ('Centre', 2), ('Morteau', 2), ('Vesoul', 2)]|
+
+Vallée |[('25480', 4)]|
+
+25480 |[('MISEREY', 4)]|
+
+MISEREY |[('SALINES', 4)]|
+
+SALINES |[('Dr', 4)]|
+
+VALMARY |[('DEGANO', 44)]|
+
+DEGANO |[('Séverine', 44)]|
+
+Séverine |[('Service', 44)]|
+
+Service |[('Anatomie', 44)]|
+
+Anatomie |[('Pathologique', 44)]|
+
+Pathologique |[('Centre', 44)]|
+
+Centre |[('Hospitalier', 44), ('25320', 2)]|
+
+Hospitalier |[('Jean', 44)]|
+
+Jean |[('Minjoz', 44), ('Pierre', 4), ('Claude', 2)]|
+
+Minjoz |[('25030', 44)]|
+
+25030 |[('BESANCON', 44)]|
+
+BESANCON |[('CEDEX', 44), ('Dr', 4)]|
+
+CEDEX |[('Prélèvement', 44)]|
+
+Prélèvement |[('techniqué', 44), ('frais', 4), ('constitué', 2), ('osseux', 2), ('2', 2)]|
+
+techniqué |[('CHU', 44)]|
+
+envoyé |[('diagnostic', 44), ('relecture', 4)]|
+
+diagnostic |[('Clinique', 16), ('ENDOSCOPIE', 16), ('2015', 8), ('EXERESE', 6), ('BIOPSIES', 4), ('BIOPSIE', 2)]|
+
+DU |[('BULBE', 16), ('COL', 8), ('SERUM', 8), ('FUNDUS', 8), ('LOBE', 8), ('DOSSIER', 4), ('DERME', 2), ('SILLON', 2), ('PANCREAS', 2)]|
+
+UTERUS |[('Clinique', 4), ('CONDYLOME', 4)]|
+
+Clinique |[('symptomatologie', 12), ('Contrôle', 8), ('Bilan', 6), ('LGSIL', 4), ('Grande', 4), ('Recherche', 4), ('Diarrhée', 4), ('Patiente', 2), ('Lésion', 2), ('Naevus', 2), ('Kyste', 2), ('Perle', 2), ('Exérèse', 2)]|
+
+LGSIL |[('zone', 4)]|
+
+zone |[('marginale', 8), ('TAG1', 4), ('cryptes', 4), ('kystique', 2)]|
+
+TAG1 |[('Caractères', 4)]|
+
+Caractères |[('macroscopiques', 26)]|
+
+macroscopiques |[('Un', 8), ('1', 8), ('Deux', 4), ('Cf', 2), ('Exérèse', 2), ('Matériel', 2)]|
+
+Deux |[('biopsies', 8), ('fragments', 4)]|
+
+microscopique |[('observe', 36), ('1', 22), ('montre', 12), ('concerne', 12), ('prélèvement', 8), ('L', 4), ('lésion', 4), ('Le', 4), ('PEAU', 4), ('A', 4), ('ESTOMAC', 4), ('EXAMEN', 4), ('3', 4), ('CONDUIT', 2), ('a', 2), ('normal', 2), ('calcifiée', 2), ('valve', 2), ('2', 2)]|
+
+analyse |[('montre', 4), ('morphologique', 2)]|
+
+montre |[('lésions', 8), ('double', 8), ('modifications', 8), ('nodules', 8), ('villosités', 8), ('parenchyme', 8), ('fibrose', 6), ('architecture', 6), ('cellules', 6), ('2', 4), ('dépôts', 4), ('prolifération', 4), ('caractère', 2), ('existence', 2), ('immunoréactivité', 2), ('quelques', 2), ('anomalie', 2), ('aucune', 2), ('hyperplasie', 2), ('Helicobacter', 2)]|
+
+NEOPLASIE |[('INTRA', 8)]|
+
+CERVICALE |[('DE', 8)]|
+
+CIN2 |[('associées', 4), ('Le', 4)]|
+
+associées |[('condylome', 4), ('métaplasie', 4), ('contingent', 2)]|
+
+condylome |[('viral', 4)]|
+
+viral |[('Au', 8), ('Le', 4)]|
+
+Le |[('prélèvement', 34), ('chorion', 28), ('02', 24), ('matériel', 22), ('03', 12), ('revêtement', 10), ('derme', 6), ('deux', 6), ('11', 4), ('09', 4), ('flacon', 4), ('cas', 4), ('parenchyme', 4), ('nombre', 2), ('long', 2), ('reste', 2), ('contingent', 2), ('cytoplasme', 2), ('pigment', 2), ('conjonctif', 2), ('sous', 2), ('fragment', 2), ('stroma', 2), ('petit', 2)]|
+
+revêtement |[('surface', 6), ('malpighien', 4), ('bordure', 4), ('cylindrique', 4), ('devient', 4), ('Il', 4), ('canalicules', 4), ('fait', 2), ('court', 2), ('type', 2), ('plus', 2), ('amniotique', 2), ('épithélial', 2)]|
+
+malpighien |[('NORMAL', 12), ('bordure', 4), ('aminci', 2)]|
+
+bordure |[('aspect', 4), ('constitué', 4)]|
+
+métaplasique |[('montre', 4)]|
+
+3 |[('cm', 20), ('3', 12), ('glomérules', 12), ('hauteur', 8), ('L', 8), ('plans', 8), ('Eperon', 8), ('Les', 8), ('Ces', 8), ('CK7', 8), ('ARBRE', 8), ('Fundus', 8), ('blocs', 8), ('Corps', 8), ('5', 6), ('La', 6), ('Tiers', 6), ('biopsies', 6), ('ŒSOPHAGE', 6), ('Absence', 6), ('Examen', 6), ('5x2', 6), ('moyen', 6), ('Clone', 6), ('ESTOMAC', 6), ('blancs', 6), ('étages', 6), ('g', 4), ('2', 4), ('mm', 4), ('6', 4), ('ANTRE', 4), ('Deux', 4), ('BIOPSIES', 4), ('FUNDUS', 4), ('De', 4), ('4', 4), ('fragments', 4), ('premieres', 4), ('dernieres', 4), ('Chevallier', 2), ('glandes', 2), ('infiltrats', 2), ('Chisholm', 2), ('zones', 2), ('retromammelonaire', 2), ('associées', 2), ('1', 2), ('T', 2), ('fundus', 2)]|
+
+hauteur |[('normale', 12), ('cellules', 4), ('épithélium', 4), ('sensiblement', 4), ('revêtement', 4)]|
+
+chromatique |[('irrégulier', 6)]|
+
+verticalisé |[('présence', 4)]|
+
+mitoses |[('étagées', 4), ('plus', 2), ('10', 2)]|
+
+retrouve |[('focalement', 4), ('spongiose', 4), ('niveau', 4), ('petite', 2)]|
+
+focalement |[('gigantocellulaires', 8), ('cellules', 4), ('tranche', 2), ('parakératosique', 2), ('imbibées', 2), ('calcifiés', 2)]|
+
+chiffonné |[('aspects', 4)]|
+
+aspects |[('koilocytaires', 4), ('morphologiques', 4)]|
+
+koilocytaires |[('L', 4)]|
+
+immuno |[('histo', 4), ('réactive', 4)]|
+
+histo |[('chimique', 4)]|
+
+chimique |[('donne', 4)]|
+
+donne |[('résultats', 6)]|
+
+résultats |[('suivants', 6)]|
+
+suivants |[('Automate', 4), ('Antigène', 2)]|
+
+Automate |[('Roche', 10), ('Ventana', 4)]|
+
+dysplasiques |[('bien', 4)]|
+
+rehaussées |[('anticorps', 4)]|
+
+anticorps |[('anti', 40)]|
+
+anti |[('IgA', 12), ('C4d', 8), ('ALK', 8), ('mastocyte', 6), ('P16', 4), ('Ki67', 4), ('CD3', 4), ('E', 4), ('RO', 2), ('ER', 2), ('HER', 2)]|
+
+P16 |[('ink4a', 4)]|
+
+ink4a |[('prédilué', 4)]|
+
+prédilué |[('CINTEC', 4), ('Ventana', 4)]|
+
+CINTEC |[('Ventana', 4)]|
+
+Roche |[('Ventana', 26), ('L', 4)]|
+
+Ki67 |[('marque', 4)]|
+
+marque |[('nombreux', 4)]|
+
+nombreux |[('macrophages', 8), ('noyaux', 4), ('glomérules', 4), ('polynucléaires', 4), ('foyers', 4), ('Absence', 2)]|
+
+moins |[('5', 10), ('déchirée', 8), ('bien', 8), ('dizaine', 6), ('2', 4), ('dilatées', 4), ('10', 2), ('0', 2), ('marqué', 2), ('stratifié', 2), ('indurée', 2)]|
+
+épithélium |[('malpighien', 14), ('cubique', 8), ('pneumocytaire', 8), ('t0', 6), ('cylindrique', 6), ('CONCLUSION', 4), ('pôle', 4), ('recouvrement', 2), ('typiquement', 2)]|
+
+CONDYLOME |[('VIRAL', 4)]|
+
+VIRAL |[('AVEC', 4)]|
+
+AVEC |[('HYPERCRINIE', 6), ('NEOPLASIE', 4), ('MICRO', 2)]|
+
+TYPE |[('DE', 4)]|
+
+11 |[('cm', 6), ('01', 4), ('1946', 4), ('02', 4), ('mm', 4), ('ganglions', 4), ('2016', 4), ('9', 2), ('Au', 2)]|
+
+Docteur |[('Alain', 16), ('Frédéric', 10), ('JOLY', 6), ('Olivier', 6), ('Anne', 6)]|
+
+JOLY |[('Marie', 6)]|
+
+MCPRELEVEMENT |[('ENVOYE', 2)]|
+
+MCRENSEIGNEMENTS |[('CLINIQUES', 2)]|
+
+Microscopie |[('optique', 12)]|
+
+optique |[('oui', 12)]|
+
+oui |[('Immunofluorescence', 12), ('HISTOIRE', 12), ('non', 12), ('leucocyturie', 10), ('Electronique', 4), ('traces', 2), ('nécrose', 2), ('hémorragies', 2), ('foyers', 2), ('Score', 2)]|
+
+Immunofluorescence |[('oui', 12)]|
+
+HISTOIRE |[('DE', 12)]|
+
+MALADIE |[('Date', 12)]|
+
+Date |[('début', 12)]|
+
+début |[('symptomatologie', 12), ('grossesse', 6)]|
+
+symptomatologie |[('rénale', 12), ('extra', 12), ('janvier', 6), ('décembre', 4), ('2015', 2)]|
+
+2015 |[('thérapeutique', 8), ('apparition', 4), ('ostéonécrose', 2)]|
+
+apparition |[('DSA', 4)]|
+
+DSA |[('PBR', 4), ('décembre', 2)]|
+
+PBR |[('antérieure', 12), ('évaluation', 6), ('absence', 2), ('1', 2)]|
+
+antérieure |[('2009', 6), ('TABLEAU', 4), ('janvier', 2)]|
+
+janvier |[('2017', 6), ('2016', 2), ('suspicion', 2)]|
+
+2016 |[('PBR', 4), ('Métaplasie', 4), ('absence', 2), ('symptomatologie', 2)]|
+
+absence |[('Helicobacter', 12), ('argument', 10), ('rejet', 2), ('signe', 2), ('immunoréactivité', 2), ('granulome', 2), ('dépôt', 2)]|
+
+argument |[('rejet', 8), ('microangiopathie', 8), ('processus', 8), ('MAT', 4), ('lymphome', 4), ('formelle', 4)]|
+
+rejet |[('TABLEAU', 6), ('cellulaire', 6), ('humoral', 4), ('contrôle', 2)]|
+
+humoral |[('Hyalinose', 6), ('cellulaire', 2), ('EXAMEN', 2)]|
+
+TABLEAU |[('ACTUEL', 12)]|
+
+ACTUEL |[('Clinique', 12)]|
+
+rénale |[('urinaire', 12), ('affection', 12), ('atcd', 4), ('1999', 2)]|
+
+urinaire |[('Patient', 6), ('MGUS', 4), ('transplantation', 2)]|
+
+transplantation |[('rénale', 2)]|
+
+1999 |[('IgA', 2)]|
+
+IgA |[('Polyclonal', 12), ('majoration', 6), ('IgM', 6), ('Classification', 6), ('2015', 2)]|
+
+contrôle |[('TDM', 12), ('PBR', 2), ('radiographique', 2), ('morphologique', 2), ('histologique', 2)]|
+
+an |[('Apparition', 2)]|
+
+Apparition |[('condensation', 8), ('nouveaux', 2)]|
+
+nouveaux |[('DSA', 2)]|
+
+décembre |[('2016', 6)]|
+
+extra |[('rénale', 12), ('capillaire', 12)]|
+
+affection |[('générale', 12), ('spécifique', 8)]|
+
+générale |[('Biologie', 8), ('MGUS', 4)]|
+
+Biologie |[('créatinémie', 12), ('moléculaire', 8), ('moleculaire', 6)]|
+
+créatinémie |[('220', 6), ('240', 6), ('166', 4), ('169', 4), ('138', 2)]|
+
+138 |[('µmol', 2)]|
+
+µmol |[('protéinurie', 12)]|
+
+protéinurie |[('0', 8), ('8g', 6), ('4', 6), ('3', 2)]|
+
+hématurie |[('oui', 12)]|
+
+traces |[('leucocyturie', 2)]|
+
+leucocyturie |[('0', 8), ('complément', 4)]|
+
+0 |[('7', 28), ('2', 24), ('3', 20), ('8', 18), ('5', 10), ('1', 10), ('complément', 8), ('4', 8), ('44', 8), ('La', 6), ('6', 6), ('30', 4), ('9', 4), ('ensemble', 4), ('11', 4), ('9cm', 2), ('PRELEVEMENT', 2), ('5cm', 2), ('métastases', 2)]|
+
+complément |[('autres', 6), ('non', 6)]|
+
+autres |[('Aspect', 12), ('glandes', 4)]|
+
+Aspect |[('taille', 12), ('faveur', 6), ('régénératif', 4), ('compatible', 2), ('ostéoradionécrose', 2), ('histologique', 2)]|
+
+reins |[('greffon', 12)]|
+
+greffon |[('échographie', 12)]|
+
+échographie |[('RAS', 6), ('Traitement', 6)]|
+
+RAS |[('Traitement', 6)]|
+
+Traitement |[('cours', 12)]|
+
+cours |[('néphrotoxicité', 12), ('2', 8), ('BRAF', 6)]|
+
+néphrotoxicité |[('Prograf', 6), ('Amlor', 4), ('Cellcept', 2)]|
+
+Cellcept |[('Irbesartan', 6), ('Solupred', 2)]|
+
+Solupred |[('Amlor', 2)]|
+
+Amlor |[('HYPOTHESES', 4), ('Eupressyl', 2)]|
+
+Eupressyl |[('Tervormine', 2)]|
+
+Tervormine |[('Tahor', 2)]|
+
+Tahor |[('Zyloric', 2)]|
+
+Zyloric |[('Kardegic', 2)]|
+
+Kardegic |[('suspecdu', 2)]|
+
+suspecdu |[('HYPOTHESES', 2)]|
+
+HYPOTHESES |[('DIAGNOSTIQUES', 12)]|
+
+DIAGNOSTIQUES |[('Evaluation', 6), ('MGRS', 4), ('Lésions', 2)]|
+
+Lésions |[('chroniques', 2)]|
+
+chroniques |[('granulomes', 8), ('discuter', 6), ('Majoration', 6), ('legeres', 4), ('aigues', 2)]|
+
+aigues |[('rejet', 2)]|
+
+destiné |[('étude', 24)]|
+
+débité |[('coupes', 24)]|
+
+sériées |[('lesquelles', 24), ('Histologiquement', 2)]|
+
+lesquelles |[('appliquées', 12), ('appliqués', 12)]|
+
+appliquées |[('colorations', 12)]|
+
+colorations |[('suivantes', 12)]|
+
+suivantes |[('Hématoxyline', 12)]|
+
+Hématoxyline |[('Erythrosine', 12)]|
+
+Erythrosine |[('Safran', 12)]|
+
+Safran |[('Trichrome', 12)]|
+
+Trichrome |[('vert', 12)]|
+
+vert |[('Masson', 12), ('A', 4)]|
+
+Masson |[('Marinozzi', 12)]|
+
+Marinozzi |[('Acide', 12), ('montre', 8)]|
+
+Acide |[('Périodique', 12)]|
+
+Périodique |[('Schiff', 12)]|
+
+Schiff |[('Il', 12)]|
+
+carotte |[('tissu', 24), ('fine', 8)]|
+
+cortical |[('mesurant', 20), ('lésion', 6)]|
+
+8 |[('cm', 22), ('BIOCARE', 12), ('Novocastra', 6), ('14', 4), ('x', 2), ('lobules', 2)]|
+
+long |[('renfermant', 24), ('quelques', 16), ('Présence', 6), ('ant', 2), ('assises', 2), ('12h', 2), ('EXAMEN', 2)]|
+
+glomérules |[('perméables', 36), ('pain', 18), ('présentent', 8), ('3', 6), ('argument', 4), ('sclérosés', 4)]|
+
+perméables |[('6', 12), ('glomérules', 8), ('glomérule', 6), ('0', 6), ('2', 4)]|
+
+glomérule |[('pain', 18), ('volumineuse', 4), ('montre', 4)]|
+
+pain |[('cacheter', 36)]|
+
+cacheter |[('Les', 12), ('On', 12), ('2', 6), ('Adénome', 6)]|
+
+présentent |[('prolifération', 8), ('cytoplasme', 4), ('noyaux', 2), ('sous', 2), ('phénotype', 2), ('parfois', 2)]|
+
+endo |[('extra', 12)]|
+
+capillaire |[('Les', 6), ('Pas', 4), ('On', 2)]|
+
+glomérulite |[('g0', 8)]|
+
+g0 |[('Pas', 8)]|
+
+Pas |[('malignité', 26), ('signe', 20), ('élément', 18), ('argument', 14), ('aspect', 12), ('marquage', 12), ('thrombose', 8), ('modification', 8), ('métaplasie', 8), ('embole', 6), ('calcification', 4), ('Helicobacter', 4), ('emboles', 2), ('ed', 2), ('polynucléaire', 2)]|
+
+thrombose |[('vasculaire', 8)]|
+
+vasculaire |[('repère', 12), ('ni', 6), ('ETUDE', 6), ('infarctus', 6), ('certains', 4), ('nécrose', 2), ('A', 2)]|
+
+nécrose |[('floculus', 8), ('Les', 8), ('ischémique', 6), ('tumorale', 4), ('larges', 2), ('non', 2)]|
+
+floculus |[('La', 8), ('L', 6), ('Un', 4)]|
+
+La |[('coloration', 52), ('muqueuse', 40), ('couche', 16), ('biopsie', 8), ('pièce', 4), ('recoupe', 4), ('membrane', 4), ('taille', 4), ('kystisation', 4), ('population', 4), ('tumeur', 2), ('prolifération', 2), ('piece', 2), ('composante', 2), ('lumière', 2), ('tranche', 2), ('stroma', 2)]|
+
+double |[('contour', 8)]|
+
+contour |[('Pas', 8)]|
+
+ischémique |[('On', 8), ('dépôts', 6), ('Au', 4)]|
+
+note |[('nodule', 12), ('minime', 10), ('capillarite', 8), ('ailleurs', 6), ('donc', 6), ('glomérule', 4), ('présence', 4), ('hyalinose', 2), ('calcification', 2), ('calcifications', 2), ('fibrose', 2), ('fragment', 2), ('inflammatoire', 2), ('petite', 2)]|
+
+hyalinose |[('artériolaire', 16), ('segmentaire', 8)]|
+
+segmentaire |[('focale', 14), ('mésangial', 6), ('IgM', 2)]|
+
+niveau |[('interstitiel', 12), ('vasculaire', 12), ('1', 12), ('derme', 8), ('épithélium', 6), ('pôle', 6), ('antral', 4), ('crêtes', 4), ('papille', 4), ('inflammation', 2)]|
+
+interstitiel |[('observe', 12), ('estimés', 4)]|
+
+remaniements |[('fibro', 12), ('fibreux', 10), ('évolutifs', 6), ('hémorragiques', 2), ('locaux', 2)]|
+
+fibro |[('atrophiques', 12), ('oedémateux', 4), ('adipeux', 4), ('inflammatoires', 2)]|
+
+atrophiques |[('tubulo', 12), ('Les', 4)]|
+
+tubulo |[('interstitiels', 12), ('papillaire', 6)]|
+
+interstitiels |[('estimés', 12)]|
+
+estimés |[('moins', 12), ('30', 10), ('20', 2)]|
+
+20 |[('Polyclonal', 12), ('C1q', 12), ('C3', 12), ('Fibrinogène', 12), ('Albumine', 12), ('C4d', 8), ('ml', 8), ('Il', 4), ('surface', 2), ('capillaires', 2)]|
+
+surface |[('prélèvement', 12), ('montre', 4), ('laissant', 4), ('materiel', 4), ('i0', 2), ('épiderme', 2), ('formation', 2), ('intact', 2)]|
+
+ci1 |[('ct0', 2)]|
+
+ct0 |[('Il', 2)]|
+
+existe |[('ni', 14), ('effet', 6), ('chevauchement', 6), ('zones', 2), ('nappes', 2), ('discrète', 2), ('minime', 2), ('fibrose', 2)]|
+
+zones |[('fibrose', 8), ('plus', 2), ('ainsi', 2), ('Par', 2), ('QSI', 2)]|
+
+fibrose |[('estimés', 6), ('oedémateuse', 6), ('près', 4), ('capsule', 4), ('interstitielle', 4), ('collagène', 4), ('infiltrat', 2), ('parsemée', 2), ('Absence', 2), ('présence', 2), ('musculeuse', 2), ('inflammation', 2), ('pariétale', 2), ('diffuse', 2), ('constituée', 2), ('Pas', 2)]|
+
+infiltrat |[('inflammatoire', 66), ('lympho', 10), ('Coloration', 4), ('lymphocytaire', 4), ('retrouve', 4), ('mononucléé', 2), ('dermique', 2)]|
+
+composé |[('lymphocytes', 14)]|
+
+lymphocytes |[('histiocytes', 16), ('intra', 12), ('100', 4), ('polynucléaires', 4), ('matures', 2), ('CONCLUSION', 2)]|
+
+histiocytes |[('confiné', 6), ('On', 4), ('plasmocytes', 4), ('estimés', 2)]|
+
+10 |[('pHa', 6), ('10', 4), ('surface', 2), ('hpf', 2), ('07', 2), ('H', 2)]|
+
+i0 |[('ti0', 8)]|
+
+ti0 |[('infiltrat', 6), ('On', 2)]|
+
+tubulite |[('t0', 2)]|
+
+t0 |[('On', 8)]|
+
+calcification |[('Pas', 6), ('ni', 4), ('quelques', 2), ('périphérique', 2), ('non', 2)]|
+
+cristaux |[('oxalate', 12)]|
+
+oxalate |[('calcium', 12)]|
+
+calcium |[('ni', 6), ('Au', 4), ('lumières', 2)]|
+
+lumières |[('tubulaires', 2)]|
+
+tubulaires |[('CONCLUSION', 4), ('Pas', 2)]|
+
+modification |[('nucléaire', 8), ('couche', 4)]|
+
+nucléaire |[('type', 8), ('intense', 2), ('La', 2)]|
+
+type |[('fundique', 12), ('viral', 8), ('non', 8), ('classique', 8), ('antral', 6), ('mucipare', 4), ('antrofundique', 4), ('antro', 4), ('antrale', 4), ('lobulaire', 2), ('épidermique', 2), ('nodulaire', 2), ('histologique', 2), ('gastrique', 2), ('intestin', 2)]|
+
+repère |[('inflammation', 12), ('augmentation', 8), ('section', 6), ('2', 6), ('granulome', 4), ('activité', 2)]|
+
+section |[('artérielle', 6), ('encrées', 4), ('interne', 4), ('inférieure', 2), ('chirurgicales', 2), ('encrée', 2)]|
+
+artérielle |[('sans', 4), ('Pas', 2)]|
+
+microangiopathie |[('thrombotique', 8)]|
+
+thrombotique |[('On', 8)]|
+
+artériolaire |[('modérée', 14), ('On', 2)]|
+
+capillarite |[('cpt0', 8)]|
+
+cpt0 |[('Par', 6), ('EXAMEN', 2)]|
+
+IMMUNOLOGIQUE |[('Le', 12)]|
+
+immunologique |[('a', 12)]|
+
+appliqués |[('antisérums', 12)]|
+
+antisérums |[('anti', 12)]|
+
+Polyclonal |[('DAKO', 84), ('BIO', 36), ('Dako', 12), ('Zytomed', 6)]|
+
+BIO |[('RAD', 36), ('SB', 12)]|
+
+RAD |[('466', 12), ('466208', 12), ('466210', 12)]|
+
+466 |[('206', 12)]|
+
+206 |[('1', 12)]|
+
+IgG |[('Polyclonal', 12), ('kappa', 4)]|
+
+466208 |[('1', 12)]|
+
+IgM |[('Polyclonal', 12), ('lambda', 6), ('C3', 2)]|
+
+466210 |[('1', 12)]|
+
+DAKO |[('F', 84), ('1', 32), ('Négatif', 2)]|
+
+0198 |[('1', 12)]|
+
+09199 |[('1', 12)]|
+
+C1q |[('Polyclonal', 12)]|
+
+0254 |[('1', 12)]|
+
+C3 |[('Polyclonal', 12), ('marquage', 4), ('kappa', 2)]|
+
+0201 |[('1', 12)]|
+
+C4 |[('Polyclonal', 12), ('Bio', 6)]|
+
+0169 |[('1', 12)]|
+
+Fibrinogène |[('Polyclonal', 12)]|
+
+0111 |[('1', 12)]|
+
+Albumine |[('Polyclonal', 12)]|
+
+0117 |[('1', 12)]|
+
+C4d |[('monoclonal', 8), ('CONCLUSION', 8), ('faible', 2)]|
+
+monoclonal |[('QUIDEL', 8), ('prédilué', 2)]|
+
+QUIDEL |[('1', 8)]|
+
+4 |[('cm', 14), ('fragments', 12), ('g', 8), ('EXAMEN', 8), ('Corps', 8), ('Tiers', 6), ('ŒSOPHAGE', 6), ('glomérules', 6), ('infarctus', 6), ('rue', 4), ('prélèvements', 4), ('ROCHE', 4), ('x', 2), ('2', 2)]|
+
+calcifications |[('nombreuses', 4), ('associées', 4), ('RENSEIGNEMENTS', 4), ('Marquage', 2), ('existe', 2), ('dystrophiques', 2)]|
+
+Marquage |[('pariétal', 2)]|
+
+pariétal |[('segmentaire', 2)]|
+
+kappa |[('suivi', 4), ('Présence', 2)]|
+
+marquage |[('vimentine', 6), ('segmentaire', 6), ('capillaires', 6), ('vitrées', 4), ('cellules', 4), ('ALK1', 4), ('faible', 2), ('isolé', 2), ('HER', 2)]|
+
+faible |[('assez', 8), ('intensité', 6), ('Thyroglobuline', 6), ('focale', 4), ('près', 2), ('modéré', 2), ('modérée', 2)]|
+
+près |[('moitié', 4), ('20', 2)]|
+
+capillaires |[('péritubulaires', 10), ('pigment', 6), ('parois', 4), ('néoformés', 2)]|
+
+péritubulaires |[('anticorps', 8), ('C4d', 2)]|
+
+REIN |[('GREFFON', 8), ('ponction', 4)]|
+
+GREFFON |[('ponction', 8)]|
+
+ponction |[('biopsie', 14), ('transpariétale', 8)]|
+
+isolé |[('capillaires', 2)]|
+
+intensité |[('légère', 4), ('faible', 4), ('C4d2', 2), ('sans', 2), ('non', 2), ('modérée', 2)]|
+
+C4d2 |[('RENSEIGNEMENTS', 2)]|
+
+Zonectomie |[('CCI', 2), ('sein', 2)]|
+
+CCI |[('grade', 4)]|
+
+III |[('3', 8)]|
+
+QSE |[('sein', 2), ('11', 2), ('mettent', 2)]|
+
+sein |[('gauche', 8), ('parenchyme', 6), ('lumière', 4), ('phénomènes', 4), ('métastatique', 2)]|
+
+gauche |[('6x3x2', 6), ('renferme', 6), ('mesurant', 6), ('face', 4), ('QII', 4), ('RH', 2), ('fils', 2), ('7992', 2), ('pesant', 2), ('suspicion', 2), ('1', 2), ('EXERESE', 2), ('Naevus', 2), ('CCI', 2), ('Est', 2)]|
+
+RH |[('neg', 2)]|
+
+neg |[('HER2', 2), ('Tufocal', 2)]|
+
+HER2 |[('après', 2), ('EXAMEN', 2), ('Neu', 2), ('neg', 2)]|
+
+après |[('fixation', 10), ('application', 8), ('étude', 4), ('chimiothérapie', 2), ('décalcification', 2), ('chimio', 2), ('pancréatite', 2)]|
+
+chimiothérapie |[('elles', 8), ('néo', 2), ('1', 2), ('Les', 2)]|
+
+néo |[('adjuvante', 2)]|
+
+adjuvante |[('chez', 2)]|
+
+patiente |[('assurer', 8), ('62', 2), ('cancer', 2)]|
+
+62 |[('ans', 2)]|
+
+ans |[('G5P3', 2)]|
+
+G5P3 |[('1', 2)]|
+
+fils |[('courts', 4), ('court', 2), ('longs', 2)]|
+
+court |[('sup', 2), ('pertuis', 2), ('a', 2)]|
+
+sup |[('On', 6), ('long', 2), ('longs', 2), ('repéré', 2)]|
+
+ant |[('asymétriques', 4)]|
+
+asymétriques |[('ext', 2), ('externe', 2)]|
+
+ext |[('2', 2), ('jambe', 2)]|
+
+Recoupe |[('inférieure', 2)]|
+
+inférieure |[('interne', 6), ('postérieure', 4), ('fils', 2), ('focalement', 2), ('orientée', 2), ('montre', 2), ('Pas', 2), ('dte', 2), ('droite', 2)]|
+
+courts |[('sup', 2), ('EXAMEN', 2)]|
+
+longs |[('ant', 2), ('isthme', 2)]|
+
+externe |[('bleu', 4), ('jambe', 4), ('EXAMEN', 2), ('supérieur', 2), ('CONCLUSION', 2), ('droit', 2), ('gauche', 2), ('pièce', 2)]|
+
+mammaire |[('reçue', 4), ('examinées', 4), ('type', 2)]|
+
+reçue |[('état', 4), ('1', 4), ('fixée', 2), ('non', 2)]|
+
+frais |[('inclus', 8), ('compose', 8), ('orientée', 4), ('suspicion', 4), ('Des', 4)]|
+
+orientée |[('non', 2), ('pèse', 2), ('1', 2), ('4', 2), ('repérée', 2), ('face', 2)]|
+
+repérée |[('macroscopiquement', 8), ('pesant', 4)]|
+
+58 |[('3', 2)]|
+
+5 |[('cm', 20), ('fragments', 16), ('x', 14), ('Fundus', 8), ('i0', 6), ('A', 6), ('pHv', 6), ('1', 6), ('composé', 4), ('5', 2), ('blocs', 2), ('mm', 2)]|
+
+fournie |[('doubles', 2)]|
+
+doubles |[('contrôle', 2)]|
+
+radiographique |[('post', 2)]|
+
+post |[('opératoire', 2)]|
+
+tranches |[('section', 8)]|
+
+encrées |[('inférieure', 4)]|
+
+postérieure |[('rouge', 4), ('Etude', 4)]|
+
+rouge |[('mesurant', 6), ('supérieure', 4), ('Congo', 2)]|
+
+supérieure |[('a', 6), ('noir', 4), ('externe', 4), ('cryptes', 4)]|
+
+noir |[('antéro', 4)]|
+
+antéro |[('supérieure', 4), ('inférieure', 4), ('externe', 4)]|
+
+bleu |[('antéro', 4), ('Alcian', 2)]|
+
+interne |[('vert', 4), ('La', 2), ('observe', 2), ('néanmoins', 2), ('inférieure', 2)]|
+
+coupe |[('coloration', 8), ('Isthme', 6), ('observe', 4), ('examinés', 4), ('presence', 2), ('Examen', 2), ('Le', 2), ('parrafine', 2), ('histologique', 2), ('Ce', 2), ('étagés', 2)]|
+
+jonction |[('quadrants', 2), ('dermo', 2)]|
+
+quadrants |[('inféro', 2)]|
+
+inféro |[('internes', 2)]|
+
+internes |[('plage', 2)]|
+
+plage |[('blanchâtre', 2), ('fibreuse', 2)]|
+
+blanchâtre |[('nécrotique', 2), ('0', 2)]|
+
+nécrotique |[('2', 2)]|
+
+parvenant |[('contact', 2)]|
+
+contact |[('tranche', 2), ('membrane', 2)]|
+
+tranche |[('section', 6), ('concernant', 2)]|
+
+recoupe |[('inférieure', 4)]|
+
+pèse |[('32', 2)]|
+
+32 |[('4', 2)]|
+
+mesure |[('11', 6), ('8', 2), ('18', 2)]|
+
+Elle |[('apparait', 8), ('compose', 6), ('comporte', 2), ('fait', 2), ('montre', 2), ('centrée', 2), ('située', 2)]|
+
+clip |[('excentré', 2)]|
+
+excentré |[('vers', 2)]|
+
+bord |[('externe', 2)]|
+
+supérieur |[('œsophage', 6), ('Sur', 2), ('50', 2)]|
+
+Sur |[('ensemble', 8), ('versant', 2), ('lames', 2), ('coupe', 2)]|
+
+versant |[('interne', 2)]|
+
+hémorragiques |[('tissu', 2)]|
+
+ferme |[('palpation', 2)]|
+
+palpation |[('bloc', 2)]|
+
+24 |[('h', 10), ('25', 2), ('mars', 2)]|
+
+prélevée |[('totalité', 4)]|
+
+macroscopiquement |[('montre', 8), ('complète', 2)]|
+
+modifications |[('mises', 8), ('comparables', 4), ('microscopiques', 2), ('myxoïdes', 2)]|
+
+mises |[('rapport', 8)]|
+
+elles |[('diffuses', 6), ('accompagnent', 6), ('espaces', 4), ('expriment', 4), ('discrètes', 2)]|
+
+diffuses |[('sous', 6)]|
+
+sous |[('forme', 26), ('contrôle', 12), ('TDM', 8), ('jacent', 6), ('jacentes', 6), ('endothélial', 6), ('cutané', 2), ('épithélial', 2), ('type', 2), ('échoendoscopie', 2), ('17P1890', 2)]|
+
+forme |[('foyers', 8), ('travées', 6), ('organisation', 6), ('assez', 4), ('petites', 2)]|
+
+foyers |[('fibrose', 8), ('hyperplasie', 4), ('dilatation', 4), ('densification', 2), ('calcification', 2)]|
+
+parsemée |[('fins', 6), ('infiltrat', 2)]|
+
+mononucléé |[('abondant', 2)]|
+
+pigment |[('hémosidérinique', 8), ('mélanique', 2), ('méconial', 2)]|
+
+hémosidérinique |[('Il', 8)]|
+
+persiste |[('prolifération', 8)]|
+
+carcinomateuse |[('infiltrante', 8), ('constituée', 2), ('partielle', 2)]|
+
+infiltrante |[('sous', 4), ('composée', 2), ('lésion', 2), ('2', 2)]|
+
+composée |[('massifs', 2), ('cellules', 2)]|
+
+massifs |[('contingent', 4), ('taille', 2), ('travées', 2), ('Dimension', 2)]|
+
+centrées |[('colloïde', 8), ('vastes', 2)]|
+
+vastes |[('plages', 2)]|
+
+plages |[('congestion', 6), ('nécrose', 2), ('fibrose', 2)]|
+
+larges |[('travées', 2)]|
+
+travées |[('anastomosées', 4), ('osseuses', 4), ('fibreuses', 4), ('nombreux', 4), ('petits', 4), ('étroites', 2), ('cordons', 2), ('cellules', 2)]|
+
+anastomosées |[('Il', 2), ('disposition', 2)]|
+
+contingent |[('glandulaire', 6), ('in', 4), ('épidermique', 2), ('carcinome', 2)]|
+
+glandulaire |[('2', 8), ('ni', 4), ('représentant', 4), ('Les', 2), ('salivaire', 2)]|
+
+grande |[('courbure', 24), ('taille', 8), ('centrées', 8), ('quantité', 2), ('cytoplasme', 2)]|
+
+basophiles |[('mucosecrétion', 4), ('présentent', 2), ('atypies', 2)]|
+
+augmentés |[('volume', 8)]|
+
+volume |[('vivement', 4), ('très', 2), ('ronds', 2)]|
+
+vivement |[('nucléolés', 6)]|
+
+nucléolés |[('L', 4), ('Le', 2)]|
+
+nombre |[('lymphocytes', 8), ('mitoses', 2)]|
+
+hpf |[('sans', 2)]|
+
+sélection |[('champ', 2)]|
+
+champ |[('L', 2)]|
+
+ensemble |[('coupes', 8), ('Les', 4), ('fragments', 4), ('correspondrait', 2), ('modérément', 2), ('peu', 2)]|
+
+correspondrait |[('grade', 2)]|
+
+Elston |[('Ellis', 4)]|
+
+Ellis |[('III', 4)]|
+
+vivace |[('mesurée', 2)]|
+
+mesurée |[('lame', 4), ('0', 2)]|
+
+lame |[('1', 2), ('moins', 2), ('constitué', 2)]|
+
+Je |[('observé', 4), ('observe', 2)]|
+
+in |[('situ', 18)]|
+
+situ |[('type', 8), ('sous', 4), ('associé', 2), ('grade', 2), ('L', 2)]|
+
+associé |[('calcifications', 4), ('Il', 2), ('Un', 2), ('quelques', 2), ('contingent', 2)]|
+
+envahissement |[('périnerveux', 6), ('tumoral', 2)]|
+
+périnerveux |[('emboles', 6)]|
+
+emboles |[('lymphatiques', 10)]|
+
+lymphatiques |[('périphérie', 6), ('Au', 2), ('EXAMEN', 2), ('0', 2)]|
+
+périphérie |[('tumeur', 6), ('lésions', 6), ('épaississement', 4), ('raison', 2), ('massifs', 2)]|
+
+reste |[('prélèvement', 8), ('modérée', 4), ('distance', 2), ('fixé', 2)]|
+
+distance |[('capsule', 12), ('tranches', 2)]|
+
+chirurgicales |[('inférieure', 2), ('passent', 2), ('minimale', 2), ('Des', 2)]|
+
+néanmoins |[('concernées', 2)]|
+
+concernées |[('prolongements', 2)]|
+
+prolongements |[('fibreux', 2)]|
+
+fibreux |[('modérés', 6), ('ni', 4), ('capsule', 4), ('expliquant', 2), ('inflammatoire', 2), ('fibroblastique', 2), ('0', 2), ('La', 2)]|
+
+expliquant |[('examen', 2)]|
+
+macroscopique |[('Quoiqu', 2)]|
+
+Quoiqu |[('marge', 2)]|
+
+marge |[('mesurée', 2), ('latérale', 2), ('profonde', 2)]|
+
+caractère |[('néoplasique', 2)]|
+
+néoplasique |[('maligne', 4), ('CONCLUSION', 2)]|
+
+SEIN |[('GAUCHE', 8)]|
+
+GAUCHE |[('ponction', 8), ('zonectomie', 4), ('QII', 4), ('biopsie', 2), ('Biopsie', 2), ('NAEVUS', 2)]|
+
+zonectomie |[('carcinome', 2), ('curage', 2)]|
+
+infiltrant |[('type', 8), ('architecture', 8), ('ETUDE', 4), ('ypT1c', 2), ('dont', 2), ('résiduel', 2), ('ypT2N0', 2)]|
+
+spécifique |[('2', 8), ('canalaire', 6), ('contexte', 4), ('résiduel', 2), ('infiltrante', 2)]|
+
+résiduel |[('modifié', 2), ('associé', 2)]|
+
+modifié |[('chimiothérapie', 2)]|
+
+complète |[('Hyperplasie', 6), ('Pas', 4), ('marge', 2), ('PRELEVEMENT', 2), ('emportant', 2), ('Type', 2), ('Absence', 2)]|
+
+latérale |[('minimale', 2)]|
+
+minimale |[('0', 2), ('berge', 2)]|
+
+regard |[('tranches', 2)]|
+
+total |[('carcinome', 4)]|
+
+canalaire |[('atypique', 8), ('infiltrant', 6), ('conventionel', 2)]|
+
+ypT1c |[('Sataloff', 2)]|
+
+Sataloff |[('TC', 2), ('T', 2)]|
+
+TC |[('classe', 2)]|
+
+classe |[('3', 2)]|
+
+Chevallier |[('RENSEIGNEMENTS', 2)]|
+
+mm |[('face', 2), ('Examen', 2), ('QSE', 2), ('QSI', 2), ('GS', 2), ('respectivement', 2), ('lame', 2)]|
+
+face |[('postérieure', 4), ('antéro', 4), ('ext', 2), ('choriale', 2)]|
+
+jambe |[('EXAMEN', 4), ('gauche', 2)]|
+
+7992 |[('EXAMEN', 2)]|
+
+Punch |[('biopsie', 14)]|
+
+examinée |[('selon', 6), ('collaboration', 2)]|
+
+collaboration |[('Dr', 2)]|
+
+Faivre |[('24', 2)]|
+
+mars |[('Elle', 2)]|
+
+fait |[('objet', 6), ('autres', 6), ('1cm', 6), ('fond', 4), ('épithélium', 2), ('éléments', 2)]|
+
+objet |[('3', 2), ('coupes', 2), ('6', 2)]|
+
+plans |[('coupe', 14)]|
+
+standard |[('HES', 12), ('placenta', 4)]|
+
+téguments |[('tapissés', 2)]|
+
+tapissés |[('épiderme', 2)]|
+
+épiderme |[('montre', 6), ('discrètement', 2), ('La', 2), ('tapissé', 2), ('dystrophique', 2), ('papillomateux', 2)]|
+
+discrètement |[('hyperplasique', 4), ('augmentée', 4), ('fibreux', 2), ('immature', 2)]|
+
+hyperplasique |[('surmonté', 2), ('décrit', 2)]|
+
+surmonté |[('kératine', 2)]|
+
+kératine |[('aérée', 6), ('compacte', 2), ('quelques', 2)]|
+
+compacte |[('focalement', 2)]|
+
+parakératosique |[('La', 2)]|
+
+développement |[('endophytique', 2)]|
+
+endophytique |[('compose', 2)]|
+
+compose |[('carotte', 8), ('2', 8), ('axes', 6), ('kératinocytes', 2), ('3', 2)]|
+
+kératinocytes |[('basophiles', 2)]|
+
+modérées |[('agencent', 2)]|
+
+agencent |[('nappes', 4), ('couches', 2), ('massifs', 2), ('derme', 2)]|
+
+couches |[('désorganisées', 2), ('musculeuses', 2)]|
+
+désorganisées |[('tiers', 2)]|
+
+tiers |[('supérieure', 6), ('inférieur', 2)]|
+
+inférieur |[('G', 8), ('œsophage', 6), ('del', 2), ('effet', 2)]|
+
+del |[('épiderme', 2)]|
+
+membrane |[('basale', 6), ('amniotique', 2), ('Elle', 2), ('bon', 2)]|
+
+basale |[('continue', 2), ('épithéliale', 2), ('fine', 2)]|
+
+continue |[('La', 2), ('réticuline', 2)]|
+
+couche |[('glandes', 16), ('granuleuse', 8), ('kératine', 6)]|
+
+granuleuse |[('bien', 6), ('La', 2)]|
+
+représentée |[('Il', 2)]|
+
+spongiose |[('focale', 4), ('dermatose', 2)]|
+
+dermatose |[('interface', 2)]|
+
+interface |[('Le', 2)]|
+
+derme |[('sous', 4), ('note', 4), ('réticulaire', 4), ('siège', 2), ('sub', 2), ('adjacent', 2), ('infiltré', 2), ('reticulaire', 2)]|
+
+dermique |[('accompagné', 4), ('superficiel', 2), ('mononucléée', 2), ('faveur', 2), ('relativement', 2), ('Eliminer', 2)]|
+
+superficiel |[('composé', 2), ('Absence', 2)]|
+
+matures |[('CONCLUSION', 2)]|
+
+PEAU |[('MOLLET', 6), ('JAMBE', 4), ('FACE', 2), ('REGION', 2), ('HELIX', 2), ('LOCALISATION', 2), ('cervical', 2)]|
+
+FACE |[('EXTERNE', 2)]|
+
+EXTERNE |[('DE', 2), ('DROIT', 2), ('GAUCHE', 2)]|
+
+JAMBE |[('biopsie', 4), ('GAUCHE', 2)]|
+
+kératose |[('actinique', 4), ('pré', 2)]|
+
+actinique |[('exérèse', 2), ('micro', 2)]|
+
+BLANC |[('Dominique', 4)]|
+
+Dominique |[('N', 4)]|
+
+17P1833 |[('Reçu', 2)]|
+
+P170202005 |[('Dr', 2)]|
+
+BERGIER |[('Rolande', 2)]|
+
+Rolande |[('NJF', 2)]|
+
+ROCHET |[('Sexe', 2)]|
+
+1935 |[('38', 2), ('Dr', 2)]|
+
+38 |[('Rue', 2)]|
+
+Rue |[('Velotte', 2)]|
+
+Velotte |[('25000', 2)]|
+
+25000 |[('BESANCON', 4)]|
+
+BIOPSIE |[('FRAICHE', 8), ('CUTANEE', 4), ('DUODENALE', 4), ('Aspect', 4)]|
+
+CUTANEE |[('Clinique', 6), ('ASPECT', 2), ('DU', 2), ('SUPRA', 2)]|
+
+Patiente |[('opérée', 2)]|
+
+opérée |[('janvier', 2)]|
+
+suspicion |[('carcinome', 6), ('vascularite', 6), ('lymphome', 4), ('trisomie', 2)]|
+
+réalisation |[('lambeau', 2)]|
+
+lambeau |[('naso', 2), ('intestin', 2)]|
+
+naso |[('glabellaire', 2)]|
+
+glabellaire |[('Ana', 2)]|
+
+Ana |[('path', 2)]|
+
+path |[('kératose', 2)]|
+
+micro |[('invasive', 2)]|
+
+invasive |[('A', 2)]|
+
+jour |[('lésion', 2)]|
+
+squamo |[('croûteuse', 2)]|
+
+croûteuse |[('site', 2), ('pré', 2)]|
+
+site |[('interprétation', 2)]|
+
+interprétation |[('délicate', 2)]|
+
+délicate |[('compte', 2)]|
+
+compte |[('tenu', 2)]|
+
+tenu |[('remaniements', 2)]|
+
+locaux |[('Nouvelle', 2)]|
+
+Nouvelle |[('biopsie', 2)]|
+
+Un |[('fragment', 8), ('autre', 4), ('nodule', 2), ('tel', 2)]|
+
+Histologiquement |[('épiderme', 2), ('observe', 2), ('revêtement', 2)]|
+
+tapissé |[('couche', 6), ('quelques', 2)]|
+
+squames |[('cornées', 4)]|
+
+cornées |[('parakératosiques', 2), ('lambeaux', 2)]|
+
+parakératosiques |[('focalement', 2)]|
+
+imbibées |[('sérosités', 2)]|
+
+sérosités |[('quelques', 2)]|
+
+assises |[('basales', 2)]|
+
+basales |[('observe', 2)]|
+
+volontiers |[('nucléolé', 2)]|
+
+nucléolé |[('Ces', 2)]|
+
+forment |[('petits', 2)]|
+
+petits |[('nodules', 8), ('lymphocytes', 4), ('follicules', 4), ('massifs', 4), ('foyers', 4), ('bourgeons', 2), ('amas', 2)]|
+
+bourgeons |[('effilochent', 2)]|
+
+effilochent |[('derme', 2)]|
+
+jacent |[('apparaît', 4), ('siège', 2)]|
+
+importante |[('dégénérescence', 2)]|
+
+dégénérescence |[('élacéinique', 2)]|
+
+élacéinique |[('quelques', 2)]|
+
+coulées |[('lymphocytaires', 2)]|
+
+lymphocytaires |[('L', 2), ('taille', 2)]|
+
+immunohistochimique |[('faveur', 8), ('anticorps', 8), ('mettent', 8), ('après', 6), ('aide', 4), ('automate', 2), ('réalisée', 2), ('compatible', 2)]|
+
+Antigène |[('épithélial', 2)]|
+
+épithélial |[('Ber', 2), ('remanié', 2), ('cylindrique', 2)]|
+
+dilué |[('1', 2)]|
+
+Négatif |[('EMA', 2), ('CONCLUSION', 2)]|
+
+Prédilué |[('VENTANA', 2)]|
+
+VENTANA |[('ROCHE', 2)]|
+
+ROCHE |[('Pur', 16), ('pur', 4), ('Négatif', 2), ('Hélène', 2)]|
+
+NEZ |[('BIOPSIE', 2)]|
+
+FAVEUR |[('D', 2)]|
+
+D |[('HELICOBACTER', 14), ('UNE', 10), ('ATROPHIE', 4), ('EXERESE', 2), ('UN', 2), ('Lésion', 2)]|
+
+KERATOSE |[('ACTINIQUE', 2)]|
+
+ACTINIQUE |[('EN', 2)]|
+
+TRANSFORMATION |[('CARCINOMATEUSE', 2)]|
+
+CARCINOMATEUSE |[('AVEC', 2)]|
+
+MICRO |[('INVASION', 2)]|
+
+INVASION |[('DU', 2)]|
+
+DERME |[('SUPERFICIEL', 2)]|
+
+SUPERFICIEL |[('Le', 2)]|
+
+DEPRET |[('SLPRELEVEMENT', 4), ('IS', 2)]|
+
+IS |[('PHDE0000', 4), ('PHDD7511', 4), ('RENSEIGNEMENTS', 2), ('BHOTM0A2', 2)]|
+
+Extempo |[('Loboisthmectomie', 2)]|
+
+Loboisthmectomie |[('droite', 2)]|
+
+droite |[('Masse', 4), ('épanchement', 4), ('envahissant', 4), ('pôle', 2), ('extemporane', 2), ('Caractères', 2), ('biopsie', 2), ('2', 2), ('EXAMEN', 2)]|
+
+pôle |[('sup', 8), ('vasculaire', 4), ('muqueux', 4)]|
+
+repéré |[('fil', 6), ('2', 2)]|
+
+isthme |[('2', 2)]|
+
+EXTEMPORANE |[('resultat', 2), ('Résultat', 2)]|
+
+resultat |[('telephoné', 2)]|
+
+telephoné |[('31', 2)]|
+
+signe |[('malignité', 26), ('activité', 16), ('faveur', 8), ('histologique', 4), ('histologiques', 2), ('suspect', 2)]|
+
+malignité |[('CONCLUSION', 14), ('limite', 8), ('3', 6), ('4', 6), ('Le', 6), ('RENSEIGNEMENTS', 4), ('ni', 4), ('extemporané', 2), ('prélèvements', 2), ('PRELEVEMENT', 2), ('Présence', 2), ('2', 2)]|
+
+extemporané |[('EXAMEN', 2), ('Le', 2), ('L', 2), ('Sur', 2), ('biopsie', 2)]|
+
+Lobe |[('droit', 12), ('gauche', 12), ('thyroidien', 2)]|
+
+thyroidien |[('distance', 12), ('gauche', 2)]|
+
+presence |[('petits', 2)]|
+
+nodules |[('colloïdes', 12), ('hyperplasie', 10), ('colloides', 2)]|
+
+colloides |[('mesurant', 2)]|
+
+grand |[('axe', 44), ('fait', 6), ('axerecu', 2)]|
+
+axe |[('1', 6), ('corresponde', 6), ('localisé', 6), ('EXAMEN', 6), ('peu', 4), ('transmis', 4), ('examinés', 4), ('Une', 2), ('Etude', 2), ('reçue', 2), ('pesant', 2), ('Reçue', 2), ('examiné', 2)]|
+
+Une |[('biopsie', 8), ('partie', 8), ('tranche', 2)]|
+
+nodule |[('pulmonaire', 8), ('pulmonaires', 8), ('lobe', 8), ('colloïde', 6), ('tumoral', 6), ('blanchatre', 6), ('grande', 2), ('blanchâtre', 2)]|
+
+formol |[('inclus', 6), ('compresse', 6), ('La', 2), ('Inclusion', 2), ('Celui', 2)]|
+
+piece |[('prelevée', 2)]|
+
+prelevée |[('partiellement', 2)]|
+
+partiellement |[('vidée', 6), ('5', 2)]|
+
+blocs |[('EXAMEN', 8), ('Les', 8), ('2', 8)]|
+
+Ce |[('contrôle', 2), ('prélèvement', 2), ('tissu', 2), ('fragment', 2)]|
+
+morphologique |[('notable', 4), ('après', 2), ('Il', 2)]|
+
+fixation |[('2', 8), ('reste', 8), ('confirme', 2)]|
+
+confirme |[('nature', 4), ('données', 2), ('examen', 2)]|
+
+données |[('cliniques', 12), ('examen', 2)]|
+
+hyperplasie |[('bien', 8), ('canalaire', 8), ('partie', 4), ('épidermique', 4), ('vésiculaire', 2), ('fovéolaire', 2)]|
+
+circonscrits |[('Ils', 8)]|
+
+Ils |[('constitués', 8)]|
+
+constitués |[('vésicules', 8)]|
+
+vésicules |[('thyroïdiennes', 8)]|
+
+thyroïdiennes |[('taille', 8)]|
+
+normale |[('revêtues', 12), ('grande', 8), ('Classification', 6), ('L', 6), ('axe', 4), ('Pas', 4), ('Absence', 4), ('cordons', 2), ('RENSEIGNEMENTS', 2)]|
+
+colloïde |[('généralement', 8), ('continuité', 6)]|
+
+généralement |[('dense', 8)]|
+
+dense |[('bordées', 8), ('niveau', 6), ('acini', 2)]|
+
+bordées |[('épithélium', 8)]|
+
+cubique |[('aplati', 8), ('souvent', 8), ('Le', 4), ('desquame', 2)]|
+
+aplati |[('Presence', 6), ('Preence', 2)]|
+
+Preence |[('petit', 2)]|
+
+petit |[('fragment', 2), ('lambeau', 2)]|
+
+glande |[('salivaire', 6), ('fundique', 4), ('parathyroide', 2)]|
+
+parathyroide |[('aspect', 2)]|
+
+normal |[('Détail', 8), ('RENSEIGNEMENTS', 3), ('Pas', 2), ('L', 2), ('Membrane', 2)]|
+
+prélèvements |[('porté', 12), ('Deux', 4), ('1', 4), ('biopsiques', 4), ('congelés', 4), ('réalisées', 4), ('10G', 4), ('radio', 4), ('examinés', 2)]|
+
+examinés |[('CONCLUSION', 6), ('ETUDE', 4), ('3', 4)]|
+
+THYROIDE |[('lobectomie', 2)]|
+
+lobectomie |[('droite', 2)]|
+
+extemporane |[('nodules', 2)]|
+
+vésiculaire |[('multinodulaire', 6), ('Pas', 2), ('apparait', 2)]|
+
+Hélène |[('N', 2)]|
+
+17P1835 |[('Reçu', 2)]|
+
+P170202007 |[('Dr', 2)]|
+
+PAPILLARD |[('Jean', 2)]|
+
+Claude |[('NJF', 2)]|
+
+M |[('né', 30), ('2380', 6)]|
+
+né |[('03', 8), ('28', 6), ('19', 4), ('08', 4), ('01', 2), ('10', 2), ('16', 2), ('23', 2), ('sexe', 2)]|
+
+07 |[('02', 16), ('1935', 2), ('1966', 2)]|
+
+Lésion |[('croûteuse', 2), ('1', 2)]|
+
+pré |[('auriculaire', 2), ('épithéliomateuse', 2)]|
+
+auriculaire |[('gauche', 2)]|
+
+cutané |[('eczéma', 4), ('On', 4), ('0', 2), ('chez', 2)]|
+
+Etude |[('microscopique', 16)]|
+
+REGION |[('PRE', 2)]|
+
+PRE |[('AURICULAIRE', 2)]|
+
+AURICULAIRE |[('GAUCHE', 2)]|
+
+significatif |[('Il', 4), ('Les', 4), ('ni', 2)]|
+
+existence |[('véritable', 8), ('follicule', 2)]|
+
+follicule |[('pileux', 2)]|
+
+pileux |[('dilaté', 2)]|
+
+dilaté |[('microkystique', 2)]|
+
+microkystique |[('bords', 2)]|
+
+bords |[('inflammation', 2), ('irrréguliers', 2)]|
+
+inflammation |[('polynucléaires', 12), ('chronique', 6), ('chorion', 4), ('dermique', 2), ('étend', 2), ('lymphocytaire', 2), ('EXAMEN', 2)]|
+
+mononucléée |[('assez', 2)]|
+
+nette |[('surface', 2)]|
+
+dystrophique |[('partie', 2)]|
+
+excorié |[('dilacéré', 2)]|
+
+dilacéré |[('prélèvement', 2)]|
+
+image |[('pouvant', 2)]|
+
+évoquer |[('certitude', 2)]|
+
+certitude |[('kératose', 2)]|
+
+épithéliomateuse |[('Il', 2)]|
+
+bourgeonnement |[('tumoral', 2)]|
+
+infiltration |[('tumorale', 8), ('dermique', 2)]|
+
+nouvelles |[('biopsies', 2)]|
+
+biopsies |[('voir', 8), ('ulcère', 8), ('fundiques', 8), ('Il', 6), ('Les', 6), ('Le', 6), ('gastrite', 6), ('duodénales', 4), ('antrales', 4), ('MUQUEUSE', 4), ('Muqueuse', 4), ('Ectasies', 4), ('parenchyme', 4), ('présence', 4), ('concernent', 4), ('montrent', 4), ('fundite', 4), ('donc', 2), ('inflammation', 2)]|
+
+souhaitables |[('Le', 2)]|
+
+PETITJEAN |[('ISB', 10), ('IS', 4), ('MC', 2)]|
+
+ISB |[('PRELEVEMENT', 8), ('RENSEIGNEMENTS', 2)]|
+
+MERMET |[('GINET', 4)]|
+
+GINET |[('Isabelle', 4)]|
+
+17P1836 |[('Reçu', 2)]|
+
+P170203001 |[('Dr', 2)]|
+
+JACQUES |[('Delphine', 2)]|
+
+Delphine |[('NJF', 2)]|
+
+HUGUES |[('Sexe', 2)]|
+
+17 |[('12', 2), ('18', 2), ('ET', 2), ('x', 2)]|
+
+12 |[('30', 32), ('x', 6), ('prélèvements', 4), ('1976', 2)]|
+
+25320 |[('TORPES', 2)]|
+
+TORPES |[('Dr', 2)]|
+
+Naevus |[('hélix', 2), ('dermique', 2)]|
+
+hélix |[('oreille', 2)]|
+
+oreille |[('droite', 2)]|
+
+Cf |[('feuille', 2)]|
+
+feuille |[('jaune', 2)]|
+
+jaune |[('Etude', 2)]|
+
+HELIX |[('DE', 2)]|
+
+OREILLE |[('DROITE', 2)]|
+
+DROITE |[('BIOPSIE', 4), ('exérèse', 2), ('rhinopathie', 2), ('Corps', 2)]|
+
+NAEVUS |[('NAEVO', 2), ('DERMIQUE', 2)]|
+
+NAEVO |[('CELLULAIRE', 2)]|
+
+CELLULAIRE |[('COMPOSE', 2)]|
+
+COMPOSE |[('recouvert', 2)]|
+
+recouvert |[('épiderme', 2), ('revêtement', 2)]|
+
+papillomateux |[('La', 2)]|
+
+composante |[('dermique', 2)]|
+
+relativement |[('superficielle', 2)]|
+
+superficielle |[('érosive', 4), ('faite', 2), ('constituée', 2)]|
+
+faite |[('éléments', 2), ('lymphocytes', 2)]|
+
+naeviques |[('groupés', 2)]|
+
+groupés |[('thèques', 2)]|
+
+thèques |[('disposées', 2), ('situées', 2), ('travées', 2)]|
+
+disposées |[('façon', 2)]|
+
+façon |[('faible', 4), ('plus', 2)]|
+
+lâche |[('parsemé', 8), ('La', 6), ('Le', 2)]|
+
+épidermique |[('psoriasiforme', 4), ('On', 4), ('réduit', 2), ('L', 2), ('sillon', 2), ('dissocié', 2)]|
+
+réduit |[('rares', 2)]|
+
+rares |[('lymphocytes', 4), ('thèques', 2), ('vacuoles', 2), ('Pas', 2)]|
+
+situées |[('jonction', 2), ('QIE', 2)]|
+
+dermo |[('épidermique', 2)]|
+
+modérément |[('pigmenté', 2)]|
+
+pigmenté |[('entourant', 2)]|
+
+entourant |[('derme', 2)]|
+
+sub |[('normal', 4)]|
+
+emportant |[('muqueuse', 6), ('toute', 2)]|
+
+toute |[('hauteur', 4), ('lésion', 2)]|
+
+AUCUN |[('SIGNE', 2)]|
+
+MC |[('IHOTM0A4', 2)]|
+
+IHOTM0A4 |[('AUD', 2)]|
+
+AUD |[('PRELEVEMENT', 2)]|
+
+17P1837 |[('Reçu', 2)]|
+
+P170203002 |[('Dr', 2)]|
+
+GAUTHIER |[('Herve', 2)]|
+
+Herve |[('NJF', 2)]|
+
+1966 |[('rue', 2)]|
+
+Morteau |[('25390', 2)]|
+
+25390 |[('ORCHAMPS', 2)]|
+
+ORCHAMPS |[('VENNES', 2)]|
+
+VENNES |[('Dr', 2)]|
+
+EXERESE |[('D', 10), ('Carcinome', 2), ('CUTANEE', 2), ('COMPLETE', 2)]|
+
+Kyste |[('épidermique', 2)]|
+
+sillon |[('nasogénien', 2)]|
+
+nasogénien |[('droit', 2)]|
+
+droit |[('repéré', 6), ('5x3x3', 6), ('moins', 6), ('lésions', 6), ('Caractères', 4), ('L', 2)]|
+
+Exérèse |[('lésion', 4), ('cutanée', 2), ('Les', 2), ('sections', 2)]|
+
+cutanée |[('flacon', 6), ('fusiforme', 4), ('0', 2)]|
+
+fusiforme |[('non', 2), ('reçue', 2)]|
+
+comportant |[('villosités', 4), ('zone', 2)]|
+
+kystique |[('0', 2), ('dont', 2), ('apparait', 2)]|
+
+formation |[('kystique', 4)]|
+
+aminci |[('pourvu', 2)]|
+
+pourvu |[('couche', 2)]|
+
+lumière |[('plus', 4), ('kyste', 2)]|
+
+kyste |[('renferme', 2), ('absence', 2)]|
+
+renferme |[('population', 12), ('légère', 12), ('nodules', 6), ('lamelles', 2), ('excès', 2), ('8', 2), ('pigment', 2), ('infiltrat', 2)]|
+
+lamelles |[('kératine', 2)]|
+
+débris |[('pilaires', 2)]|
+
+pilaires |[('Le', 2)]|
+
+adjacent |[('discrètement', 2)]|
+
+En |[('surface', 2)]|
+
+apparait |[('histologiquement', 6), ('abouchée', 2), ('légèrement', 2), ('bien', 2), ('cubique', 2)]|
+
+abouchée |[('revêtement', 2)]|
+
+pertuis |[('L', 2)]|
+
+SILLON |[('NASOGENIEN', 2)]|
+
+NASOGENIEN |[('DROIT', 2)]|
+
+KYSTE |[('EPIDERMIQUE', 2), ('RADICULO', 2), ('DENTIGERE', 2)]|
+
+EPIDERMIQUE |[('Le', 2)]|
+
+RINGENBACH |[('SL', 10)]|
+
+SL |[('PRELEVEMENT', 8), ('BHOT6310', 2)]|
+
+BHOT6310 |[('RENSEIGNEMENTS', 2)]|
+
+Suite |[('extempo', 2)]|
+
+extempo |[('Adénopathie', 2)]|
+
+Adénopathie |[('satellite', 4)]|
+
+satellite |[('inférieure', 4)]|
+
+dte |[('EXAMEN', 2)]|
+
+1ganglion |[('lymphatique', 2)]|
+
+lymphatique |[('0', 2), ('aspect', 2), ('reactionnel', 2), ('L', 2), ('N', 2)]|
+
+9cm |[('grand', 2)]|
+
+axerecu |[('fixé', 2)]|
+
+Inclusion |[('partielle', 6), ('totalité', 2)]|
+
+concerne |[('macro', 4), ('2', 4), ('ganglion', 2), ('tissu', 2), ('fragment', 2)]|
+
+ganglion |[('lymphatique', 4)]|
+
+reactionnel |[('depourvu', 2), ('Pas', 2)]|
+
+depourvu |[('localisation', 2)]|
+
+localisation |[('périvasculaire', 4), ('tumorale', 2), ('superficielle', 2)]|
+
+exerese |[('complete', 6), ('ganglion', 2)]|
+
+Electronique |[('oui', 4)]|
+
+MGUS |[('IgG', 4), ('myélo', 4)]|
+
+suivi |[('depuis', 4)]|
+
+depuis |[('2014', 4)]|
+
+2014 |[('Majoration', 4)]|
+
+Majoration |[('HSF', 6), ('créatinémie', 4)]|
+
+166 |[('vs', 4)]|
+
+vs |[('130', 4), ('0', 4)]|
+
+130 |[('protéinurie', 4)]|
+
+44 |[('g', 8)]|
+
+24h |[('PBR', 6), ('vs', 4)]|
+
+30 |[('DAKO', 32), ('surface', 10), ('lact', 6), ('symptomatologie', 4), ('nombreux', 4), ('11', 4)]|
+
+myélo |[('3', 4)]|
+
+plasmocytes |[('Biologie', 4), ('quelques', 4), ('La', 2)]|
+
+169 |[('µmol', 4)]|
+
+h |[('hématurie', 10)]|
+
+MGRS |[('EXAMEN', 4)]|
+
+corticomédullaire |[('mesurant', 4)]|
+
+7 |[('cm', 28), ('blocs', 6), ('mois', 6), ('30', 6), ('31', 6), ('glomérules', 4), ('Dako', 4), ('5', 2), ('35', 2)]|
+
+axes |[('mésangiaux', 10), ('conjonctivo', 6)]|
+
+mésangiaux |[('place', 6), ('IgA', 6), ('peu', 4), ('C3', 4)]|
+
+élargis |[('sans', 6), ('place', 4)]|
+
+place |[('élargis', 6), ('augmentation', 4), ('hyalinisés', 2)]|
+
+augmentation |[('cellularité', 10), ('nombre', 8), ('notable', 6), ('lymphocytose', 4)]|
+
+cellularité |[('On', 10)]|
+
+volumineuse |[('synéchie', 4)]|
+
+synéchie |[('floculo', 6), ('fibreuse', 4)]|
+
+fibreuse |[('floculo', 4), ('contact', 2), ('La', 2), ('hétérogène', 2)]|
+
+floculo |[('capsulaire', 10)]|
+
+capsulaire |[('On', 6), ('fibrose', 4)]|
+
+moitié |[('floculus', 10)]|
+
+autre |[('montre', 4), ('SSA', 2)]|
+
+capsule |[('exerese', 6), ('thyroidienne', 6), ('Bowman', 4), ('quelques', 4)]|
+
+Bowman |[('glomérule', 4)]|
+
+dépôts |[('hyalins', 16), ('mésangiaux', 6), ('fibrinoïde', 6), ('amylose', 4), ('granuleux', 4)]|
+
+hyalins |[('occupant', 6), ('glomérule', 6), ('périphériques', 4), ('cylindre', 4)]|
+
+périphériques |[('On', 4)]|
+
+minime |[('infiltrat', 12)]|
+
+cylindres |[('hyalins', 4)]|
+
+cylindre |[('myélomateux', 4)]|
+
+myélomateux |[('Pas', 4)]|
+
+modérée |[('RENSEIGNEMENTS', 6), ('marquée', 6), ('quelques', 4), ('présentent', 4), ('Il', 4), ('lobules', 4), ('PRELEVEMENT', 2), ('Ces', 2)]|
+
+artérioles |[('ainsi', 4)]|
+
+certains |[('glomérules', 4), ('endroits', 4)]|
+
+MAT |[('dépôts', 4)]|
+
+amylose |[('EXAMEN', 4)]|
+
+vitrées |[('tubulaires', 4)]|
+
+interstitielle |[('estimée', 4), ('faible', 2)]|
+
+estimée |[('30', 4), ('40', 4)]|
+
+sclérosés |[('hyalinose', 4)]|
+
+KOCH |[('Stéphane', 20)]|
+
+Stéphane |[('N', 20)]|
+
+17P184 |[('Reçu', 4)]|
+
+P170106002 |[('Dr', 4)]|
+
+BASSIGNOT |[('Jean', 4)]|
+
+Pierre |[('NJF', 4)]|
+
+19 |[('11', 4)]|
+
+1946 |[('23', 4)]|
+
+23 |[('ch', 4), ('02', 2)]|
+
+ch |[('Cravaux', 4)]|
+
+Cravaux |[('25440', 4)]|
+
+25440 |[('CHARNAY', 4)]|
+
+CHARNAY |[('Dr', 4)]|
+
+Grande |[('courbure', 4)]|
+
+courbure |[('2', 8), ('3', 8), ('5', 8), ('6', 8), ('biopsies', 8), ('face', 4), ('4', 4), ('EXAMEN', 4)]|
+
+ESTOMAC |[('2', 6), ('ANTRE', 6), ('GRANDE', 4), ('FUNDUS', 4), ('1', 4)]|
+
+GRANDE |[('COURBURE', 4)]|
+
+COURBURE |[('2', 4)]|
+
+Biopsies |[('1', 8), ('gastriques', 6), ('Il', 4)]|
+
+gastrique |[('type', 22), ('fundique', 18), ('antrale', 4), ('identification', 2), ('montre', 2)]|
+
+fundique |[('La', 10), ('Constatations', 8), ('dont', 8), ('apparaît', 6), ('NORMALE', 4), ('présente', 4), ('siège', 4), ('histologiquement', 4), ('normale', 4), ('remaniée', 4), ('érosion', 4), ('legere', 4)]|
+
+NORMALE |[('sans', 6), ('Les', 4), ('Absence', 4)]|
+
+structures |[('épithéliales', 14), ('glandulaires', 2), ('Le', 2)]|
+
+épithéliales |[('peu', 14), ('Le', 4)]|
+
+modifiées |[('dehors', 6), ('tout', 4), ('non', 4)]|
+
+tout |[('plus', 4)]|
+
+discrète |[('hypercrinie', 4), ('fibrose', 2), ('cholécystite', 2), ('atrophie', 2)]|
+
+hypercrinie |[('muqueuse', 4)]|
+
+cryptes |[('légèrement', 6), ('ABSENCE', 6), ('Il', 4), ('2', 4), ('soulignées', 4), ('Les', 4), ('longues', 4), ('restent', 2)]|
+
+notable |[('chorion', 8), ('éléments', 6), ('L', 6), ('Quelques', 4)]|
+
+chorion |[('renferme', 28), ('Pas', 12), ('siège', 8), ('peine', 6), ('ABSENCE', 4), ('fibro', 4), ('comporte', 4), ('nettement', 4), ('constitué', 4), ('oedémateux', 4), ('sous', 4), ('associé', 2), ('présente', 2), ('assez', 2), ('plutôt', 2), ('superficiel', 2)]|
+
+HELICOBACTER |[('PYLORI', 26)]|
+
+PYLORI |[('IDENTIFIABLE', 12), ('Aucune', 10), ('Le', 4)]|
+
+Aucune |[('structure', 12)]|
+
+structure |[('suspecte', 14), ('tumorale', 2)]|
+
+suspecte |[('aperçue', 12), ('CONCLUSION', 2)]|
+
+aperçue |[('Le', 6), ('2', 6)]|
+
+PHDE0000 |[('FU', 4)]|
+
+FU |[('PRELEVEMENT', 2), ('RENSEIGNEMENTS', 2)]|
+
+Nodule |[('sous', 2)]|
+
+cancer |[('sein', 2)]|
+
+métastatique |[('os', 2)]|
+
+os |[('foie', 2)]|
+
+foie |[('Recherche', 2)]|
+
+Recherche |[('HTP', 4), ('marqueur', 2)]|
+
+marqueur |[('HER2', 2)]|
+
+infiltré |[('prolifération', 4)]|
+
+mal |[('préservée', 2), ('limitée', 2)]|
+
+préservée |[('composée', 2)]|
+
+arrondies |[('noncohésives', 2)]|
+
+noncohésives |[('Le', 2)]|
+
+cytoplasme |[('acidophile', 4), ('faiblement', 4), ('peu', 4), ('ensemble', 2), ('éosinophile', 2)]|
+
+ronds |[('vésiculeux', 4), ('ovalaires', 2)]|
+
+ovalaires |[('pourvus', 2)]|
+
+pourvus |[('chromatine', 2)]|
+
+chromatine |[('clarifiée', 4), ('fine', 2)]|
+
+fine |[('1', 8), ('plus', 2), ('régulière', 2)]|
+
+nucléole |[('L', 2)]|
+
+anisocaryose |[('reste', 4), ('modérée', 2)]|
+
+GATA3 |[('apparaissent', 2)]|
+
+apparaissent |[('différents', 6), ('isolées', 2)]|
+
+isolées |[('présentent', 2), ('groupées', 2)]|
+
+étroites |[('L', 2)]|
+
+immunoréactivité |[('E', 2), ('nucléaire', 2)]|
+
+E |[('Cadhérine', 10), ('cadhérine', 2)]|
+
+cadhérine |[('confirme', 2)]|
+
+nature |[('EXAMEN', 4), ('lobulaire', 2), ('non', 2)]|
+
+lobulaire |[('in', 8), ('atypique', 4), ('non', 4), ('prolifération', 2), ('Absence', 2)]|
+
+évoquée |[('terme', 2)]|
+
+terme |[('analyse', 2)]|
+
+embole |[('vasculaire', 6), ('lymphatique', 2)]|
+
+application |[('anticorps', 8)]|
+
+RO |[('récepteur', 8), ('anti', 2), ('Il', 2)]|
+
+ER |[('Clone', 2)]|
+
+SP1 |[('monoclonal', 2)]|
+
+HER |[('2', 6)]|
+
+Neu |[('Clone', 2)]|
+
+4B5 |[('prédilué', 2)]|
+
+quasi |[('totalité', 2)]|
+
+témoin |[('externe', 2)]|
+
+LOCALISATION |[('NON', 2)]|
+
+EXPLICITE |[('biopsie', 2)]|
+
+métastase |[('carcinome', 2), ('ganglionnaire', 2), ('carcinomateuse', 2)]|
+
+expression |[('immunohistochimique', 8), ('récepteur', 2)]|
+
+récepteur |[('oestrogènes', 8), ('membranaire', 2)]|
+
+membranaire |[('funiculaire', 8), ('focale', 4), ('HER', 2)]|
+
+CHOTARD |[('Marlène', 6)]|
+
+Marlène |[('N', 6)]|
+
+17P1842 |[('Reçu', 6)]|
+
+P170202021 |[('Dr', 6)]|
+
+JEAN |[('Flavien', 6)]|
+
+Flavien |[('NJF', 6)]|
+
+28 |[('02', 6)]|
+
+2005 |[('Dr', 6)]|
+
+Bilan |[('opacité', 8), ('épigastralgies', 6)]|
+
+épigastralgies |[('1', 6)]|
+
+gastriques |[('2', 6)]|
+
+Tiers |[('inférieur', 6), ('moyen', 6), ('supérieur', 6)]|
+
+œsophage |[('3', 6), ('4', 6), ('Etude', 6)]|
+
+moyen |[('œsophage', 6), ('Inclusion', 6), ('droit', 2)]|
+
+antral |[('fragment', 6), ('La', 4)]|
+
+antrale |[('apparaît', 6), ('montre', 4), ('3', 4), ('dont', 4), ('dédifférenciée', 4), ('peut', 4), ('polypoïde', 4), ('peu', 2), ('où', 2)]|
+
+apparaît |[('remaniée', 12), ('congestif', 4)]|
+
+remaniée |[('DISCRETES', 6), ('LESIONS', 6), ('Biologie', 6), ('phenomenes', 4), ('On', 2)]|
+
+DISCRETES |[('LESIONS', 6)]|
+
+LESIONS |[('DE', 6), ('CONGESTIVES', 6)]|
+
+GASTRITE |[('CHRONIQUE', 26), ('SUPERFICIELLE', 6)]|
+
+SUPERFICIELLE |[('Les', 6), ('DE', 6)]|
+
+dystrophiques |[('sans', 8), ('entourent', 6), ('RENSEIGNEMENTS', 2)]|
+
+entourent |[('chorion', 6)]|
+
+peine |[('élargi', 6)]|
+
+élargi |[('oedème', 6), ('Le', 4)]|
+
+oedème |[('infiltrat', 6), ('congestion', 2)]|
+
+lympho |[('plasmocytaire', 12), ('plasmocytes', 2)]|
+
+plasmocytaire |[('lâche', 6), ('peu', 4), ('significatif', 2)]|
+
+glandes |[('ni', 12), ('sous', 6), ('Il', 4), ('antrales', 4), ('type', 4), ('Lieberkühn', 4), ('normalement', 4), ('parfois', 4), ('normales', 4), ('sans', 4), ('mesurant', 2), ('restent', 2), ('séreuses', 2), ('fundiques', 2)]|
+
+jacentes |[('normale', 6)]|
+
+Classification |[('GASTRITE', 6), ('Oxford', 6)]|
+
+CHRONIQUE |[('LEGERE', 12), ('FUNDIQUE', 8), ('SUPERFICIELLE', 6)]|
+
+ANTRE |[('ET', 8), ('DE', 6), ('Aspect', 4), ('biopsies', 4), ('FUNDUS', 2)]|
+
+CONGESTIVES |[('SUPERFICIELLES', 6)]|
+
+SUPERFICIELLES |[('AVEC', 6)]|
+
+HYPERCRINIE |[('MUQUEUSE', 6)]|
+
+MUQUEUSE |[('DES', 6), ('DUODENALE', 4)]|
+
+CRYPTES |[('Il', 6)]|
+
+effet |[('plages', 6), ('thérapeutique', 4)]|
+
+congestion |[('érythrodiapédèse', 6), ('vasculaire', 2)]|
+
+érythrodiapédèse |[('accompagnant', 6)]|
+
+accompagnant |[('augmentation', 6), ('quelques', 4)]|
+
+inflammatoires |[('chroniques', 12), ('Les', 6), ('fibreuses', 2), ('polymorphes', 2), ('non', 2), ('xerostomie', 2), ('faible', 2)]|
+
+dehors |[('certain', 6)]|
+
+certain |[('degré', 6)]|
+
+degré |[('hypersécrétion', 6)]|
+
+hypersécrétion |[('muqueuse', 6)]|
+
+ŒSOPHAGE |[('TIERS', 18)]|
+
+TIERS |[('INFERIEUR', 6), ('MOYEN', 6), ('SUPERIEUR', 6)]|
+
+INFERIEUR |[('GAUCHE', 8), ('3', 6)]|
+
+porté |[('épithélium', 12), ('2', 12), ('muqueuse', 6), ('1', 6), ('4', 4)]|
+
+malpighienne |[('NORMALE', 6), ('Je', 4)]|
+
+dystrophie |[('épithéliale', 6)]|
+
+élément |[('faveur', 18), ('inflammatoire', 4), ('anormal', 2)]|
+
+oesophagite |[('matériel', 6)]|
+
+éosinophiles |[('La', 18), ('repérés', 4), ('renferment', 4), ('bien', 4), ('Pas', 2), ('Absence', 2)]|
+
+PAS |[('met', 18), ('Grocott', 8), ('Gram', 4), ('montre', 2)]|
+
+met |[('évidence', 32)]|
+
+évidence |[('Helicobacter', 20), ('filaments', 18), ('cellules', 2), ('structure', 2)]|
+
+levures |[('Pas', 12), ('Aucun', 6)]|
+
+Aucun |[('signe', 6)]|
+
+MOYEN |[('2', 6)]|
+
+deux |[('prélèvements', 6), ('biopsies', 4), ('nucléoles', 4)]|
+
+dépourvu |[('chorion', 12), ('infiltrat', 4)]|
+
+œsophagite |[('matériel', 12)]|
+
+SUPERIEUR |[('1', 6)]|
+
+également |[('porté', 6), ('MUM1', 4)]|
+
+TAVERNIER |[('Laurent', 2)]|
+
+Laurent |[('N', 2)]|
+
+17P1843 |[('Reçu', 2)]|
+
+P170202023 |[('Dr', 2)]|
+
+AUBERT |[('Thomas', 2)]|
+
+Thomas |[('NJF', 2)]|
+
+2006 |[('Dr', 2)]|
+
+Perle |[('cholestéatomateuse', 2)]|
+
+cholestéatomateuse |[('conduit', 2)]|
+
+conduit |[('auditif', 2)]|
+
+auditif |[('externe', 2)]|
+
+CONDUIT |[('AUDITIF', 2)]|
+
+AUDITIF |[('EXTERNE', 2)]|
+
+prélevés |[('identifient', 2), ('siège', 2)]|
+
+identifient |[('îlots', 2)]|
+
+îlots |[('squames', 2)]|
+
+lambeaux |[('revêtement', 2)]|
+
+dissocié |[('sans', 2)]|
+
+tel |[('matériel', 2)]|
+
+provient |[('CHOLESTEATOME', 2)]|
+
+CHOLESTEATOME |[('Aucune', 2)]|
+
+2009 |[('HSF', 6)]|
+
+HSF |[('2', 6), ('symptomatologie', 6), ('EXAMEN', 6)]|
+
+transplanté |[('rénal', 6)]|
+
+rénal |[('2008', 6)]|
+
+2008 |[('néphropathie', 6)]|
+
+néphropathie |[('IgA', 6)]|
+
+majoration |[('créatinémie', 6)]|
+
+8g |[('24h', 6)]|
+
+évaluation |[('lésions', 6)]|
+
+traitement |[('HSF', 6)]|
+
+240 |[('µmol', 6)]|
+
+Prograf |[('Cellcept', 6), ('On', 6)]|
+
+Irbesartan |[('HYPOTHESES', 6)]|
+
+Evaluation |[('lésions', 6)]|
+
+marquée |[('sous', 6), ('plutôt', 6), ('faite', 2)]|
+
+organisation |[('volumineux', 6)]|
+
+volumineux |[('podocytes', 6), ('chromatine', 4)]|
+
+podocytes |[('couronne', 6)]|
+
+couronne |[('associés', 6)]|
+
+associés |[('dépôts', 6)]|
+
+occupant |[('plus', 6), ('totalité', 4)]|
+
+entre |[('présentant', 6), ('elles', 4)]|
+
+présentant |[('noyaux', 8), ('synéchie', 6), ('remaniements', 6), ('cavité', 6)]|
+
+ailleurs |[('observe', 10), ('dépôts', 6), ('présence', 4), ('a', 2), ('calcifications', 2), ('inflammation', 2)]|
+
+confiné |[('zones', 6)]|
+
+sections |[('artérielles', 6), ('chirurgicales', 2)]|
+
+artérielles |[('présentant', 6)]|
+
+modérés |[('infiltrat', 6)]|
+
+v0 |[('cv1', 6)]|
+
+cv1 |[('Pas', 6)]|
+
+localisée |[('sous', 6)]|
+
+endothélial |[('sans', 6)]|
+
+permettant |[('affirmer', 6)]|
+
+affirmer |[('toxicité', 6)]|
+
+toxicité |[('Prograf', 6)]|
+
+Par |[('ailleurs', 16), ('contre', 4)]|
+
+parenchyme |[('thyroidien', 12), ('ganglionnaire', 8), ('pulmonaire', 8), ('cortical', 6), ('mammaire', 4), ('glanddes', 2), ('parathyroïdien', 2), ('glandulaire', 2)]|
+
+limitée |[('non', 6), ('étendant', 2)]|
+
+encapsulée |[('architecture', 6)]|
+
+papillaire |[('archytecture', 12), ('mesurant', 6), ('RENSEIGNEMENTS', 6)]|
+
+conjonctivo |[('vasculaires', 8)]|
+
+vasculaires |[('revêtu', 6), ('non', 2), ('Les', 2)]|
+
+revêtu |[('épithélium', 6)]|
+
+cylindrique |[('noyaux', 6), ('normosécrétant', 4), ('atypique', 4), ('atypies', 4), ('quelques', 4), ('atypie', 4), ('cellules', 2)]|
+
+réguliers |[('De', 8), ('basaux', 6)]|
+
+basaux |[('sans', 6)]|
+
+atypie |[('ni', 8), ('cytonucléaire', 8), ('accompagnant', 4)]|
+
+mitose |[('Ces', 6), ('Les', 2)]|
+
+immunoréactives |[('CK7', 6)]|
+
+CK7 |[('Clone', 32), ('PAX8', 6), ('CK19', 2)]|
+
+PAX8 |[('P504', 6), ('Polyclonal', 6)]|
+
+P504 |[('Pas', 6), ('Clone', 6)]|
+
+vimentine |[('CK20', 6)]|
+
+CK20 |[('Clone', 18), ('TTF1', 6)]|
+
+Etant |[('donné', 6)]|
+
+donné |[('taille', 6)]|
+
+cette |[('lésion', 6), ('lymphocytose', 4), ('fibrose', 2), ('pièce', 2)]|
+
+qualifiée |[('adénome', 6)]|
+
+adénome |[('ETUDE', 6), ('P3', 2), ('parathyroïdien', 2)]|
+
+OV |[('TL', 32)]|
+
+TL |[('12', 32)]|
+
+150 |[('positive', 16), ('négatif', 8), ('CK20', 6), ('CK19', 2)]|
+
+K20 |[('8', 18)]|
+
+Novocastra |[('1', 6)]|
+
+5000 |[('positive', 8), ('PAX8', 6), ('positivité', 4)]|
+
+Zytomed |[('1', 8)]|
+
+13H4 |[('Cell', 6)]|
+
+Vimentine |[('Clone', 6)]|
+
+V9 |[('Leica', 6)]|
+
+Leica |[('1', 6)]|
+
+mésangial |[('IgA', 6)]|
+
+lambda |[('Pas', 6)]|
+
+Récidive |[('glomérulopathie', 6)]|
+
+glomérulopathie |[('dépôts', 6)]|
+
+Oxford |[('M0E0S1T1', 6)]|
+
+M0E0S1T1 |[('Pas', 6)]|
+
+Hyalinose |[('segmentaire', 6)]|
+
+Adénome |[('tubulo', 6)]|
+
+opacité |[('LSG', 8)]|
+
+LSG |[('Aspiration', 8)]|
+
+sérum |[('2', 8)]|
+
+Culmen |[('3', 8)]|
+
+Eperon |[('BSG', 8)]|
+
+BSG |[('ASPIRATION', 8), ('biopsie', 8)]|
+
+17Z517 |[('EXAMEN', 8)]|
+
+hématique |[('12h12', 8), ('associé', 2)]|
+
+12h12 |[('31', 8)]|
+
+12h |[('Après', 8), ('1', 4)]|
+
+irréguliers |[('souvent', 8)]|
+
+macronucléolés |[('cytoplasmes', 8)]|
+
+cytoplasmes |[('moyennement', 8)]|
+
+moyennement |[('abondants', 8)]|
+
+abondants |[('sans', 8)]|
+
+différenciation |[('évidente', 8), ('malpighienne', 4)]|
+
+évidente |[('Leur', 8)]|
+
+identique |[('celui', 16)]|
+
+adénocarcinome |[('infiltrant', 10), ('observé', 8), ('dont', 8), ('papillaire', 6), ('canalaire', 2)]|
+
+adénocarcinomateuses |[('BIOPSIES', 8)]|
+
+17P1845 |[('EXAMEN', 8)]|
+
+massivement |[('infiltrée', 16), ('infiltré', 2)]|
+
+infiltrée |[('prolifération', 16), ('lympho', 2)]|
+
+déchirée |[('sans', 8)]|
+
+identifiable |[('3', 8), ('ETUDE', 8), ('Remaniements', 8), ('RENSEIGNEMENTS', 8)]|
+
+observée |[('biopsie', 8)]|
+
+9h18 |[('Biopsie', 8)]|
+
+CDX |[('2', 12)]|
+
+EPR2764Y |[('Cell', 12)]|
+
+ALK |[('clone', 16), ('Biologie', 8), ('1', 4)]|
+
+D5F3 |[('Ozyme', 16)]|
+
+Ozyme |[('1', 16)]|
+
+250 |[('négative', 16), ('positif', 4)]|
+
+oestrogènes |[('Clone', 8)]|
+
+SP |[('1', 8)]|
+
+Pur |[('négative', 16)]|
+
+RP |[('récepteurs', 8), ('100', 2)]|
+
+récepteurs |[('progestérones', 8)]|
+
+progestérones |[('Clone', 8)]|
+
+1E2 |[('ROCHE', 8)]|
+
+FRAICHE |[('DANS', 8)]|
+
+DANS |[('DU', 8)]|
+
+SERUM |[('PHYSIOLOGIQUE', 8)]|
+
+PHYSIOLOGIQUE |[('3', 8)]|
+
+EPERON |[('BSG', 8)]|
+
+profil |[('immunohistochimique', 10)]|
+
+moléculaire |[('EGFR', 8)]|
+
+EGFR |[('cours', 8)]|
+
+CULMEN |[('biopsie', 8)]|
+
+Muqueuse |[('bronchique', 8), ('fundique', 4), ('antrofundique', 4)]|
+
+Glande |[('salivaire', 2)]|
+
+salivaire |[('accessoire', 10)]|
+
+accessoire |[('Syndrome', 2), ('Arthralgies', 2), ('a', 2), ('Circonstances', 2), ('sans', 2)]|
+
+Syndrome |[('sec', 4)]|
+
+sec |[('oculo', 2), ('EXAMEN', 2), ('recherche', 2)]|
+
+oculo |[('buccal', 2)]|
+
+buccal |[('ac', 2)]|
+
+ac |[('J01', 2)]|
+
+J01 |[('autre', 2)]|
+
+SSA |[('Suspicion', 2)]|
+
+syndrome |[('Gougerot', 6), ('néphrotique', 4), ('sec', 2)]|
+
+Gougerot |[('EXAMEN', 4), ('Sjögren', 2), ('Pas', 2)]|
+
+millimètres |[('carré', 2)]|
+
+carré |[('Les', 2)]|
+
+septa |[('conjonctifs', 2)]|
+
+conjonctifs |[('épaissis', 2)]|
+
+épaissis |[('fibrose', 2)]|
+
+collagène |[('non', 4), ('peu', 2), ('place', 2), ('couches', 2)]|
+
+acini |[('régressent', 2), ('quelques', 2)]|
+
+régressent |[('périphérie', 2)]|
+
+raison |[('cette', 2)]|
+
+granulome |[('histiocytaire', 4), ('absence', 2), ('2', 2), ('dépot', 2)]|
+
+dépôt |[('amyloïde', 2), ('hémosidérine', 2)]|
+
+amyloïde |[('On', 2)]|
+
+infiltrats |[('lymphocytaires', 2)]|
+
+significative |[('plus', 2)]|
+
+autour |[('canaux', 2), ('cryptes', 2)]|
+
+canaux |[('intermédiaire', 2)]|
+
+intermédiaire |[('cryptes', 4), ('canal', 2), ('mesurant', 2)]|
+
+canal |[('central', 2)]|
+
+central |[('CONCLUSION', 2)]|
+
+GLANDE |[('SALIVAIRE', 8)]|
+
+SALIVAIRE |[('ACCESSOIRE', 6), ('Sialadénite', 2)]|
+
+Sialadénite |[('lymphocytaire', 2)]|
+
+lymphocytaire |[('discret', 4), ('non', 4), ('fond', 4), ('CONCLUSION', 4), ('nodulaire', 2)]|
+
+nodulaire |[('Score', 2), ('dont', 2), ('PRELEVEMENT', 2)]|
+
+Score |[('3', 2), ('A', 2)]|
+
+Chisholm |[('Aspect', 2)]|
+
+compatible |[('syndrome', 2), ('origine', 2)]|
+
+Sjögren |[('RENSEIGNEMENTS', 2)]|
+
+spinocellulaire |[('cervicale', 2)]|
+
+cervicale |[('gauche', 2)]|
+
+fil |[('EXAMEN', 6), ('long', 2), ('court', 2)]|
+
+3h |[('EXAMEN', 2), ('0', 2)]|
+
+fixée |[('formol', 6), ('orientée', 2), ('fermée', 2)]|
+
+centrée |[('lésion', 2)]|
+
+plane |[('non', 2)]|
+
+pigmentée |[('bords', 2)]|
+
+irrréguliers |[('0', 2)]|
+
+encrée |[('L', 2)]|
+
+Type |[('histologique', 2)]|
+
+basocellulaire |[('type', 2), ('nodulaire', 2)]|
+
+disposition |[('palissadique', 2)]|
+
+palissadique |[('périphérique', 2)]|
+
+périphérique |[('On', 2), ('CONCLUSION', 2)]|
+
+fentes |[('rétraction', 2)]|
+
+rétraction |[('périphérie', 2)]|
+
+Dimension |[('maximale', 2)]|
+
+maximale |[('0', 2)]|
+
+Epaisseur |[('tumorale', 2)]|
+
+péri |[('nerveuse', 2)]|
+
+nerveuse |[('non', 2)]|
+
+Envahissements |[('vasculaires', 2)]|
+
+Extension |[('profondeur', 2)]|
+
+profondeur |[('envahit', 2), ('latéralement', 2), ('Le', 2)]|
+
+envahit |[('derme', 2)]|
+
+reticulaire |[('Exérèse', 2)]|
+
+passent |[('tissu', 2)]|
+
+latéralement |[('Marges', 2)]|
+
+Marges |[('chirurgicales', 2)]|
+
+berge |[('12h', 2), ('6h', 2), ('3h', 2), ('9h', 2)]|
+
+6h |[('1', 2)]|
+
+9h |[('0', 2)]|
+
+profonde |[('0', 2)]|
+
+cervical |[('gauche', 2)]|
+
+Carcinome |[('basocellulaire', 2)]|
+
+17P1848 |[('Reçu', 2)]|
+
+P170202006 |[('Dr', 2)]|
+
+ANDRASIK |[('Aline', 2)]|
+
+Aline |[('NJF', 2)]|
+
+1970 |[('2B', 2)]|
+
+2B |[('r', 2)]|
+
+r |[('Fontenelle', 2)]|
+
+Fontenelle |[('25300', 2)]|
+
+25300 |[('VUILLECIN', 2)]|
+
+VUILLECIN |[('Dr', 2)]|
+
+supra |[('sourcilière', 2)]|
+
+sourcilière |[('externe', 2)]|
+
+Eliminer |[('CBC', 2)]|
+
+CBC |[('Caractères', 2)]|
+
+diamètre |[('Examen', 2), ('lequel', 2)]|
+
+mélanocytaires |[('sans', 2)]|
+
+cordons |[('présence', 2), ('cellules', 2)]|
+
+maturation |[('bien', 2)]|
+
+visible |[('vers', 2), ('oui', 2)]|
+
+mélanique |[('peu', 2)]|
+
+activité |[('ni', 10), ('La', 4), ('jonctionnelle', 2), ('Absence', 2)]|
+
+jonctionnelle |[('L', 2)]|
+
+SUPRA |[('SOURCILIERE', 2)]|
+
+SOURCILIERE |[('EXTERNE', 2)]|
+
+DERMIQUE |[('D', 2)]|
+
+COMPLETE |[('Le', 2)]|
+
+CLAIROTTE |[('IS', 6)]|
+
+BHOTM0A2 |[('PRELEVEMENT', 2)]|
+
+CHATELAIN |[('Brice', 2)]|
+
+Brice |[('N', 2)]|
+
+17P1849 |[('Reçu', 2)]|
+
+P170202008 |[('Dr', 2)]|
+
+KLINGUER |[('Guillaume', 2)]|
+
+Guillaume |[('NJF', 2)]|
+
+1979 |[('84', 2)]|
+
+84 |[('B', 2)]|
+
+B |[('route', 4), ('formant', 4), ('rue', 2), ('A2', 2), ('Subjectivement', 2), ('Absence', 2), ('N', 2), ('RENSEIGNEMENTS', 2)]|
+
+Vesoul |[('25000', 2)]|
+
+RADICULO |[('DENTAIRE', 2)]|
+
+DENTAIRE |[('17', 2)]|
+
+18 |[('Caractères', 2), ('ASPECT', 2), ('x', 2), ('cm', 2)]|
+
+plurifragmenté |[('inclus', 2)]|
+
+fibroblastique |[('Sur', 8), ('ponctué', 2)]|
+
+ponctué |[('quelques', 2)]|
+
+néoformés |[('parfois', 2)]|
+
+congestifs |[('siège', 2)]|
+
+marqué |[('selon', 2)]|
+
+selon |[('3', 6), ('territoires', 2), ('6', 2)]|
+
+territoires |[('nécrose', 4), ('fait', 2)]|
+
+lymphoplasmocytaires |[('Ce', 2), ('autour', 2), ('éparpillés', 2)]|
+
+stratifié |[('éléments', 2)]|
+
+différenciés |[('accompagnés', 2)]|
+
+accompagnés |[('quelques', 2)]|
+
+caliciformes |[('entérocytes', 16), ('proportions', 4), ('isolées', 2), ('Le', 2), ('chorion', 2)]|
+
+KYSTIQUE |[('SUR', 2)]|
+
+LES |[('CRITERES', 4), ('DENTS', 2)]|
+
+DENTS |[('17', 2)]|
+
+HISTOLOGIQUE |[('DE', 2), ('SELON', 2)]|
+
+DENTIGERE |[('ABSENCE', 2)]|
+
+CARACTERE |[('SUSPECT', 2)]|
+
+SUSPECT |[('Le', 2)]|
+
+SLRENSEIGNEMENTS |[('CLINIQUES', 2)]|
+
+osseux |[('mandibulaire', 2), ('endroit', 2)]|
+
+mandibulaire |[('suite', 2)]|
+
+suite |[('carcinome', 2)]|
+
+radiothérapie |[('novembre', 2)]|
+
+novembre |[('2015', 2)]|
+
+ostéonécrose |[('récidive', 2)]|
+
+récidive |[('EXAMEN', 2)]|
+
+plurifragmentaire |[('fibro', 4), ('calcifié', 2), ('légérement', 2)]|
+
+calcifié |[('prélevé', 2)]|
+
+prélevé |[('totalité', 6), ('échantillonage', 2)]|
+
+décalcification |[('EXAMEN', 2)]|
+
+endroit |[('dépourvus', 2)]|
+
+dépourvus |[('ostéocytes', 2)]|
+
+ostéocytes |[('Entre', 2)]|
+
+Entre |[('travées', 2)]|
+
+osseuses |[('observe', 2), ('normales', 2)]|
+
+Grocott |[('Ziels', 8), ('PAS', 2), ('PRELEVEMENT', 2)]|
+
+Gram |[('Absence', 2), ('Grocott', 2)]|
+
+ULTRA |[('HBME', 10), ('CD79', 4), ('CK', 2), ('CK5', 2)]|
+
+OS |[('MANDIBULE', 2)]|
+
+MANDIBULE |[('biopsie', 2)]|
+
+ostéoradionécrose |[('Pas', 2)]|
+
+17P1850 |[('Reçu', 8)]|
+
+P170202009 |[('Dr', 8)]|
+
+DROMARD |[('Ghislain', 8)]|
+
+Ghislain |[('NJF', 8)]|
+
+04 |[('1967', 8)]|
+
+1967 |[('Dr', 8)]|
+
+ENDOSCOPIE |[('DIGESTIVE', 24)]|
+
+DIGESTIVE |[('HAUTE', 24)]|
+
+HAUTE |[('Clinique', 16), ('BIOPSIES', 8), ('DE', 2)]|
+
+Contrôle |[('ulcère', 8), ('histologique', 2)]|
+
+ulcère |[('fundique', 8), ('fundus', 8)]|
+
+Constatations |[('endoscopiques', 16)]|
+
+endoscopiques |[('1', 8), ('Examen', 8)]|
+
+surélévation |[('bulbe', 8)]|
+
+bulbe |[('2', 8)]|
+
+fundus |[('Caractères', 8), ('Controle', 2), ('biopsie', 2), ('EXAMEN', 2)]|
+
+trois |[('fragments', 16), ('biopsies', 4), ('niveaux', 2)]|
+
+duodénale |[('dont', 8), ('montre', 4), ('2', 4), ('comportant', 4)]|
+
+population |[('inflammatoire', 24), ('mastocytaire', 12), ('B', 4), ('lymphocytaire', 4)]|
+
+lymphoplasmocytaire |[('On', 12), ('légèrement', 8), ('constitué', 8)]|
+
+densifiée |[('Les', 8), ('On', 4), ('Coloration', 4)]|
+
+revêtues |[('cellules', 16)]|
+
+entérocytes |[('proportion', 12), ('cellules', 4), ('Les', 4)]|
+
+proportion |[('conservée', 12)]|
+
+conservée |[('On', 12), ('tapissé', 6)]|
+
+épithéliaux |[('Pas', 8), ('dispersés', 4)]|
+
+légère |[('population', 12), ('Cet', 4)]|
+
+atrophie |[('glandes', 12), ('revêtement', 4), ('Absence', 4), ('villositaire', 4), ('acini', 2), ('fibrose', 2)]|
+
+intestinale |[('La', 12), ('ni', 8), ('chorion', 4), ('Les', 4), ('dont', 4), ('dysplasie', 4), ('L', 2), ('remaniement', 2), ('fibrose', 2)]|
+
+Warthin |[('Starry', 16)]|
+
+Starry |[('absence', 12), ('met', 8), ('observé', 4), ('a', 4), ('Pas', 2), ('montre', 2), ('CONCLUSION', 2)]|
+
+Helicobacter |[('pylori', 34), ('2', 4), ('3', 4), ('CONCLUSION', 4), ('Pylori', 4)]|
+
+pylori |[('CONCLUSION', 16), ('RENSEIGNEMENTS', 8), ('3', 6), ('coloration', 4), ('4', 4)]|
+
+BULBE |[('ET', 8), ('GASTRITE', 8)]|
+
+FUNDUS |[('LEGERS', 8), ('biopsies', 6), ('La', 4), ('GASTRITE', 4), ('Muqueuse', 4)]|
+
+LEGERS |[('REMANIEMENTS', 8)]|
+
+REMANIEMENTS |[('INFLAMMATOIRES', 8)]|
+
+INFLAMMATOIRES |[('CHRONIQUES', 8)]|
+
+CHRONIQUES |[('NON', 8)]|
+
+SPECIFIQUES |[('SANS', 8)]|
+
+ATROPHIE |[('VILLOSITAIRE', 16)]|
+
+VILLOSITAIRE |[('DU', 8), ('ANTRE', 4), ('A', 4)]|
+
+FUNDIQUE |[('LEGERE', 8)]|
+
+LEGERE |[('NON', 16), ('Les', 4)]|
+
+ACTIVE |[('NON', 12), ('ABSENCE', 4)]|
+
+ATROPHIQUE |[('SANS', 12)]|
+
+IDENTIFIABLE |[('Le', 12)]|
+
+17P1851 |[('Reçu', 4)]|
+
+P170202019 |[('Dr', 4)]|
+
+HERMANN |[('Alain', 4)]|
+
+08 |[('08', 4), ('1954', 4)]|
+
+1954 |[('4', 4)]|
+
+Pasteur |[('25220', 4)]|
+
+25220 |[('NOVILLARS', 4)]|
+
+NOVILLARS |[('Dr', 4)]|
+
+HTP |[('Constatations', 4), ('EXAMEN', 2)]|
+
+Détail |[('prélèvements', 8)]|
+
+duodénales |[('trois', 4)]|
+
+antrales |[('deux', 4), ('visibles', 4)]|
+
+fundiques |[('1', 4), ('Examen', 4), ('Absence', 4), ('tantôt', 2)]|
+
+DUODENUM |[('La', 4), ('MODESTE', 4), ('biopsies', 4)]|
+
+sensiblement |[('normale', 4)]|
+
+proportions |[('harmonieuses', 4)]|
+
+harmonieuses |[('sans', 4)]|
+
+altération |[('morphologique', 4), ('état', 4)]|
+
+Quelques |[('rares', 4)]|
+
+dispersés |[('aperçus', 4)]|
+
+aperçus |[('Le', 4)]|
+
+densifié |[('compris', 4)]|
+
+compris |[('zone', 4)]|
+
+soulignées |[('revêtement', 4)]|
+
+normosécrétant |[('Le', 4)]|
+
+piqueté |[('lymphocytaire', 4)]|
+
+discret |[('infiltrat', 8), ('sans', 4)]|
+
+présente |[('lésions', 4), ('On', 4), ('foyers', 2)]|
+
+comparables |[('Après', 4), ('celles', 4)]|
+
+MODESTE |[('DUODENITE', 4)]|
+
+DUODENITE |[('INTERSTITIELLE', 4)]|
+
+INTERSTITIELLE |[('ABSENCE', 4)]|
+
+SLPRELEVEMENT |[('ENVOYE', 4)]|
+
+17P1852 |[('Reçu', 4)]|
+
+P170202020 |[('Dr', 4)]|
+
+GRAS |[('Violene', 4)]|
+
+Violene |[('NJF', 4)]|
+
+1986 |[('6', 4)]|
+
+route |[('Boult', 4)]|
+
+Boult |[('70190', 4)]|
+
+70190 |[('CHAUX', 4)]|
+
+CHAUX |[('LA', 4)]|
+
+LOTIERE |[('Dr', 4)]|
+
+Diarrhée |[('syndrome', 4)]|
+
+néphrotique |[('Constatations', 4)]|
+
+lymphocytose |[('intra', 4), ('estimée', 4)]|
+
+aide |[('anticorps', 4)]|
+
+CD3 |[('Polyclonal', 12), ('cette', 4), ('CD4', 4), ('On', 4)]|
+
+histiocytaire |[('2', 4)]|
+
+spéciale |[('étude', 8)]|
+
+mettent |[('évidence', 10)]|
+
+celles |[('observées', 4)]|
+
+observées |[('niveau', 4)]|
+
+DUODENALE |[('AUGMENTATION', 4), ('NORMALE', 4)]|
+
+AUGMENTATION |[('DE', 4)]|
+
+LYMPHOCYTOSE |[('INTRA', 4)]|
+
+CONFRONTER |[('A', 4)]|
+
+ENSEMBLE |[('DES', 4)]|
+
+DONNEES |[('DU', 4)]|
+
+DOSSIER |[('2', 4)]|
+
+GASTRIQUES |[('ANTRALE', 4)]|
+
+ANTRALE |[('ET', 4)]|
+
+FUNDIQUES |[('GASTRITE', 4)]|
+
+PHDD7511 |[('PHDE0302', 4)]|
+
+PHDE0302 |[('PRELEVEMENT', 2), ('RENSEIGNEMENTS', 2)]|
+
+antre |[('2', 2), ('fundus', 2), ('3', 2)]|
+
+Controle |[('Ubulbe', 2)]|
+
+Ubulbe |[('recherche', 2)]|
+
+recherche |[('lymphome', 4), ('HTP', 2), ('Gougerot', 2)]|
+
+intact |[('Le', 2)]|
+
+excès |[('diffus', 6), ('cellules', 2), ('élément', 2)]|
+
+restent |[('mucosécrétantes', 2), ('bien', 2)]|
+
+mucosécrétantes |[('Il', 2)]|
+
+étend |[('couche', 2)]|
+
+développées |[('Absence', 2)]|
+
+Wartin |[('Starry', 2)]|
+
+Estomac |[('antre', 2)]|
+
+Gastrite |[('chronique', 2)]|
+
+méatotomie |[('moyenne', 2)]|
+
+moyenne |[('droite', 2), ('grande', 2)]|
+
+rhinolite |[('nasale', 2)]|
+
+nasale |[('droite', 2)]|
+
+légérement |[('calcufié', 2)]|
+
+calcufié |[('2', 2)]|
+
+mou |[('fibreux', 2)]|
+
+5cm |[('GA', 6), ('EXAMEN', 2)]|
+
+méat |[('moyen', 2)]|
+
+recouvrement |[('simple', 2)]|
+
+simple |[('agit', 2)]|
+
+typiquement |[('respiratoire', 2)]|
+
+respiratoire |[('pseudostratifié', 2)]|
+
+pseudostratifié |[('cilié', 2)]|
+
+cilié |[('quelques', 2)]|
+
+conjonctif |[('assez', 8), ('sous', 2)]|
+
+remanié |[('lésions', 2)]|
+
+fibreuses |[('découpant', 4), ('cicatricielles', 2)]|
+
+cicatricielles |[('Le', 2)]|
+
+densification |[('fibreuse', 2)]|
+
+pourtour |[('vaisseaux', 2)]|
+
+Ailleurs |[('existe', 2)]|
+
+polymorphes |[('accompagnées', 2)]|
+
+accompagnées |[('oedème', 2)]|
+
+quantité |[('glandes', 2)]|
+
+séreuses |[('muqueuses', 2)]|
+
+muqueuses |[('hyper', 2)]|
+
+hyper |[('chromatiques', 4), ('secrétantes', 2)]|
+
+secrétantes |[('Les', 2)]|
+
+rhinolithe |[('prélèvement', 2)]|
+
+arrondi |[('constitué', 2)]|
+
+cellulose |[('parois', 2)]|
+
+parois |[('fines', 4), ('déshabitées', 2)]|
+
+déshabitées |[('colonisées', 2)]|
+
+colonisées |[('germes', 2)]|
+
+germes |[('calcification', 2)]|
+
+MEATOTOMIE |[('MOYENNE', 2)]|
+
+MOYENNE |[('DROITE', 2)]|
+
+rhinopathie |[('chronique', 2)]|
+
+Remaniements |[('inflammatoires', 8), ('scléro', 2), ('fibro', 2)]|
+
+scléro |[('inflammatoires', 2)]|
+
+spécifiques |[('Absence', 2), ('Pas', 2)]|
+
+éosinophilie |[('granulome', 2)]|
+
+RHINOLITHE |[('NASALE', 2)]|
+
+NASALE |[('DROITE', 2)]|
+
+Corps |[('petite', 8), ('grande', 8), ('étranger', 2)]|
+
+étranger |[('végétal', 2)]|
+
+végétal |[('RENSEIGNEMENTS', 2)]|
+
+EEH |[('ponction', 2)]|
+
+haute |[('tete', 4)]|
+
+tete |[('Boston', 2), ('lésion', 2)]|
+
+Boston |[('acquire', 2)]|
+
+acquire |[('22G', 2)]|
+
+22G |[('slow', 2)]|
+
+slow |[('pull', 2)]|
+
+pull |[('2', 2)]|
+
+idem |[('Ictère', 2)]|
+
+Ictère |[('tumoral', 2)]|
+
+Petite |[('lésion', 2)]|
+
+usT1N0MX |[('partie', 2)]|
+
+résécable |[('bili', 2)]|
+
+bili |[('100', 2)]|
+
+Décision |[('DPC', 2)]|
+
+DPC |[('sans', 2)]|
+
+stenting |[('préalable', 2)]|
+
+préalable |[('EXAMEN', 2)]|
+
+flacons |[('contiennent', 2)]|
+
+contiennent |[('matériel', 2)]|
+
+cytoponction |[('fixé', 2)]|
+
+Celui |[('ci', 2)]|
+
+centrifugé |[('inclus', 2)]|
+
+niveaux |[('coupe', 4)]|
+
+flacon |[('formol', 6), ('2', 2), ('1', 2)]|
+
+contributif |[('constitué', 2)]|
+
+uniquement |[('nappes', 2)]|
+
+contient |[('matériel', 2)]|
+
+représentatif |[('constitué', 2)]|
+
+carottes |[('fines', 8), ('biopsiques', 2)]|
+
+pancréatique |[('massivement', 2), ('RENSEIGNEMENTS', 2)]|
+
+constituée |[('éléments', 4), ('structures', 2), ('épais', 2), ('lymphocytes', 2)]|
+
+glandulaires |[('fundiques', 4), ('petits', 2)]|
+
+amas |[('nucléaires', 6), ('complètement', 6), ('travées', 2), ('lymphocytes', 2), ('lymphoides', 2)]|
+
+cytonucléaires |[('marquées', 2)]|
+
+marquées |[('La', 2)]|
+
+stroma |[('réaction', 2), ('avasculaire', 2)]|
+
+réaction |[('tumorale', 2)]|
+
+Alcian |[('PAS', 2)]|
+
+vacuoles |[('muco', 2)]|
+
+muco |[('sécrétion', 2)]|
+
+sécrétion |[('ETUDE', 2)]|
+
+COUPE |[('EN', 12)]|
+
+CK19 |[('clone', 2), ('CK5', 2)]|
+
+A53 |[('B', 2)]|
+
+A2 |[('26', 2)]|
+
+phénotype |[('suivant', 2)]|
+
+suivant |[('CK7', 2)]|
+
+diagnostics |[('adénocarcinome', 2)]|
+
+conventionel |[('carcinome', 2)]|
+
+adénosquameux |[('peuvent', 2)]|
+
+peuvent |[('être', 2)]|
+
+discutés |[('Le', 2)]|
+
+précise |[('définir', 2)]|
+
+définir |[('pièce', 2)]|
+
+PANCREAS |[('PARTIE', 2), ('cytoponctions', 2)]|
+
+PARTIE |[('HAUTE', 2)]|
+
+TETE |[('DU', 2)]|
+
+cytoponctions |[('sous', 2)]|
+
+échoendoscopie |[('adénocarcinome', 2)]|
+
+Goitre |[('multinodulaire', 6)]|
+
+multinodulaire |[('toxique', 6), ('remaniée', 6)]|
+
+toxique |[('Thyroidectomie', 6)]|
+
+Thyroidectomie |[('totale', 6)]|
+
+totale |[('lobe', 6), ('adénocarcinome', 6)]|
+
+lobe |[('inférieur', 8), ('droit', 6), ('G', 6), ('gauche', 6)]|
+
+Pièce |[('thyroïdectomie', 6)]|
+
+thyroïdectomie |[('Poids', 6), ('totale', 6)]|
+
+51 |[('g', 6)]|
+
+5x3x3 |[('cm', 6)]|
+
+Isthme |[('3', 6), ('1', 6)]|
+
+5x2 |[('5x2', 6), ('cm', 6)]|
+
+6x3x2 |[('5', 6)]|
+
+continuité |[('lobe', 6)]|
+
+G |[('EXAMEN', 8), ('2', 6), ('Prélèvement', 4)]|
+
+GA |[('petite', 6), ('Lobe', 6)]|
+
+cavité |[('1', 6), ('sanguine', 6), ('glandulaire', 4)]|
+
+remaniement |[('hémorragique', 6), ('rapport', 2), ('fibreux', 2)]|
+
+dizaine |[('petits', 6)]|
+
+colloïdes |[('plus', 12)]|
+
+1cm |[('GA', 6)]|
+
+blanchatre |[('0', 6), ('lobe', 6)]|
+
+partielle |[('7', 6), ('massive', 2)]|
+
+Presence |[('quelques', 6)]|
+
+évolutifs |[('On', 6)]|
+
+corresponde |[('carcinome', 6)]|
+
+archytecture |[('microvésiculaire', 12)]|
+
+microvésiculaire |[('non', 6), ('mesurant', 6)]|
+
+encapsulé |[('localisé', 6)]|
+
+localisé |[('parenchyme', 6), ('pelin', 6)]|
+
+complete |[('Les', 6)]|
+
+possedent |[('noyaux', 6)]|
+
+irreguliers |[('incisures', 6)]|
+
+incisures |[('parfois', 6)]|
+
+vitreux |[('existe', 6)]|
+
+chevauchement |[('cellulaires', 6)]|
+
+cellulaires |[('Pas', 6)]|
+
+HBME |[('1', 20)]|
+
+négatif |[('Galectine', 6), ('KI', 6), ('EMA', 4), ('CK20', 4), ('CK5', 4), ('P63', 4), ('CONCLUSION', 4), ('Cas', 4)]|
+
+Galectine |[('3', 6)]|
+
+SB |[('1', 18)]|
+
+Thyroglobuline |[('Clone', 6)]|
+
+2H11 |[('6', 6)]|
+
+E1 |[('Cellmarque', 6)]|
+
+Cellmarque |[('1', 6)]|
+
+positif |[('CONCLUSION', 6), ('D2', 4), ('TTF1', 4), ('Calrétinine', 4), ('WT1', 4), ('CDX', 4)]|
+
+THYROÏDE |[('thyroïdectomie', 6)]|
+
+pelin |[('parenchyme', 6)]|
+
+thyroidienne |[('dont', 6)]|
+
+léxérèse |[('complète', 6)]|
+
+Hyperplasie |[('vésiculaire', 6), ('fovéolaire', 4)]|
+
+moleculaire |[('cours', 6)]|
+
+BRAF |[('RENSEIGNEMENTS', 6)]|
+
+Greffé |[('rénale', 4)]|
+
+atcd |[('RGO', 4)]|
+
+RGO |[('AEG', 4)]|
+
+AEG |[('anorexie', 4)]|
+
+anorexie |[('sans', 4)]|
+
+dysphagie |[('1', 4)]|
+
+Antre |[('petite', 8), ('grande', 8), ('2', 4), ('3', 4)]|
+
+Gros |[('pli', 4)]|
+
+pli |[('pylorique', 4)]|
+
+pylorique |[('3', 4)]|
+
+Fundus |[('EXAMEN', 8), ('petite', 8), ('grande', 8)]|
+
+dédifférenciée |[('cellules', 4)]|
+
+uniformément |[('basophiles', 4)]|
+
+mucosecrétion |[('diminuée', 4)]|
+
+diminuée |[('La', 4)]|
+
+augmentée |[('sans', 4)]|
+
+critère |[('dysplasie', 4)]|
+
+dysplasie |[('Absence', 8), ('Il', 4), ('ni', 4), ('Les', 4)]|
+
+oedémateux |[('dépourvu', 4), ('non', 4), ('Dans', 4)]|
+
+Coloration |[('Whartin', 12)]|
+
+Whartin |[('Starry', 12)]|
+
+mucipare |[('bien', 4)]|
+
+différenciées |[('sans', 4), ('Le', 4), ('type', 4)]|
+
+visibles |[('3', 4), ('glande', 4), ('ETUDE', 4)]|
+
+Sous |[('épithélium', 4), ('revêtement', 2)]|
+
+fermé |[('bien', 4)]|
+
+différencié |[('glandes', 4)]|
+
+histologiquement |[('normale', 6), ('normales', 4), ('lésion', 4)]|
+
+fines |[('0', 8), ('CONCLUSION', 4), ('lanières', 2)]|
+
+régénératif |[('muqueuse', 4)]|
+
+cicatriciel |[('Pas', 4)]|
+
+ulcèration |[('Absence', 4)]|
+
+helicobacter |[('2', 4), ('3', 4), ('RENSEIGNEMENTS', 4)]|
+
+PYLORE |[('Hyperplasie', 4)]|
+
+fovéolaire |[('antrale', 4), ('ailleurs', 2)]|
+
+polypoïde |[('Pas', 4)]|
+
+Hélicobacter |[('Pylori', 8)]|
+
+Pylori |[('3', 4), ('RENSEIGNEMENTS', 4), ('ensemble', 4)]|
+
+consulte |[('prurit', 4)]|
+
+prurit |[('généralisé', 4)]|
+
+généralisé |[('notion', 4)]|
+
+notion |[('psoriasis', 4)]|
+
+psoriasis |[('patient', 4), ('pemphigoide', 4), ('PB', 4), ('pemphigoïde', 4)]|
+
+IRC |[('lésion', 4)]|
+
+MI |[('eczéma', 4), ('gauche', 4)]|
+
+eczéma |[('stase', 12)]|
+
+stase |[('psoriasis', 12)]|
+
+pemphigoide |[('bulleuse', 4)]|
+
+bulleuse |[('atypique', 4), ('CONCLUSION', 4)]|
+
+lymphome |[('principe', 4), ('cutané', 4), ('EXAMEN', 4), ('Hodgkin', 4)]|
+
+principe |[('Lymphome', 4)]|
+
+Lymphome |[('zone', 8), ('cutané', 4)]|
+
+PB |[('MI', 4)]|
+
+MICROSCOCOPIQUE |[('A', 4)]|
+
+psoriasiforme |[('parakératose', 4)]|
+
+parakératose |[('très', 4)]|
+
+prédominant |[('niveau', 4)]|
+
+crêtes |[('épidermique', 4)]|
+
+microabcès |[('Au', 4)]|
+
+arteriole |[('niveau', 4)]|
+
+papille |[('dermique', 4)]|
+
+accompagné |[('infiltrat', 4)]|
+
+Cet |[('infiltrat', 4)]|
+
+réticulaire |[('localisation', 4)]|
+
+périvasculaire |[('sans', 6), ('immunohistochimie', 4)]|
+
+immunohistochimie |[('A', 6), ('CD2', 4), ('confirme', 2)]|
+
+CD2 |[('CD3', 4)]|
+
+CD4 |[('CD5', 4)]|
+
+CD5 |[('CD8', 4)]|
+
+CD8 |[('morphologie', 4)]|
+
+morphologie |[('apporte', 4)]|
+
+apporte |[('argument', 4)]|
+
+retient |[('argument', 4)]|
+
+formelle |[('eczéma', 4)]|
+
+pemphigoïde |[('bulleuse', 4)]|
+
+Dermite |[('chronique', 4)]|
+
+insufisance |[('veineuse', 4)]|
+
+veineuse |[('RENSEIGNEMENTS', 4)]|
+
+Transplanté |[('hépatique', 4)]|
+
+hépatique |[('gène', 4), ('EXAMEN', 2)]|
+
+gène |[('épigastrique', 4)]|
+
+épigastrique |[('nausées', 4)]|
+
+nausées |[('sans', 4)]|
+
+vomissement |[('1', 4)]|
+
+Duodénum |[('2', 4)]|
+
+dessinées |[('revêtues', 4)]|
+
+Lieberkühn |[('nombreuses', 4)]|
+
+nettement |[('congestif', 4)]|
+
+congestif |[('2', 4), ('oedémateux', 4)]|
+
+normalement |[('différenciées', 4)]|
+
+antrofundique |[('intermédiaire', 4), ('normale', 4)]|
+
+longues |[('peu', 4)]|
+
+ramifiées |[('Il', 4)]|
+
+trame |[('collagène', 4)]|
+
+multiples |[('distensions', 4)]|
+
+distensions |[('kystiques', 4)]|
+
+kystiques |[('visibles', 4)]|
+
+kystisation |[('glandes', 4)]|
+
+associée |[('atrophie', 4)]|
+
+devient |[('cubique', 4)]|
+
+Autour |[('autres', 4)]|
+
+polype |[('Coloration', 4)]|
+
+villositaire |[('RENSEIGNEMENTS', 6), ('Absence', 4)]|
+
+parasite |[('2', 4)]|
+
+Ectasies |[('glandulaires', 4)]|
+
+Ponction |[('transpariétale', 12), ('coaxiale', 8), ('aiguille', 4)]|
+
+transpariétale |[('sous', 20)]|
+
+TDM |[('1', 12), ('Absence', 8)]|
+
+masse |[('pleurale', 4), ('thoracique', 4)]|
+
+pleurale |[('droite', 8)]|
+
+Masse |[('circonférentielle', 4)]|
+
+circonférentielle |[('pleurale', 4)]|
+
+épanchement |[('récidivant', 4)]|
+
+récidivant |[('Ponction', 4)]|
+
+aiguille |[('coaxiale', 4)]|
+
+coaxiale |[('20G', 8), ('18G', 4)]|
+
+18G |[('niveau', 4)]|
+
+thoracique |[('droite', 4)]|
+
+envahissant |[('paroi', 4)]|
+
+paroi |[('4', 4), ('vésiculaire', 2)]|
+
+Nature |[('lésion', 4)]|
+
+Mésothéliome |[('Métastase', 4)]|
+
+Métastase |[('EXAMEN', 4)]|
+
+maligne |[('constituée', 4)]|
+
+polyédriques |[('cytoplasme', 4)]|
+
+acidophile |[('renfermant', 4)]|
+
+ovoïdes |[('hyper', 4)]|
+
+chromatiques |[('dotés', 4)]|
+
+dotés |[('deux', 4)]|
+
+nucléoles |[('proéminents', 4), ('éosinophiles', 4)]|
+
+proéminents |[('Ces', 4)]|
+
+irrégulières |[('ménageant', 4)]|
+
+ménageant |[('entre', 4)]|
+
+espaces |[('alvéolaires', 16), ('intercellulaires', 4), ('séparants', 2)]|
+
+intercellulaires |[('a', 4)]|
+
+véritable |[('atypie', 8), ('foyer', 8), ('cavité', 4)]|
+
+D2 |[('40', 8)]|
+
+ACE |[('Monoclonal', 4)]|
+
+Monoclonal |[('Clone', 4)]|
+
+II |[('7', 4)]|
+
+CD15 |[('Clone', 8), ('elles', 4)]|
+
+HI98 |[('BD', 8)]|
+
+BD |[('1', 8)]|
+
+Calrétinine |[('Poly', 4)]|
+
+Poly |[('Cell', 4)]|
+
+WT1 |[('Clone', 4)]|
+
+6F |[('H2', 4)]|
+
+H2 |[('Cell', 8)]|
+
+PLEVRE |[('DROITE', 4)]|
+
+mésothéliome |[('malin', 4)]|
+
+malin |[('essentiellement', 4)]|
+
+essentiellement |[('constitué', 4)]|
+
+épithélioïdes |[('Le', 4)]|
+
+cas |[('envoyé', 4)]|
+
+relecture |[('groupe', 4)]|
+
+groupe |[('MésopathRENSEIGNEMENTS', 4)]|
+
+MésopathRENSEIGNEMENTS |[('CLINIQUES', 4)]|
+
+Volumineux |[('hématome', 6), ('complexe', 4)]|
+
+complexe |[('ganglionnaire', 4)]|
+
+ganglionnaire |[('cervico', 4), ('montrant', 4), ('Dans', 4), ('fait', 4), ('effet', 2)]|
+
+cervico |[('médiastinale', 4)]|
+
+médiastinale |[('altération', 4)]|
+
+arrivé |[('état', 4)]|
+
+Des |[('prélèvements', 6), ('lames', 4)]|
+
+congelés |[('tumorothèque', 4)]|
+
+tumorothèque |[('merci', 8), ('Des', 4)]|
+
+empreintes |[('envoyées', 4)]|
+
+envoyées |[('EFS', 4)]|
+
+EFS |[('EXAMEN', 4)]|
+
+montrant |[('périphérie', 4)]|
+
+épaississement |[('fibreux', 4)]|
+
+découpant |[('parenchyme', 4)]|
+
+Dans |[('travées', 4), ('certains', 4)]|
+
+repérés |[('Le', 4)]|
+
+fond |[('petits', 4), ('principalement', 4)]|
+
+renferment |[('places', 4)]|
+
+places |[('cellules', 4), ('petits', 4)]|
+
+faiblement |[('éosinophile', 4)]|
+
+uni |[('plurilobé', 4)]|
+
+plurilobé |[('volumineux', 4)]|
+
+clarifiée |[('nucléoles', 4)]|
+
+CD79 |[('Clone', 4), ('repèrent', 4)]|
+
+JCB |[('117', 4)]|
+
+117 |[('Cell', 4)]|
+
+MArque |[('1', 4)]|
+
+EBV |[('LMP1', 4), ('ETUDE', 4), ('Roche', 4), ('négatif', 4)]|
+
+LMP1 |[('clone', 4)]|
+
+cs1 |[('2', 4)]|
+
+pur |[('ALK', 4), ('MUM', 4)]|
+
+Alk |[('1', 4)]|
+
+MUM |[('1', 4)]|
+
+43 |[('Cell', 4)]|
+
+CD30 |[('Clone', 4), ('façon', 4)]|
+
+CD20 |[('Clone', 12), ('CD79', 4)]|
+
+L26 |[('BIO', 12)]|
+
+expriment |[('CD30', 4), ('également', 4)]|
+
+MUM1 |[('Par', 4)]|
+
+contre |[('voit', 4), ('indiquant', 2)]|
+
+voit |[('marquage', 8)]|
+
+repèrent |[('population', 4)]|
+
+formant |[('places', 4)]|
+
+follicules |[('La', 4)]|
+
+principalement |[('T', 4)]|
+
+T |[('exprimant', 4), ('B', 4), ('A', 2)]|
+
+exprimant |[('CD3', 4)]|
+
+ALK1 |[('EMA', 4)]|
+
+HYBRIDATION |[('IN', 4)]|
+
+IN |[('SITU', 4)]|
+
+SITU |[('SUR', 4)]|
+
+Sonde |[('EBER', 4)]|
+
+EBER |[('Inform', 4)]|
+
+Inform |[('EBV', 4)]|
+
+Réf |[('5278660001', 4)]|
+
+5278660001 |[('négative', 4)]|
+
+GANGLION |[('CERVICAL', 4)]|
+
+CERVICAL |[('biopsie', 4)]|
+
+morphologiques |[('immunohistochimiques', 4)]|
+
+immunohistochimiques |[('faveur', 4)]|
+
+Hodgkin |[('classique', 4)]|
+
+classique |[('scléronodulaire', 4), ('extensions', 4), ('non', 4)]|
+
+scléronodulaire |[('EBV', 4)]|
+
+Cas |[('enregistré', 4)]|
+
+enregistré |[('réseau', 4)]|
+
+réseau |[('Lymphopath', 4)]|
+
+Lymphopath |[('RENSEIGNEMENTS', 4)]|
+
+Mastectomie |[('curage', 2)]|
+
+curage |[('axillaire', 2), ('réalisé', 2), ('2', 2)]|
+
+axillaire |[('gauche', 2), ('EXAMEN', 2)]|
+
+RE8T |[('RP', 2)]|
+
+Tufocal |[('UQE', 2)]|
+
+UQE |[('lésion', 4), ('33', 2)]|
+
+33 |[('mm', 2)]|
+
+QSI |[('11', 2), ('QSE', 2)]|
+
+GS |[('2', 2)]|
+
+chimio |[('neoadjuvante', 2)]|
+
+neoadjuvante |[('2', 2)]|
+
+Curage |[('axillaire', 2)]|
+
+421 |[('g', 2)]|
+
+indurée |[('mal', 2)]|
+
+étendant |[('quart', 2)]|
+
+quart |[('infero', 2)]|
+
+infero |[('externe', 2)]|
+
+indurées |[('situées', 2)]|
+
+QIE |[('lésion', 2), ('mésurée', 2)]|
+
+retromammelonaire |[('lésion3', 2), ('mesurée', 2)]|
+
+lésion3 |[('Elle', 2)]|
+
+située |[('plus', 2)]|
+
+différentes |[('zones', 4), ('berges', 2)]|
+
+berges |[('chirurgicales', 2)]|
+
+réalisées |[('différentes', 2), ('zones', 2)]|
+
+séparants |[('différentes', 2)]|
+
+titre |[('systematique', 2)]|
+
+systematique |[('mammelon', 2)]|
+
+mammelon |[('prélevé', 2)]|
+
+échantillonage |[('QIS', 2)]|
+
+QIS |[('QES', 2)]|
+
+QES |[('a', 2)]|
+
+réalisé |[('curage', 2), ('a', 2)]|
+
+permis |[('identifier', 2)]|
+
+identifier |[('11', 2)]|
+
+ganglions |[('lymphatiques', 2), ('prélevés', 2)]|
+
+mésurée |[('2', 2)]|
+
+oedémateuse |[('parsemée', 6)]|
+
+fins |[('capillaires', 6)]|
+
+représentant |[('0', 4)]|
+
+vésiculeux |[('augmentés', 4)]|
+
+discrètes |[('sous', 2)]|
+
+respectivement |[('Les', 2)]|
+
+marges |[('toutes', 2)]|
+
+toutes |[('supracentimetriques', 2)]|
+
+supracentimetriques |[('ETUDE', 2)]|
+
+Ultra |[('E', 2)]|
+
+Cadhérine |[('Clone', 6), ('in', 4)]|
+
+NCH38 |[('Dako', 6)]|
+
+résiduelles |[('CLASSIFICATION', 2)]|
+
+CLASSIFICATION |[('DE', 2)]|
+
+REPONSE |[('HISTOLOGIQUE', 2)]|
+
+SELON |[('LES', 4)]|
+
+CRITERES |[('DE', 4)]|
+
+SATALOFF |[('DEFINITION', 2), ('Effet', 2)]|
+
+DEFINITION |[('DES', 2)]|
+
+REPONSES |[('HISTOLOGIQUES', 2)]|
+
+HISTOLOGIQUES |[('SELON', 2)]|
+
+Effet |[('thérapeutique', 4)]|
+
+thérapeutique |[('Apparition', 8), ('complet', 4), ('basé', 2), ('0', 2)]|
+
+basé |[('modifications', 2)]|
+
+microscopiques |[('présence', 2)]|
+
+fibroplasie |[('oui', 2)]|
+
+myxoïdes |[('oui', 2)]|
+
+hémorragies |[('non', 2)]|
+
+hémosidérine |[('oui', 2)]|
+
+mousseux |[('sans', 2)]|
+
+polymorphe |[('oui', 2)]|
+
+Subjectivement |[('supérieur', 2)]|
+
+complet |[('presque', 4), ('lésion', 2), ('Ganglion', 2)]|
+
+presque |[('complet', 4)]|
+
+Ganglion |[('lymphatique', 2)]|
+
+massive |[('CONCLUSION', 2)]|
+
+métastases |[('ganglionnaires', 2)]|
+
+ganglionnaires |[('0', 2)]|
+
+ypT2N0 |[('Sataloff', 2)]|
+
+Cholécystectomie |[('colique', 2), ('froid', 2)]|
+
+colique |[('hépatique', 2)]|
+
+Vésicule |[('biliaire', 4), ('fraise', 2)]|
+
+biliaire |[('8', 2), ('7', 2)]|
+
+fermée |[('sans', 2)]|
+
+calcul |[('EXAMEN', 2), ('Paroi', 2)]|
+
+amincie |[('très', 2)]|
+
+musculeuse |[('ainsi', 2)]|
+
+VESICULE |[('BILIAIRE', 4)]|
+
+BILIAIRE |[('cholécystectomie', 4)]|
+
+cholécystectomie |[('discrète', 2), ('permettent', 2), ('cholécystite', 2)]|
+
+cholécystite |[('chronique', 4)]|
+
+Arthralgies |[('inflammatoires', 2)]|
+
+xerostomie |[('xérophtalmie', 2)]|
+
+xérophtalmie |[('EXAMEN', 2)]|
+
+bloc1 |[('EXAMEN', 2)]|
+
+glanddes |[('salivaires', 2)]|
+
+salivaires |[('accessoires', 2)]|
+
+accessoires |[('représnetant', 2)]|
+
+représnetant |[('environ', 2)]|
+
+mm2 |[('parnchyme', 2)]|
+
+parnchyme |[('3', 2)]|
+
+ectasies |[('canalaires', 2)]|
+
+canalaires |[('Présence', 2)]|
+
+inflammaroires |[('lymphoplasmocytaires', 2)]|
+
+éparpillés |[('peu', 2)]|
+
+lymphoides |[('Absence', 2)]|
+
+dépots |[('amyloide', 2)]|
+
+amyloide |[('La', 2)]|
+
+Congo |[('négative', 2)]|
+
+ACCESSOIRE |[('biopsie', 4), ('1', 2)]|
+
+ed |[('signe', 2)]|
+
+histologiques |[('favuer', 2)]|
+
+favuer |[('syndrome', 2)]|
+
+EXTEMPO |[('Hyperparathyroidisme', 2)]|
+
+Hyperparathyroidisme |[('primaire', 2)]|
+
+primaire |[('aspect', 2)]|
+
+P3 |[('gauche', 2), ('examen', 2)]|
+
+Est |[('bien', 2)]|
+
+parathyroidien |[('EXAMEN', 2)]|
+
+273 |[('4mg', 2)]|
+
+4mg |[('EXAMEN', 2)]|
+
+Résultat |[('communiqué', 2)]|
+
+communiqué |[('BOUVIEZ', 2)]|
+
+BOUVIEZ |[('Présence', 2)]|
+
+parathyroïde |[('pathologique', 2)]|
+
+pathologique |[('EXAMEN', 2)]|
+
+parrafine |[('confirme', 2)]|
+
+congélation |[('fragment', 2)]|
+
+parathyroïdien |[('architecture', 2), ('RENSEIGNEMENTS', 2)]|
+
+principales |[('séparées', 2)]|
+
+séparées |[('cloisons', 2)]|
+
+cloisons |[('conjonctivo', 2)]|
+
+adypocytes |[('rares', 2)]|
+
+Parathyroïde |[('P3', 2)]|
+
+BSGA |[('Syndrome', 2)]|
+
+lobules |[('prolifération', 4), ('montrent', 2)]|
+
+montrent |[('agent', 8), ('muqueuse', 4), ('lésion', 2)]|
+
+marginale |[('diagnostic', 8), ('13', 6)]|
+
+condensation |[('bilatérale', 8)]|
+
+bilatérale |[('nodule', 8)]|
+
+pulmonaires |[('lacher', 8)]|
+
+lacher |[('ballon', 8)]|
+
+ballon |[('Ponction', 8)]|
+
+20G |[('niveau', 8)]|
+
+adressé |[('état', 18)]|
+
+infra |[('millimétriques', 16)]|
+
+millimétriques |[('Une', 8), ('Il', 8)]|
+
+gardé |[('congelé', 8)]|
+
+congelé |[('tumorothèque', 8)]|
+
+merci |[('informer', 8), ('voir', 2)]|
+
+informer |[('patiente', 8)]|
+
+assurer |[('non', 8)]|
+
+opposition |[('Après', 8)]|
+
+interstitium |[('plus', 8)]|
+
+élargit |[('tissu', 8)]|
+
+parsemé |[('assez', 8)]|
+
+granulomes |[('épithélioides', 16)]|
+
+épithélioides |[('focalement', 8), ('gigantocellualires', 8)]|
+
+gigantocellulaires |[('plus', 8)]|
+
+formés |[('sans', 8)]|
+
+Ziels |[('montrent', 8)]|
+
+agent |[('pathogène', 16)]|
+
+pathogène |[('Les', 8), ('identifiable', 8)]|
+
+alvéolaires |[('résiduels', 8), ('comportent', 8)]|
+
+résiduels |[('bordés', 8)]|
+
+bordés |[('épithélium', 8)]|
+
+pneumocytaire |[('cubique', 8)]|
+
+cytonucléaire |[('Les', 8)]|
+
+comportent |[('assez', 8)]|
+
+spumeux |[('Parfois', 8)]|
+
+Parfois |[('présence', 8)]|
+
+foyer |[('fibroblastique', 8), ('microcalcification', 4)]|
+
+examinées |[('a', 8), ('6', 4)]|
+
+10h00 |[('CK', 8)]|
+
+CD68 |[('Clone', 8)]|
+
+PGM1 |[('Dako', 8)]|
+
+processus |[('tumoral', 12)]|
+
+POUMON |[('NODULE', 8)]|
+
+NODULE |[('DU', 8)]|
+
+LOBE |[('INFERIEUR', 8)]|
+
+gigantocellualires |[('sans', 8)]|
+
+Césarienne |[('37', 6)]|
+
+37 |[('SA', 12)]|
+
+programmée |[('39', 6)]|
+
+39 |[('délais', 6)]|
+
+délais |[('césa', 6)]|
+
+césa |[('début', 6)]|
+
+mois |[('mise', 6)]|
+
+mise |[('travail', 6)]|
+
+travail |[('M', 6)]|
+
+2380 |[('g', 6)]|
+
+Ap |[('10', 6)]|
+
+pHa |[('7', 6)]|
+
+lact |[('2', 6), ('1', 6)]|
+
+pHv |[('7', 6)]|
+
+9ème |[('percentile', 6)]|
+
+percentile |[('courbe', 6)]|
+
+courbe |[('Audipog', 6)]|
+
+Audipog |[('EXAMEN', 6)]|
+
+290 |[('g', 6)]|
+
+450 |[('g', 6)]|
+
+sanguine |[('marginale', 6)]|
+
+13 |[('x', 6)]|
+
+vidée |[('surélevant', 6)]|
+
+surélevant |[('plaque', 6)]|
+
+hématome |[('marginal', 12)]|
+
+paracentrale |[('cordon', 6)]|
+
+infarctus |[('centraux', 6), ('apparaissent', 6), ('différents', 6)]|
+
+centraux |[('3', 6)]|
+
+blancs |[('1', 6)]|
+
+différents |[('âges', 12)]|
+
+âges |[('constitution', 6), ('signes', 6)]|
+
+constitution |[('souvent', 6)]|
+
+majorés |[('périphérie', 6)]|
+
+NIDF |[('nécrose', 6)]|
+
+fibrinoïde |[('Il', 6)]|
+
+funiculaire |[('Les', 8)]|
+
+diffusément |[('hypotrophiques', 6)]|
+
+hypotrophiques |[('congestives', 6)]|
+
+congestives |[('elles', 6)]|
+
+accompagnent |[('excès', 6)]|
+
+diffus |[('amas', 6)]|
+
+nucléaires |[('syncytiotrophoblastiques', 6)]|
+
+syncytiotrophoblastiques |[('CONCLUSION', 6)]|
+
+signes |[('hypoxie', 6)]|
+
+hypoxie |[('ischémie', 6)]|
+
+ischémie |[('villositaire', 6)]|
+
+4ème |[('foyer', 4), ('FOYER', 4)]|
+
+microcalcification |[('sein', 4)]|
+
+QII |[('paramamelonnaire', 4), ('PARA', 4)]|
+
+paramamelonnaire |[('Dernière', 4)]|
+
+Dernière |[('biopsie', 4)]|
+
+Métaplasie |[('cylindrique', 4)]|
+
+hyperpalsie |[('lobulaire', 4)]|
+
+10G |[('µcal', 4)]|
+
+µcal |[('prélèvements', 4)]|
+
+radio |[('controle', 4)]|
+
+controle |[('nature', 4)]|
+
+adipeux |[('prélevé', 4)]|
+
+2c |[('EXAMEN', 4)]|
+
+macro |[('biopsies', 8)]|
+
+étages |[('emportant', 6), ('On', 4)]|
+
+volumineuses |[('sein', 4)]|
+
+dilatées |[('canalicules', 4)]|
+
+canalicules |[('métaplasie', 4), ('Absence', 4)]|
+
+où |[('noyaux', 4), ('retrouve', 2)]|
+
+ascensionnent |[('toute', 4)]|
+
+associe |[('sein', 4)]|
+
+phénomènes |[('métaplasie', 4)]|
+
+réactive |[('anticorps', 4)]|
+
+dilatation |[('modérée', 4)]|
+
+entres |[('cadre', 4)]|
+
+cadre |[('lésion', 4)]|
+
+extensions |[('pagétoïdes', 4)]|
+
+pagétoïdes |[('revêtement', 4)]|
+
+PARA |[('MAMELONNAIRE', 4)]|
+
+MAMELONNAIRE |[('4ème', 4)]|
+
+FOYER |[('macro', 4)]|
+
+Valve |[('aortique', 8), ('mitrale', 4)]|
+
+aortique |[('EXAMEN', 4), ('reçu', 2), ('reçue', 2)]|
+
+reçu |[('fragment', 2)]|
+
+transmis |[('service', 6)]|
+
+Bactériologie |[('fixée', 6)]|
+
+vue |[('examen', 6)]|
+
+calcifiée |[('EXAMEN', 2)]|
+
+valve |[('montre', 2), ('effaçant', 2)]|
+
+VALVE |[('AORTIQUE', 4), ('MITRALE', 2)]|
+
+AORTIQUE |[('biopsie', 2), ('Fibrose', 2)]|
+
+mitrale |[('2', 2), ('reçue', 2)]|
+
+4cm |[('grand', 2)]|
+
+épaississant |[('squelette', 2)]|
+
+squelette |[('valvulaire', 2)]|
+
+valvulaire |[('déformant', 2)]|
+
+déformant |[('valve', 2)]|
+
+effaçant |[('spongieuse', 2)]|
+
+spongieuse |[('Cette', 2)]|
+
+épais |[('faisceaux', 2)]|
+
+faisceaux |[('collagène', 2)]|
+
+hyalinisés |[('focalement', 2)]|
+
+calcifiés |[('Il', 2)]|
+
+néovaisseaux |[('CONCLUSION', 2)]|
+
+MITRALE |[('2', 2)]|
+
+Fibrose |[('RENSEIGNEMENTS', 2)]|
+
+Circonstances |[('cliniques', 2)]|
+
+cliniques |[('biologiques', 12), ('syndrome', 2)]|
+
+étagés |[('colorés', 2)]|
+
+colorés |[('technique', 2)]|
+
+vu |[('non', 2)]|
+
+dépot |[('amorphe', 2)]|
+
+limites |[('matériel', 4), ('normale', 2)]|
+
+premieres |[('biopsies', 4)]|
+
+concernent |[('muqueuse', 4)]|
+
+antro |[('fundique', 8)]|
+
+phenomenes |[('inflammatoires', 4)]|
+
+legeres |[('moderes', 4)]|
+
+moderes |[('sans', 4)]|
+
+lesion |[('metaplasie', 4)]|
+
+metaplasie |[('intestinale', 4)]|
+
+dernieres |[('biopsies', 4)]|
+
+érosion |[('revêtement', 4)]|
+
+laissant |[('nu', 4)]|
+
+nu |[('chorion', 4)]|
+
+endroits |[('observe', 4)]|
+
+materiel |[('La', 4)]|
+
+Warthy |[('Starry', 4)]|
+
+pratiquée |[('met', 4)]|
+
+gastrite |[('chronique', 6)]|
+
+legere |[('moderée', 4)]|
+
+moderée |[('sans', 4)]|
+
+Helycobacter |[('pylori', 4)]|
+
+fundite |[('superficielle', 4)]|
+
+érosive |[('Absence', 4)]|
+
+Membrane |[('amniotique', 2), ('a', 2)]|
+
+amniotique |[('64170275625', 2), ('claire', 2), ('apparait', 2)]|
+
+64170275625 |[('Contrôle', 2), ('contrôle', 2)]|
+
+Disque |[('nitrocellulose', 2)]|
+
+nitrocellulose |[('5', 2), ('2', 2)]|
+
+lequel |[('tendu', 2)]|
+
+tendu |[('film', 2)]|
+
+film |[('membrane', 2)]|
+
+claire |[('non', 2)]|
+
+teintée |[('translucide', 2)]|
+
+translucide |[('Prélèvement', 2)]|
+
+lanières |[('examen', 2)]|
+
+Orientation |[('membrane', 2)]|
+
+apposée |[('disque', 2)]|
+
+disque |[('nitrocellulose', 2)]|
+
+Etat |[('structures', 2)]|
+
+desquame |[('montre', 2)]|
+
+anomalie |[('nucléaire', 2)]|
+
+régulière |[('continue', 2)]|
+
+réticuline |[('Le', 2)]|
+
+avasculaire |[('renferme', 2)]|
+
+méconial |[('macrophage', 2)]|
+
+macrophage |[('excès', 2)]|
+
+bactérie |[('élément', 2)]|
+
+anormal |[('3', 2)]|
+
+17P1890 |[('montre', 2)]|
+
+aucune |[('lésion', 2)]|
+
+indiquant |[('utilisation', 2)]|
+
+utilisation |[('don', 2)]|
+
+don |[('membranes', 2)]|
+
+MEMBRANE |[('AMNIOTIQUE', 2)]|
+
+AMNIOTIQUE |[('64170275625', 2)]|
+
+Bonne |[('orientation', 2)]|
+
+orientation |[('membrane', 2)]|
+
+bon |[('état', 2)]|
+
+tissus |[('Absence', 2)]|
+
+priori |[('conforme', 2)]|
+
+conforme |[('RENSEIGNEMENTS', 2)]|
+
+compresse |[('fraiche', 6)]|
+
+fraiche |[('biopsie', 6), ('ouverte', 2)]|
+
+mollet |[('droit', 6)]|
+
+urticariennes |[('fièvre', 6)]|
+
+fièvre |[('arthralgies', 6)]|
+
+arthralgies |[('suspicion', 6)]|
+
+vascularite |[('mastocytose', 6)]|
+
+mastocytose |[('EXAMEN', 6)]|
+
+aérée |[('Absence', 6)]|
+
+mastocyte |[('montre', 6)]|
+
+situation |[('périvasculaire', 6)]|
+
+complètement |[('méconnues', 6)]|
+
+méconnues |[('HES', 6)]|
+
+mastocytaire |[('surreprésentée', 12)]|
+
+surreprésentée |[('A', 6), ('identifiée', 6)]|
+
+confronter |[('données', 12)]|
+
+biologiques |[('CONCLUSION', 6), ('RENSEIGNEMENTS', 6)]|
+
+MOLLET |[('DROIT', 6)]|
+
+identifiée |[('immunohistochimie', 6), ('merci', 2)]|
+
+froid |[('après', 2)]|
+
+pancréatite |[('aigue', 2)]|
+
+aigue |[('EXAMEN', 2), ('Absence', 2)]|
+
+Reçue |[('fraiche', 2)]|
+
+ouverte |[('sans', 2)]|
+
+Paroi |[('épaisse', 2)]|
+
+épaisse |[('oui', 2)]|
+
+fraise |[('oui', 2)]|
+
+Collet |[('visible', 2)]|
+
+Réserve |[('oui', 2)]|
+
+recoupes |[('effectuées', 2)]|
+
+effectuées |[('cette', 2)]|
+
+permettent |[('découvrir', 2)]|
+
+découvrir |[('muqueuse', 2)]|
+
+décrit |[('diverticules', 2)]|
+
+diverticules |[('rokitansky', 2)]|
+
+rokitansky |[('Aschoff', 2)]|
+
+Aschoff |[('amputant', 2)]|
+
+amputant |[('tuniques', 2)]|
+
+tuniques |[('musculeuses', 2)]|
+
+musculeuses |[('Il', 2), ('tissu', 2)]|
+
+périmusculaire |[('Il', 2)]|
+
+suspect |[('malignité', 2)]|
+
+anastomose |[('gastrojéjunale', 2)]|
+
+gastrojéjunale |[('2', 2)]|
+
+chacun |[('0', 2)]|
+
+tantôt |[('type', 4)]|
+
+identification |[('glandes', 2), ('quelques', 2)]|
+
+intestin |[('grêle', 4)]|
+
+grêle |[('identification', 2), ('sans', 2)]|
+
+ulcération |[('limites', 4)]|
+
+polynucléaire |[('neutrophile', 6)]|
+
+neutrophile |[('métaplasie', 4), ('Le', 2)]|
+
+musculaire |[('muqueuse', 2)]|
+
+ANASTOMOSE |[('GASTROJEJUNALE', 2)]|
+
+GASTROJEJUNALE |[('biopsies', 2)]|
+
+active |[('Pas', 2)]|
+
+bronchopathie |[('chronique', 2)]|
+
+oxygéno |[('dépendante', 2)]|
+
+dépendante |[('asthme', 2)]|
+
+asthme |[('maladie', 2)]|
+
+maladie |[('non', 2)]|
+
+Centrifugation |[('oui', 2)]|
+
+Histogel |[('oui', 2)]|
+
+cassette |[('EXAMEN', 2)]|
+
+ciliées |[('caliciformes', 2)]|
+
+modéré |[('prédominance', 2)]|
+
+prédominance |[('mononucléaires', 2)]|
+
+mononucléaires |[('Pas', 2)]|
+
+Bronche |[('biopsie', 2)]|
+
+2ème |[('pare', 2)]|
+
+pare |[('Acct', 2)]|
+
+Acct |[('voie', 2)]|
+
+voie |[('basse', 2)]|
+
+basse |[('spontanée', 2)]|
+
+spontanée |[('36', 2)]|
+
+36 |[('SA', 4)]|
+
+Nouveau |[('né', 2)]|
+
+sexe |[('masculin', 2)]|
+
+masculin |[('3110', 2)]|
+
+3110 |[('g', 2)]|
+
+Apgar |[('10', 2)]|
+
+35 |[('Poids', 2)]|
+
+520 |[('g', 2)]|
+
+Indication |[('malformation', 2)]|
+
+malformation |[('majeure', 2)]|
+
+majeure |[('dysmorphie', 2)]|
+
+dysmorphie |[('imperforation', 2)]|
+
+imperforation |[('anale', 2)]|
+
+anale |[('suspicion', 2)]|
+
+trisomie |[('21', 2)]|
+
+425 |[('g', 2)]|
+
+433 |[('g', 2)]|
+
+immature |[('aspect', 2)]|
+
+hydropique |[('CONCLUSION', 2)]|
