@@ -1,8 +1,11 @@
 # coding: utf-8
 import nltk
-import os
-import csv
+from os import path
 
+EXPORT_FORMAT = 'sql' # or csv
+INPUT_FILE = '../data/data_reduced.html'
+OUTPUT_FILE = '../data/out.' + EXPORT_FORMAT.lower()
+TABLENAME = 'completion' # name of the database table (should have 2 columns)
 
 def make_ngram(tokens, N=2):
     arr_ngram = []
@@ -22,17 +25,18 @@ def calculate_frequency(arr_ngram):
         counts[token_seq][last_token] += 1
     return counts
 
-from nltk.corpus import stopwords
-stopWords = set(stopwords.words('french'))
+# from nltk.corpus import stopwords
+# stopWords = set(stopwords.words('french'))
+stopWords = []
 
 from bs4 import BeautifulSoup
 
-dirname = os.path.dirname(__file__)
-#filename = os.path.join(dirname, '../data/data_janvier_fevrier_2017.html')
-filename = os.path.join(dirname, '../data/data_reduced.html')
+dirname = path.dirname(__file__)
+#filename = path.join(dirname, '../data/data_janvier_fevrier_2017.html')
+filename = path.join(dirname, INPUT_FILE)
 
 
-dataRaw = open(filename, encoding="utf8")
+dataRaw = open(INPUT_FILE, encoding="utf8")
 
 soup = BeautifulSoup(dataRaw, 'html.parser')
 
@@ -73,15 +77,27 @@ for element in array:
     array[element] = temp
 
 
-fname = os.path.join(dirname, '../data/out.csv')
+fname = path.join(dirname, OUTPUT_FILE)
 file = open(fname, "w")
 
 try:
-    writer = csv.writer(file, delimiter=' ',
+    
+    if EXPORT_FORMAT.lower() == 'csv':
+        import csv
+
+        writer = csv.writer(file, delimiter=' ',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    writer.writerow(["Mots", "Voisins"])
-    for key,val in array.items():
-        writer.writerow((str(key),val))
+
+        writer.writerow(["Mots", "Voisins"])
+        for key,val in array.items():
+            writer.writerow((str(key),val))
+    else:
+        # MySQL support 'INSERT INTO table VALUES (1), (2), (3),
+        sql_insert_order = 'INSERT INTO {} VALUES'.format(TABLENAME)
+        for first_word,val in array.items():
+            followers = ','.join([element[0] for element in val])
+            sql_insert_order += '("{}","{}"),'.format(first_word, followers)
+        file.write(sql_insert_order[:-1])  # delete last coma
 
 finally:
     file.close()
