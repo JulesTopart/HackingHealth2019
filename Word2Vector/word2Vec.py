@@ -37,6 +37,8 @@ dataRaw = open(filename, encoding="utf8")
 soup = BeautifulSoup(dataRaw, 'html.parser')
 
 dataArray = soup.findAll('tr')
+
+print(dataArray)
 reportArray = []
 
 for k in dataArray:
